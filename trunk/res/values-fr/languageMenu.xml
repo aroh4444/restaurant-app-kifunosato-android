@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string name="id_51_name">Beef</string>
+	<string name="id_5101_name">Say Cheese</string>
+	<string name="id_5101_options_name">Type</string>
+	<string name="id_5101_option_0_name">Ala</string>
+	<string name="id_5101_option_1_name">Set</string>
+	<string name="id_5101_description">Sharp cheddar, sauteed onions, sauce x</string>
+	<string name="id_5101_instruction">	</string>
+	<string name="id_5101_ingredients"></string>
+	
+	<string name="id_5102_name">Say Cheese²</string>
+	<string name="id_5102_options_name">Type</string>
+	<string name="id_5102_option_0_name">Ala</string>
+	<string name="id_5102_option_1_name">Set</string>
+	<string name="id_5102_description">Double patty, sharp cheddar, sauteed onions, sauce x </string>
+	<string name="id_5102_instruction"></string>
+	<string name="id_5102_ingredients"></string>
+	
+	<string name="id_5103_name">Swisstake</string>
+	<string name="id_5103_options_name">Type</string>
+	<string name="id_5103_option_0_name">Ala</string>
+	<string name="id_5103_option_1_name">Set</string>
+	<string name="id_5103_description">Swiss cheese, shiitake &amp; enoki mushrooms, sauce x  </string>
+	<string name="id_5103_instruction"></string>
+	<string name="id_5103_ingredients">	</string>
+	
+	<string name="id_5104_name">A+</string>
+	<string name="id_5104_options_name">Type</string>
+	<string name="id_5104_option_0_name">Ala</string>
+	<string name="id_5104_option_1_name">Set</string>
+	<string name="id_5104_description">Sharp cheddar, caramelised onions, shiitake &amp; enoki mushrooms, A+ sauce</string>
+	<string name="id_5104_instruction"></string>
+	<string name="id_5104_ingredients"></string>
+	
+	<string name="id_5105_name">A++</string>
+	<string name="id_5105_options_name">Type</string>
+	<string name="id_5105_option_0_name">Ala</string>
+	<string name="id_5105_option_1_name">Set</string>
+	<string name="id_5105_description">Sharp cheddar, parmesan crisp, caramelised onions, shiitake &amp; enoki mushrooms, A+ sauce</string>
+	<string name="id_5105_instruction"></string>
+	<string name="id_5105_ingredients"></string>
+	
+	<string name="id_5106_name">Waterballoon</string>
+	<string name="id_5106_options_name">Type</string>
+	<string name="id_5106_option_0_name">Ala</string>
+	<string name="id_5106_option_1_name">Set</string>
+	<string name="id_5106_description">Sharp cheddar, lychee, salted watermelon, A+ sauce</string>
+	<string name="id_5106_instruction"></string>
+	<string name="id_5106_ingredients"></string>
+	
+	<string name="id_5107_name">Hangover</string>
+	<string name="id_5107_options_name">Type</string>
+	<string name="id_5107_option_0_name">Ala</string>
+	<string name="id_5107_option_1_name">Set</string>
+	<string name="id_5107_description">Crispy hashbrown, maple syrup, shiitake &amp; enoki mushrooms, sauce x</string>
+	<string name="id_5107_instruction"></string>
+	<string name="id_5107_ingredients"></string>		
+	
+	<string name="id_5108_name">Beautiful Mess 5.0</string>
+	<string name="id_5108_options_name">Type</string>
+	<string name="id_5108_option_0_name">Ala</string>
+	<string name="id_5108_option_1_name">Set</string>
+	<string name="id_5108_description">Sharp cheddar, fried portabellas, sunny side up, sauce x</string>
+	<string name="id_5108_instruction"></string>
+	<string name="id_5108_ingredients">Chicken, beans, Tamari Soy, Dill, Greens
+	</string>
+	
+	<string name="id_5109_name">Kick In the Face</string>
+	<string name="id_5109_options_name">Type</string>
+	<string name="id_5109_option_0_name">Ala</string>
+	<string name="id_5109_option_1_name">Set</string>
+	<string name="id_5109_description">Sharp cheddar, horseradish sauce, mustard grilled patty, jalapenos</string>
+	<string name="id_5109_instruction"></string>
+	<string name="id_5109_ingredients"></string>
+	
+	<string name="id_5110_name">Cthulhu</string>
+	<string name="id_5110_options_name">Type</string>
+	<string name="id_5110_option_0_name">Ala</string>
+	<string name="id_5110_option_1_name">Set</string>
+	<string name="id_5110_description">Sharp cheddar, kick sauce, fried oyster, evil cocktail sauce</string>
+	<string name="id_5110_instruction"></string>
+	<string name="id_5110_ingredients"></string>
+	
+	<string name="id_5111_name">Popeye the sailorman</string>
+	<string name="id_5111_options_name">Type</string>
+	<string name="id_5111_option_0_name">Ala</string>
+	<string name="id_5111_option_1_name">Set</string>
+	<string name="id_5111_description">Sharp cheddar, blackpepper mayo, cream spinach, egg yolk</string>
+	<string name="id_5111_instruction"></string>
+	<string name="id_5111_ingredients"></string>
+	
+	<string name="id_5112_name">The hulk</string>
+	<string name="id_5112_options_name">Type</string>
+	<string name="id_5112_option_0_name">Ala</string>
+	<string name="id_5112_option_1_name">Set</string>
+	<string name="id_5112_description">Swiss cheese, fried avocado, sunny side up, green salsa, kombu mayo</string>
+	<string name="id_5112_instruction"></string>
+	<string name="id_5112_ingredients"></string>
+	
+	<string name="id_5113_name">Elvis</string>
+	<string name="id_5113_options_name">Type</string>
+	<string name="id_5113_option_0_name">Ala</string>
+	<string name="id_5113_option_1_name">Set</string>
+	<string name="id_5113_description">Cheddar cheese, peanut butter &amp; blueberry jam, caramelised onions, A+ sauce</string>
+	<string name="id_5113_instruction"></string>
+	<string name="id_5113_ingredients"></string>
+	
+	<string name="id_5114_name">Fat Elvis</string>
+	<string name="id_5114_options_name">Type</string>
+	<string name="id_5114_option_0_name">Ala</string>
+	<string name="id_5114_option_1_name">Set</string>
+	<string name="id_5114_description">Doube patty, cheddar cheese, peanut butter &amp; blueberry jam, caramelised onions, A+ sauce</string>
+	<string name="id_5114_instruction"></string>
+	<string name="id_5114_ingredients"></string>
+	
+	<string name="id_5115_name">Bomb</string>
+	<string name="id_5115_options_name">Type</string>
+	<string name="id_5115_option_0_name">Ala</string>
+	<string name="id_5115_option_1_name">Set</string>
+	<string name="id_5115_description">Swiss cheese, sunny side up, fried onion rings, sriracha sauce, sauce x</string>
+	<string name="id_5115_instruction"></string>
+	<string name="id_5115_ingredients"></string>
+	
+	
+	<string name="id_21_name">Chicken</string>
+	<string name="id_2101_name">Sloppy bella/chic</string>
+	<string name="id_2101_options_name">Type</string>
+	<string name="id_2101_option_0_name">Ala</string>
+	<string name="id_2101_option_1_name">Set</string>
+	<string name="id_2101_description">Fried portabella/chicken, swiss cheese, chicken sloppy joe, sauce x</string>
+	<string name="id_2101_instruction"></string>
+	<string name="id_2101_ingredients"></string>
+	
+	<string name="id_2102_name">A+</string>
+	<string name="id_2102_options_name">Type</string>
+	<string name="id_2102_option_0_name">Ala</string>
+	<string name="id_2102_option_1_name">Set</string>
+	<string name="id_2102_description">Sharp cheddar, caramelised onions, grilled chicken shiitake &amp; enoki mushrooms, A+ sauce </string>
+	<string name="id_2102_instruction"></string>
+	<string name="id_2102_ingredients"></string>	
+	
+	<string name="id_2103_name">A++</string>
+	<string name="id_2103_description">Double patty grilled chicken, sharp cheddar, caramelised onions, shiitake &amp; enoki mushrooms, A+ sauce</string>
+	<string name="id_2103_options_name">Type</string>
+	<string name="id_2103_option_0_name">Ala</string>
+	<string name="id_2103_option_1_name">Set</string>
+	<string name="id_2103_instruction"></string>
+	<string name="id_2103_ingredients"></string>
+	
+	<string name="id_2104_name">Say Cheese</string>
+	<string name="id_2104_description">Sharp cheddar, grilled chicken, sauce x</string>
+	<string name="id_2104_options_name">Type</string>
+	<string name="id_2104_option_0_name">Ala</string>
+	<string name="id_2104_option_1_name">Set</string>
+	<string name="id_2104_instruction">	</string>
+	<string name="id_2104_ingredients"></string>
+
+	<string name="id_2105_name">Say Cheese²</string>
+	<string name="id_2105_description">Double patty grilled chicken, sharp cheddar, sauce x</string>
+	<string name="id_2105_options_name">Type</string>
+	<string name="id_2105_option_0_name">Ala</string>
+	<string name="id_2105_option_1_name">Set</string>
+	<string name="id_2105_instruction"></string>
+	<string name="id_2105_ingredients"></string>
+	
+	<string name="id_2109_name">Geisha</string>
+	<string name="id_2109_description">Sharp cheddar, fried chicken, apple cider vinegar, roasted sesame sauce, seaweed &amp; cucumber</string>
+	<string name="id_2109_options_name">Type</string>
+	<string name="id_2109_option_0_name">Ala</string>
+	<string name="id_2109_option_1_name">Set</string>
+	<string name="id_2109_instruction"></string>
+	<string name="id_2109_ingredients"></string>
+	
+	<string name="id_2110_name">Sarong</string>
+	<string name="id_2110_description">Lemongrass caramel, red onion slices, Japanese cucumber, grilled chicken, satay sauce, sauce x</string>
+	<string name="id_2110_options_name">Type</string>
+	<string name="id_2110_option_0_name">Ala</string>
+	<string name="id_2110_option_1_name">Set</string>
+	<string name="id_2110_instruction"></string>
+	<string name="id_2110_ingredients"></string>
+	
+	<string name="id_2106_name">Chicken &amp; Egg Dilemma</string>
+	<string name="id_2106_description">Fried chicken, sharp cheddar, eggscellent salad, sauce x</string>
+	<string name="id_2106_options_name">Type</string>
+	<string name="id_2106_option_0_name">Ala</string>
+	<string name="id_2106_option_1_name">Set</string>
+	
+	<string name="id_2107_name">Spicy Hawaiian 3.0 (mild/hot)</string>
+	<string name="id_2107_description">Grilled chicken, swiss cheese, red sauce, shiitake &amp; enoki mushrooms, pineapple ring	</string>
+	<string name="id_2107_options_name">Type</string>
+	<string name="id_2107_option_0_name">Ala</string>
+	<string name="id_2107_option_1_name">Set</string>
+	
+	<string name="id_2108_name">Curry Crunch</string>
+	<string name="id_2108_description">Crispy hashbrown, english curry mayo, sauce x
+	</string>
+	<string name="id_2108_options_name">Type</string>
+	<string name="id_2108_option_0_name">Ala</string>
+	<string name="id_2108_option_1_name">Set</string>
+	
+	<string name="id_22_name">Vegetarian</string>
+	<string name="id_2201_name">Vivien\'s Husband</string>
+	<string name="id_2201_description">Whole fried portabella, sharp cheddar, pineapple ring, mango mayo, sauce x
+	</string>	
+	<string name="id_2201_options_name">Type</string>
+	<string name="id_2201_option_0_name">Ala</string>
+	<string name="id_2201_option_1_name">Set</string>
+	<string name="id_2201_instruction">	</string>
+	<string name="id_2201_ingredients">	</string>
+	
+	<string name="id_2202_name">Shroom Shroom Shroom
+	</string>
+	<string name="id_2202_description">Whole grilled portabella, Shitake &amp; enoki mushroom, swiss cheese
+	</string>
+	<string name="id_2202_options_name">Type</string>
+	<string name="id_2202_option_0_name">Ala</string>
+	<string name="id_2202_option_1_name">Set</string>
+	<string name="id_2202_instruction"></string>
+	<string name="id_2202_ingredients"></string>	
+	
+	<string name="id_2205_name">Bella Luna
+	</string>
+	<string name="id_2205_description">Whole grilled portabella, cheddar, sauce X
+	</string>
+	<string name="id_2205_options_name">Type</string>
+	<string name="id_2205_option_0_name">Ala</string>
+	<string name="id_2205_option_1_name">Set</string>
+	
+	
+	<string name="id_24_name">Sides</string>
+	<string name="id_2401_name">Small Side of Fries</string>	
+	<string name="id_2401_description">
+	</string>
+	<string name="id_2401_instruction">
+	</string>
+	<string name="id_2401_ingredients">
+	</string>
+	<string name="id_2402_name">Awesome Fries (Full Basket)</string>	
+	<string name="id_2402_description">
+	</string>
+	<string name="id_2402_instruction">
+	</string>
+	<string name="id_2402_ingredients">
+	</string>
+	<string name="id_2403_name">Portabello Fries</string>	
+	<string name="id_2403_description">
+	</string>
+	<string name="id_2403_instruction">
+	</string>
+	<string name="id_2403_ingredients">
+	</string>
+	
+	
+
+	<string name="id_31_name">Add-Ons</string>
+	<string name="id_3103_name">Extra Patty (Chicken)</string>
+	<string name="id_3104_name">Extra Patty (Beef)</string>
+	<string name="id_3105_name">Hashbrown</string>
+	<string name="id_3106_name">Jalapenos</string>
+	<string name="id_3107_name">Fried Egg</string>
+	<string name="id_3108_name">Cheese (Cheddar/Swiss)</string>
+	<string name="id_3109_name">Caramelized Onions</string>
+	<string name="id_3110_name">Shiitake &amp; Enoki Mushrooms</string>
+	<string name="id_3111_name">Whole Portabello Mushroom</string>
+	<string name="id_3111_description">Grilled/Fried
+	</string>
+	<string name="id_3112_name">Fried Avocado</string>
+	<string name="id_3113_name">Pineapple</string>
+	
+	
+	
+	<string name="id_32_name">Drinks</string>
+	
+	<string name="id_3205_name">Bottomless Soda</string>
+	<string name="id_3205_description">Choice of Pepsi, Ice Lemon Tea, Revive, Mountain Dew and 7up
+	</string>
+	
+	<string name="id_3206_name">Mineral Water</string>
+	<string name="id_3207_name">juice_smooshi</string>
+	
+	
+</resources>

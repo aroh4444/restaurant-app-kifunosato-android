@@ -1,0 +1,1828 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string name="id_1_name">ENTRÉES</string>
+	<string name="id_101_name">APÉRITIF SNACK</string>
+	<string name="id_101_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_101_instruction">Utilisez n\'importe quel melon orange
+		ou
+		vert-chair pour cette salsa de fruits doux et piquant
+		et le
+		servir en apéritif avec des frites ou avec du poisson
+		grillé,
+		poulet ou porc.
+	</string>
+	<string name="id_101_ingredients">l\'huile d\'olive, de beurre non salé, l\'oignon,
+		la
+		carotte, haricots verts, champignons, bouillon de poulet,
+		de
+		pommes de terre, le sel et le poivre, le persil
+	</string>
+	<string name="id_101_options_name">partie</string>
+	<string name="id_101_option_0_name">ordinaire</string>
+	<string name="id_101_option_1_name">grand</string>
+	<string name="id_101_option_2_name">petit</string>
+	<string name="id_102_name">CALMARS PUFFS APÉRITIF</string>
+	<string name="id_102_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_102_instruction">Chauffer au moins 4 pouces d\'huile dans
+		une grande
+		casserole à fond épais ou un faitout ou une
+		friteuse-.
+		Hacher les filets de calmars en petits morceaux et
+		placez-le dans un bol moyen. Ajouter l\'oignon haché,
+		oignons
+		verts, fromage, oeuf, le persil, l\'ail,
+		sel et le poivre et bien
+		mélanger. Ajouter les miettes de pain
+		dans le mélange et la
+		forme en 1 boules 1/2-ounce.
+		Dredge les boules dans la farine de
+		craquelins et de poser sur une
+		une plaque à pâtisserie
+		recouverte de papier sulfurisé à la firme.
+		Soigneusement déposer
+		boules de calmars dans la friteuse et les faire frire jusqu\'à
+		coloration dorée.
+	</string>
+	<string name="id_102_ingredients">Huile végétale&gt;, Squid, oignon, l\'oeuf, l\'ail,
+		sel,
+		Pepper
+	</string>
+	<string name="id_102_options_name">partie</string>
+	<string name="id_102_option_0_name">ordinaire</string>
+	<string name="id_102_option_1_name">grand</string>
+	<string name="id_102_option_2_name">petit</string>
+	<string name="id_103_name">PAILLES AU FORMAGE</string>
+	<string name="id_103_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_103_instruction">Préchauffer le four à 450 degrés F (230
+		degrés C).
+		Dans un bol, mélanger le fromage et le beurre.
+		Mélanger dans le
+		la farine et de sel. Former le mélange en 6
+		boules. Rouler les boules
+		en minces "serpents". Couper chaque
+		«serpent» en 4 pailles.
+		Cuire les pailles pour environ 8
+		minutes, ou jusqu\'à coloration dorée
+	</string>
+	<string name="id_103_ingredients">Fromage Cheddar, Beurre, Sel, Farine de
+	</string>
+	<string name="id_103_options_name">partie</string>
+	<string name="id_103_option_0_name">ordinaire</string>
+	<string name="id_103_option_1_name">grand</string>
+	<string name="id_103_option_2_name">petit</string>
+	<string name="id_104_name">BOULES DE FORMAGE</string>
+	<string name="id_104_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_104_instruction">Dans un bol moyen, mélanger le fromage à
+		la crème, le fromage cheddar,
+		Fromage Monterey Jack, le poivron
+		vert, piment jalapeno, la sauce Worcestershire
+		la sauce et le
+		sel d\'ail. Mélangez le tout et former un mélange dans un
+		ballon.
+		Rouler en boule de coriandre et servir avec vos biscuits
+		préférés.
+	</string>
+	<string name="id_104_ingredients">Fromage cheddar, Fromage à la crème, Fromage Pepper
+		Jack,
+		Le poivron, Le sel
+	</string>
+	<string name="id_104_options_name">partie</string>
+	<string name="id_104_option_0_name">ordinaire</string>
+	<string name="id_104_option_1_name">grand</string>
+	<string name="id_104_option_2_name">petit</string>
+	<string name="id_105_name">CROUSTILLES DE PITA</string>
+	<string name="id_105_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_105_instruction">Préchauffer le oven.Cut chaque pain pita
+		en 8 triangles.
+		Placer les triangles sur biscuit recouverte
+		sheet.In un petit bol, mélanger l\'huile,
+		poivre, le sel, le
+		basilic et le cerfeuil. Badigeonner chaque triangle avec un
+		mélange d\'huile.
+		Cuire au four préchauffé pendant environ 7
+		minutes,
+		ou jusqu\'à ce que légèrement bruni et croustillant.
+	</string>
+	<string name="id_105_ingredients">Pain, Huile d\'olive, Poivre, Sel d\'ail, Basilic
+		séché, Crfeuil
+	</string>
+	<string name="id_105_options_name">partie</string>
+	<string name="id_105_option_0_name">ordinaire</string>
+	<string name="id_105_option_1_name">grand</string>
+	<string name="id_105_option_2_name">petit</string>
+	<string name="id_2_name">SALADES</string>
+	<string name="id_201_name">SALADE DE FRUITS</string>
+	<string name="id_201_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_201_instruction">Dans un grand bol, combiner les pêches,
+		ananas, et le mélange pudding à la vanille. Cela inclut les jus
+		des canettes. Mélangez bien jusqu\'à ce pudding est dissous.
+		Incorporer le
+		fraises, bananes, bleuets, les raisins et le sucre
+		si
+		souhaitée. Réfrigérer.
+	</string>
+	<string name="id_201_ingredients">Banane, Ananas, Pomme, Papaye, Les graphiques, Les
+		arachides
+	</string>
+	<string name="id_201_options_name">partie</string>
+	<string name="id_201_option_0_name">ordinaire</string>
+	<string name="id_201_option_1_name">grand</string>
+	<string name="id_201_option_2_name">petit</string>
+	<string name="id_202_name">SALADE D\'ASPERGES CREVETTES</string>
+	<string name="id_202_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_202_instruction">Porter une casserole moyenne d\'eau à
+		ébullition et saler bien.
+		Ajouter les asperges à l\'eau
+		bouillante et faire bouillir pendant 3 minutes.
+		Utilisez une
+		écumoire pour enlever les asperges dans un bol pour refroidir.
+		Ajouter les crevettes à la casserole d\'eau bouillante. Si elles
+		sont pré-cuits,
+		retirer après 30 secondes-c\'est juste pour les
+		réchauffer. Si la crevette
+		ne sont pas cuites, les faire
+		bouillir pendant 2-3 minutes, jusqu\'à cuisson complète.
+		Retirer
+		les crevettes et les ajouter à une grande bowl.2 Trancher les
+		asperges
+		lances en couche mince sur la diagonale jusqu\'à ce que
+		vous obtenez près de la pointe.
+		Couper les pointes d\'asperges en
+		un seul morceau.
+		Mettez les asperges dans le bol avec les
+		crevettes.
+		Ajouter le sel et le poivre noir au goût. Ajouter
+		plus de jus de citron, si désiré, au goût
+	</string>
+	<string name="id_202_ingredients">Asperges, Crevettes, L\'huile d\'olive, L\'ail, Le jus
+		de citron,
+		Sel, Poivre
+	</string>
+	<string name="id_202_options_name">partie</string>
+	<string name="id_202_option_0_name">ordinaire</string>
+	<string name="id_202_option_1_name">grand</string>
+	<string name="id_202_option_2_name">petit</string>
+	<string name="id_203_name">SALADE DE HARICOTS NOIR</string>
+	<string name="id_203_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_203_instruction">Assurez-vous de rincer et égoutter les
+		haricots,
+		si vous utilisez beans.In conserve un grand bol,
+		combiner la
+		haricots, maïs, oignons, piments jalapenos chili,
+		tomates, avocat,
+		coriandre, le basilic, le jus de lime et
+		l\'huile d\'olive. Ajouter le sucre et le sel
+		et poivre, au
+		taste.Chill avant de servir.
+	</string>
+	<string name="id_203_ingredients">Black Bean, Maïs, Oignon, Poivron, Tomate, Avocat,
+		L\'huile d\'olive, Sucre, Sel, Poivre
+	</string>
+	<string name="id_203_options_name">partie</string>
+	<string name="id_203_option_0_name">ordinaire</string>
+	<string name="id_203_option_1_name">grand</string>
+	<string name="id_203_option_2_name">petit</string>
+	<string name="id_204_name">SALADE DE BROCOLI</string>
+	<string name="id_204_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_204_instruction">Porter une grande casserole d\'eau, salée
+		avec
+		une cuillère à café de sel, à ébullition. Ajouter les
+		bouquets de brocoli.
+		Cook, 1-2 minute.Drain le brocoli et les
+		placer immédiatement
+		dans un bol d\'eau glacée pour arrêter la
+		cuisson. Laisser refroidir et les égoutter.
+		2 Combiner le
+		brocoli, les amandes, bacon émietté, l\'oignon haché,
+		et les
+		petits pois dans un grand bol de service. Dans un autre bol,
+		fouetter ensemble la mayonnaise, le vinaigre de cidre et de
+		miel.
+		Ajouter la vinaigrette à la salade et mélanger pour bien
+		mélanger. Refroidir complètement avant de servir.
+	</string>
+	<string name="id_204_ingredients">Brocoli, De Salt, L\'établissement Almond, Bacon,
+		Onion
+	</string>
+	<string name="id_204_options_name">partie</string>
+	<string name="id_204_option_0_name">ordinaire</string>
+	<string name="id_204_option_1_name">grand</string>
+	<string name="id_204_option_2_name">petit</string>
+	<string name="id_205_name">SALADE CÉSAR</string>
+	<string name="id_205_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_205_instruction">Dans un très grand bol, fouetter ensemble
+		l\'huile d\'olive et les tranches de baguette garlic.Spread sur
+		sur une plaque à pâtisserie, tapissée de papier parchemin ou de
+		silpat.
+		Brosse ou au pistolet avec oil.Broil d\'olive pour un
+		couple de
+		minutes jusqu\'à ce que les sommets sont légèrement
+		browned.Remove et laisser refroidir.
+		Ajouter les anchois et les
+		oeufs au mélange huile d\'ail.
+		Fouetter jusqu\'à consistance
+		crémeuse. Ajouter le sel et le poivre et 1/4 tasse de jus de
+		citron.
+		Fouetter dans la moitié du parmesan cheese.Using vos
+		mains,
+		arracher des morceaux de laitue dans les têtes de laitue.
+		Ajouter au mélange d\'huile et mélanger pour bien enrober.
+		Ajouter le reste du parmesan, mélanger.
+		Hacher grossièrement le
+		pain grillé et la salade addto
+	</string>
+	<string name="id_205_ingredients">L\'huile d\'olive, L\'ail, Le jus de citron, Fromage,
+		Oeufs,
+		Sel, Poivre. Leetuce
+	</string>
+	<string name="id_205_options_name">partie</string>
+	<string name="id_205_option_0_name">ordinaire</string>
+	<string name="id_205_option_1_name">grand</string>
+	<string name="id_205_option_2_name">petit</string>
+	<string name="id_3_name">SOUPE</string>
+	<string name="id_301_name">SOUPE AUX LÉGUMES</string>
+	<string name="id_301_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_301_instruction">Hacher l\'oignon, émincez les carottes en
+		1/4 pouces
+		des pièces épaisses, couper et diviser par deux les
+		been verts. Couper les champignons en 1/4
+		morceaux d\'un pouce,
+		hacher les pommes de terre en 1/8 de l \'ou 1/4 de l\' en
+		fonction de
+		leur taille et hacher le persil. Maintenant vous
+		êtes prêt à le mettre
+		tous ensemble.
+	</string>
+	<string name="id_301_ingredients">L\'huile d\'olive, De beurre non salé, L\'oignon, La
+		carotte, Le vert
+		Les haricots, Les champignons, Le bouillon de
+		poulet, De pommes de terre, Sel et poivre
+		persil
+	</string>
+	<string name="id_301_options_name">partie</string>
+	<string name="id_301_option_0_name">ordinaire</string>
+	<string name="id_301_option_1_name">grand</string>
+	<string name="id_301_option_2_name">petit</string>
+	<string name="id_302_name">SOUPE AUX BROCOLIS</string>
+	<string name="id_302_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_302_instruction">Faire chauffer 2 cuillères à soupe d\'huile
+		dans une casserole à fond épais
+		sur feu doux-moyen et faire
+		revenir les oignons, l\'ail et 2 cc de sel.
+		Ajouter les pommes de
+		terre et 5 tasses d\'eau et porter à ébullition.
+		Ajouter le
+		brocoli et laisser mijoter pendant 10 minutes ou jusqu\'à
+		tendreté.
+		Laisser refroidir un peu puis mélanger, en 3 lots,
+		dans un robot culinaire
+		jusqu\'à consistance lisse. Remettre la
+		soupe dans la casserole. Incorporer la crème et assaisonner.
+		Au
+		moment de servir, réchauffer doucement à feu moyen.
+		Pendant ce
+		temps le persil processus, et l\'huile de 100ml dans un robot
+		culinaire
+		jusqu\'à consistance lisse, puis passer à travers une
+		subtile qui subsistait sieve.Heat
+		l\'huile dans une poêle sur feu
+		vif et faire cuire les pétoncles.
+		Servir la soupe garnie de
+		coquilles Saint-Jacques et les feuilles de cerfeuil, arrosé
+		d\'huile d\'persil.
+	</string>
+	<string name="id_302_ingredients">Le brocoli, Pommes de terre, Crème, Huile d\'olive,
+		L\'oignon, L\'ail
+	</string>
+	<string name="id_302_options_name">partie</string>
+	<string name="id_302_option_0_name">ordinaire</string>
+	<string name="id_302_option_1_name">grand</string>
+	<string name="id_302_option_2_name">petit</string>
+	<string name="id_303_name">SOUPE AU POULET</string>
+	<string name="id_303_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_303_instruction">Cuire les ailes de poulet, l\'oignon, la
+		carotte,
+		et le céleri dans l\'huile dans une grande casserole à
+		feu moyen-vif, en remuant souvent.
+		Ajouter suffisamment d\'eau
+		froide dans la casserole pour couvrir les ingrédients par 2
+		pouces.
+		Porter à ébullition sur feu vif, écumer la mousse qui
+		monte à la surface.
+		Ajouter le persil, le thym, le poivre, et
+		les feuilles de laurier. Réduire le feu à doux et
+		laisser
+		mijoter, à découvert, jusqu\'à ce que le bouillon est corsé, au
+		moins 2 heures et jusqu\'à 6 heures.
+		Passer le bouillon à travers
+		une passoire posée sur un grand bol.
+		Jeter les solides. Laisser
+		reposer pendant 5 minutes.
+		Dégraisser jaune clair qui monte à la
+		surface.
+	</string>
+	<string name="id_303_ingredients">Poulet, L\'oignon, L\'huile végétale de carotte,
+	</string>
+	<string name="id_303_options_name">partie</string>
+	<string name="id_303_option_0_name">ordinaire</string>
+	<string name="id_303_option_1_name">grand</string>
+	<string name="id_303_option_2_name">petit</string>
+	<string name="id_304_name">SOUPE à LA CITROUILLE</string>
+	<string name="id_304_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_304_instruction">Préchauffer le oven.Place la citrouille,
+		l\'oignon, l\'ail,
+		flocons de pommes de terre et le piment dans un
+		grand plat à rôtir.
+		Arroser avec l\'huile et bien mélanger.
+		Assaisonner avec le sel et le poivre.
+		Cuire au four préchauffé
+		pendant environ 50 à 55 minutes ou jusqu\'à ce que le
+		légumes
+		soient dorés et tender.Transfer dans une grande casserole
+		plus
+		haute heat.Add le stock. Porter à ébullition. Réduire à feu
+		doux.
+		Laisser mijoter pendant environ 5 minutes. Retirer la
+		casserole du feu.
+		L\'utilisation d\'un mixeur, mélanger jusqu\'à ce
+		que la soupe juste lisse.
+		Incorporer la crème pure.
+	</string>
+	<string name="id_304_ingredients">Citrouille, Oignon, Ail, Pommes de terre, Banque
+		d\'olive poulet d\'huile
+	</string>
+	<string name="id_304_options_name">partie</string>
+	<string name="id_304_option_0_name">ordinaire</string>
+	<string name="id_304_option_1_name">grand</string>
+	<string name="id_304_option_2_name">petit</string>
+	<string name="id_305_name">SOUPE DE FRUITS DE MER</string>
+	<string name="id_305_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_305_instruction">Faire revenir oignon vert haché et l\'ail
+		dans le beurre.
+		Incorporer la farine, en remuant, jusqu\'à
+		consistance homogène. Lentement ajouter 2 tasses de
+		le stock de
+		poissons, continuer à cuire jusqu\'à consistance lisse et
+		mousseux.
+		Lentement ajouter la crème et le lait. Incorporer la
+		chair de crabe. Ajouter le xérès,
+		citron-poivre assaisonnement,
+		le sel et le poivre blanc. Laisser mijoter jusqu\'à ce chauds;
+		rectifier l\'assaisonnement.
+	</string>
+	<string name="id_305_ingredients">Stocks de poissons, la chair de crabe, l\'oignon,
+		l\'ail, beurre, lait,
+		Sel, poivre
+	</string>
+	<string name="id_305_options_name">partie</string>
+	<string name="id_305_option_0_name">ordinaire</string>
+	<string name="id_305_option_1_name">grand</string>
+	<string name="id_305_option_2_name">petit</string>
+	<string name="id_4_name">FRUITS DE MER</string>
+	<string name="id_401_name">POISSON</string>
+	<string name="id_4101_name">THON DEVILED</string>
+	<string name="id_4101_description">Adaadfj avfavfajva. oa sfoof oa fo oasosvoa
+		oasv.
+	</string>
+	<string name="id_4101_instruction">Couper les œufs en deux sur la longueur.
+		supprimer
+		jaunes et Mash. Ajouter le thon, la mayonnaise, la
+		sauce chili, vert
+		poivron, l\'oignon moutarde le sel et le
+		poivre. Mélangez bien.
+		Répartir le mélange dans les blancs
+		d\'œufs, entassant élevé. Garnir avec les
+		piment et le persil.
+		(Le mien, je Garnir avec une tranche d\'olive
+		et le paprika.)
+	</string>
+	<string name="id_4101_ingredients">Thon, oeufs, le piment, le sel, poivrons,
+		oignon
+	</string>
+	<string name="id_4101_options_name">partie</string>
+	<string name="id_4101_option_0_name">ordinaire</string>
+	<string name="id_4101_option_1_name">grand</string>
+	<string name="id_4101_option_2_name">petit</string>
+	<string name="id_4102_name">GRILLE THON JAUNE</string>
+	<string name="id_4102_description">Fsdsfh oss s sfss a awhoo aoa aooa aoagfho.
+	</string>
+	<string name="id_4102_instruction">Laisser mariner pendant 6-8 heures à
+		l\'ail,
+		le gingembre, l\'huile de sésame, le poivre noir et
+		l\'huile d\'olive. 2 serrano
+		poivrons 18 tomates séchées au
+		soleil 1/2 c. pistaches 1/2 c.
+		Calamata olives noires 4 oz
+		Fromage feta 3 oz vin blanc
+		Thon grillé devraient être rares
+		que si la qualité des sushis. Faire revenir le repos
+		des
+		ingrédients et ajouter la marinade réservée. Servir avec
+		l\'ensemble
+		cheveux d\'ange de blé arrosée de vinaigrette à base
+		de plantes.
+	</string>
+	<string name="id_4102_ingredients">Thon, oeufs, le piment, le sel, poivrons,
+		oignon
+	</string>
+	<string name="id_4102_options_name">partie</string>
+	<string name="id_4102_option_0_name">ordinaire</string>
+	<string name="id_4102_option_1_name">grand</string>
+	<string name="id_4102_option_2_name">petit</string>
+	<string name="id_4103_name">Blue Fin Tuna With Cavier</string>
+	<string name="id_4103_description">Description abf ipabgp papa papfick.
+	</string>
+	<string name="id_4103_instruction">L\'huile de sésame de chaleur dans une
+		grande poêle
+		à feu moyen élevé. Placez les darnes de thon sur
+		le poêle. cuire
+		pendant 1 minute de chaque côté. L\'extérieur
+		doit être juste grise
+		et l\'intérieur doit être encore rouge
+		rubis. Retirer du feu et
+		plaque avec sauce de soja Brown Sugar
+		(ci-dessous) et garnir avec les
+		graines de sésame.
+	</string>
+	<string name="id_4103_ingredients">Thon, oeufs, le piment, le sel, poivrons,
+		oignon
+	</string>
+	<string name="id_4103_options_name">partie</string>
+	<string name="id_4103_option_0_name">ordinaire</string>
+	<string name="id_4103_option_1_name">grand</string>
+	<string name="id_4103_option_2_name">petit</string>
+	<string name="id_4104_name">GATEAUX DE THON ET POMMES DE TERRE</string>
+	<string name="id_4104_description">Description afiga ohagagh nnei io ah hahaoahf
+	</string>
+	<string name="id_4104_instruction">Dans les pommes de terre-batteuses bol,
+		le thon, le pain
+		miettes, le céleri et le poivre. Ajouter de
+		l\'eau du thon, si et tant que nécessaire,
+		pour humidifier le
+		mélange. En faire chauffer l\'huile à feu moyen une poêle.
+		Déposez sur les pommes de terre mélange 1/3 tasse dans
+		l\'huile chaude; aplatissez-les pour
+		1/2-inch galette. Cuire 4
+		minutes ou jusqu\'à ce qu\'il brunisse. soigneusement
+		tourner et
+		cuire 4 minutes de plus. Répéter l\'opération avec le reste du
+		mélange.
+		Servir avec une sauce tartare, si désiré.
+	</string>
+	<string name="id_4104_ingredients">Thon, oeufs, le piment, le sel, poivrons,
+		oignon
+	</string>
+	<string name="id_4104_options_name">partie</string>
+	<string name="id_4104_option_0_name">ordinaire</string>
+	<string name="id_4104_option_1_name">grand</string>
+	<string name="id_4104_option_2_name">petit</string>
+	<string name="id_402_name">MAQUEREAU</string>
+	<string name="id_4201_name">FARCIS MAQUEREAU</string>
+	<string name="id_4201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_4201_instruction">Chauffer le four à 220C/fan 200C/gas 7.
+		faire une
+		quelques barres obliques dans les deux côtés du
+		poisson et frotter avec la moitié de
+		la pâte de curry.
+		Chauffer l\'huile dans une plaque à rôtir, puis les faire
+		frire
+		les pommes de terre et l\'oignon pendant environ 8
+		minutes jusqu\'à ce qu\'ils commencent à
+		brun. Incorporer la
+		pâte de curry restant dans les pommes de terre, puis
+		asseoir
+		le poisson sur le dessus et faire cuire pendant 20-25 minutes
+		jusqu\'à ce que le poisson
+		et pommes de terre soient cuites.
+		Soulevez le poisson sur des assiettes, puis
+		placer les pommes
+		de terre en arrière sur un feu vif. Ajouter les épinards
+		la
+		casserole et laisser cuire pendant 3-4 minutes jusqu\'à ce que
+		complètement fanées. écoper
+		et servir avec le poisson.
+	</string>
+	<string name="id_4201_ingredients">Poissons mackeral, oeuf, piment, sel, poivrons,
+		oignon
+	</string>
+	<string name="id_4201_options_name">partie</string>
+	<string name="id_4201_option_0_name">ordinaire</string>
+	<string name="id_4201_option_1_name">grand</string>
+	<string name="id_4201_option_2_name">petit</string>
+	<string name="id_403_name">SAUMON</string>
+	<string name="id_4301_name">SAUMON DEVILED</string>
+	<string name="id_4301_description">Description is osdosa oaoga ahogfap hahga.
+	</string>
+	<string name="id_4301_instruction">Soigneusement flocons le saumon dans un
+		bol,
+		écartant tout petits os, des cartilages et la peau.
+		Ajouter l\'
+		oignon, le céleri, le maïs, le sel et le poivre.
+		Plier avec un
+		spatule en caoutchouc. Mettez de côté. Dans un
+		autre bol, combiner la
+		la mayonnaise, la moutarde, relish, le
+		jus de citron,
+		De sauce Worcestershire, le paprika et la sauce
+		Tabasco. Pliez ces
+		ingrédients dans le mélange de saumon.
+		Battre légèrement l\'œuf.
+		Utilisation de la spatule en
+		caoutchouc, incorporer le mélange de saumon le long
+		avec 1/2
+		tasse de chapelure de biscuits les. Placer la tasse restante
+		de chapelure de biscuits sur une assiette. Former le mélange
+		de saumon
+		en huit 3-pouces galettes. Soigneusement les enrober
+		avec la
+		chapelure de biscuits. Réfrigérer, légèrement couvert,
+		pendant 1 heure.
+	</string>
+	<string name="id_4301_ingredients">Poissons saumon, oeuf, piment, sel, poivrons,
+		oignon
+	</string>
+	<string name="id_4301_options_name">partie</string>
+	<string name="id_4301_option_0_name">ordinaire</string>
+	<string name="id_4301_option_1_name">grand</string>
+	<string name="id_4301_option_2_name">petit</string>
+	<string name="id_404_name">CRABES</string>
+	<string name="id_4401_name">CRABES FARCIS</string>
+	<string name="id_4401_description">Fafa ioag oaagaoga oiagag agh kaka.
+	</string>
+	<string name="id_4401_instruction">Mettre la mayonnaise dans un bol et
+		fouetter
+		dans les oignons, piments verts, le persil, la
+		moutarde,
+		De sauce Worcestershire, le Tabasco, le poivre de
+		Cayenne, le jus de citron, le sel,
+		et le poivre. Aller très
+		facile sur le sel et le poivre. Couvrir le bol
+		et mettre de
+		côté pendant 15 minutes environ pour que les saveurs se
+		marient.
+		Rectifier l\'assaisonnement. Incorporer délicatement
+		le crabe. réserve,
+		réfrigéré, si vous faites cela à l\'avance.
+		Faire fondre 3
+		à soupe de beurre dans une petite poêle et
+		ajouter le pain
+		miettes. Cuire à feu doux jusqu\'à ce que doré,
+		ajouter un peu
+		plus de beurre si elle semble trop sec. Verser
+		dans un bol et laisser refroidir.
+		Préchauffer le four à 425
+		degrés F.
+	</string>
+	<string name="id_4401_ingredients">Crabes frais, d\'oeufs, le piment, le sel,
+		poivrons,
+		oignon
+	</string>
+	<string name="id_4401_options_name">partie</string>
+	<string name="id_4401_option_0_name">ordinaire</string>
+	<string name="id_4401_option_1_name">grand</string>
+	<string name="id_4401_option_2_name">petit</string>
+	<string name="id_405_name">CREVETTES</string>
+	<string name="id_4501_name">CREVETTES FARCIS</string>
+	<string name="id_4501_description">Dessia aig apgp apfgpahg apogpa</string>
+	<string name="id_4501_instruction">Shell de la veine et laver l\'huile
+		prawns.Heat
+		et ajouter l\'oignon, le gingembre et l\'ail. Cuire
+		à feu pour deux
+		minutes. Ajouter le paprika, le piment, le
+		curcuma, le sucre et le sel. mélanger
+		puits. Ajouter les
+		crevettes, sauce tomate et la sauce Worcestershire. cuire
+		découvrir pendant 5-7 minutes à feu doux. Servir chaud avec
+		du riz, ou
+		petits pains.
+	</string>
+	<string name="id_4501_ingredients">Crevettes fraîches, œuf, le piment, le sel,
+		poivrons,
+		oignon
+	</string>
+	<string name="id_4501_options_name">partie</string>
+	<string name="id_4501_option_0_name">ordinaire</string>
+	<string name="id_4501_option_1_name">grand</string>
+	<string name="id_4501_option_2_name">petit</string>
+	<string name="id_406_name">HOMARDS</string>
+	<string name="id_4601_name">HOMARDS FARCIS</string>
+	<string name="id_4601_description">Desga asoghagh aisfaf aslgfhagh aghl
+	</string>
+	<string name="id_4601_instruction">Préchauffer le four à 350 degrés.
+		Ajouter les 6 premiers
+		ingrédients dans une grande casserole
+		d\'eau bouillante. Ajouter le homard
+		queues à l\'eau. Conserver
+		à une pleine ébullition pendant 20
+		minutes. Retirez les queues
+		de homard, répartis en deux sur la longueur,
+		et retirez la
+		viande. Enregistrer 6 demi-coquilles. Faire revenir le
+		céleri,
+		l\'oignon, le poivron vert et le persil dans le beurre
+		jusqu\'à ce que le
+		que l\'oignon soit transparent. Casser la
+		chair de homard en morceaux dans un
+		un grand bol. Incorporer
+		délicatement les légumes sautés, dur
+		oeufs à la coque, d\'oeufs
+		crus, le Tabasco, 1 tasse de chapelure, le sel et
+		poivre au
+		goût, et le lait, juste assez pour tenir ensemble.
+		Pile le
+		mélange élevé dans chacune des 6 coquilles réservées et
+		supérieure au reste de la chapelure. Cuire jusqu\'à ce que
+		brun,
+		environ 20 minutes. Servir aussitôt avec une portion de
+		fondue
+		beurre pour chaque portion. Tremper chaque bouchée dans
+		le beurre quand il mange.
+	</string>
+	<string name="id_4601_ingredients">Homards frais, d\'oeufs, le piment, le sel,
+		poivrons,
+		oignon
+	</string>
+	<string name="id_4601_options_name">partie</string>
+	<string name="id_4601_option_0_name">ordinaire</string>
+	<string name="id_4601_option_1_name">grand</string>
+	<string name="id_4601_option_2_name">petit</string>
+	<string name="id_407_name">SQUID</string>
+	<string name="id_4701_name">SQUID FARCIS</string>
+	<string name="id_4701_description">Destetr psfisdgh hsogh hsdoghg hsdofghods.
+	</string>
+	<string name="id_4701_instruction">Couper la longueur de calmar dans 1cm.
+		bandes,
+		fil sur des cure-dents. Mélanger les ingrédients
+		restants, à l\'exception
+		persil, dans un bol. Ajouter le calmar
+		dans le liquide et mettre dans le
+		réfrigérateur pour laisser
+		mariner pendant quelques heures. Calmars Barbecue,
+		badigeonnant de marinade, jusqu\'à tendreté. Parsemer de
+		persil
+		avant de servir. Les rendements 24.
+	</string>
+	<string name="id_4701_ingredients">Calmars frais, d\'oeufs, le piment, le sel,
+		poivrons,
+		oignon
+	</string>
+	<string name="id_4701_options_name">partie</string>
+	<string name="id_4701_option_0_name">ordinaire</string>
+	<string name="id_4701_option_1_name">grand</string>
+	<string name="id_4701_option_2_name">petit</string>
+	<string name="id_5_name">PLATS</string>
+	<string name="id_501_name">RIZ</string>
+	<string name="id_5101_name">FRIED RIZ</string>
+	<string name="id_5101_description">Fsdsfh oss s sfss a awhoo aoa aooa aoagfho.
+	</string>
+	<string name="id_5101_instruction">Laisser mariner pendant 6-8 heures à
+		l\'ail,
+		le gingembre, l\'huile de sésame, le poivre noir et
+		l\'huile d\'olive. 2 serrano
+		poivrons 18 tomates séchées au
+		soleil 1/2 c. pistaches 1/2 c.
+		Calamata olives noires 4 oz
+		Fromage feta 3 oz vin blanc
+		Thon grillé devraient être rares
+		que si la qualité des sushis. Faire revenir le repos
+		des
+		ingrédients et ajouter la marinade réservée. Servir avec
+		l\'ensemble
+		cheveux d\'ange de blé arrosée de vinaigrette à base
+		de plantes.
+	</string>
+	<string name="id_5101_ingredients">riz cuit, carottes, haricots, oeufs, saucisses,
+		oignons, sel, poivre,
+		Huile, la sauce
+	</string>
+	<string name="id_5101_options_name">partie</string>
+	<string name="id_5101_option_0_name">ordinaire</string>
+	<string name="id_5101_option_1_name">grand</string>
+	<string name="id_5101_option_2_name">petit</string>
+	<string name="id_5102_name"> BIRYANI </string>
+	<string name="id_5102_description">Fsdsfh oss s sfss a awhoo aoa aooa aoagfho.
+	</string>
+	<string name="id_5102_instruction">Faire revenir les oignons et le noix de
+		cajou dans le beurre jusqu\'à coloration dorée.
+		Ajouter les
+		pois verts et les raisins secs et fry.Remove du feu, et les
+		mettre de côté.
+
+		Mettez le gingembre, l\'ail, piment en poudre,
+		la poudre de curry
+		dans le
+		même poêle et faire sauter utilisée
+		ci-dessus pendant
+		3-4 minutes. Ajouter la viande et
+		faire
+		sauter.
+
+		Ajouter les tomates hachées, clous de girofle, la
+		cannelle, la
+		cardamome, curcuma,
+		feuilles de menthe et le sel
+		et faire
+		sauter pendant 2 minutes. Ajouter un peu d\'eau
+		et
+		cuire
+		jusqu\'à ce que la viande est presque cuite. Maintenant,
+		ajoutez le riz et
+		pommes de terre. Ajouter le reste de l\'eau
+		et laisser mijoter à couvert, sur un très
+		à feu doux pendant
+		15-20 minutes, jusqu\'à ce que le riz soit cuit.
+
+	</string>
+	<string name="id_5102_ingredients">De poulet, riz cuit, Raisins, pois verts,
+		Les noix
+		de cajou, ail, gingembre, la poudre de curry, oignons,
+		Curcuma, pommes de terre, sel au goût
+	</string>
+	<string name="id_5102_options_name">partie</string>
+	<string name="id_5102_option_0_name">ordinaire</string>
+	<string name="id_5102_option_1_name">grand</string>
+	<string name="id_5102_option_2_name">petit</string>
+	<string name="id_5103_name">RIZ DE MALAISIE</string>
+	<string name="id_5103_description">Description abf ipabgp papa papfick.
+	</string>
+	<string name="id_5103_instruction">Chauffer 2 cuillères à soupe d\'huile
+		dans un wok ou une poêle à frire.
+		Ajouter le poulet et les
+		faire frire, en remuant souvent, à feu moyen pendant 5
+		minutes.
+		Ajouter l\'oignon et l\'ail et les faire frire, en
+		remuant souvent, pendant encore 8 minutes.
+		Ajouter les
+		crevettes, les pois verts, le sel, le poivre et le poivre de
+		Cayenne. Sauté pendant 5 minutes.
+		Ajouter le riz et faire
+		sauter jusqu\'à ce que le riz a bien chaud.
+		Pendant ce temps,
+		chauffer l\'huile restante dans une grande poêle séparée.
+		Faire frire les oeufs jusqu\'à ce que cuit à votre goût.
+		Transférer le riz frit à un plat de service. Garnir avec les
+		œufs sur le plat. Garnir de laitue, de coriandre et les
+		tomates feuilles.
+		Servir tel quel ou avec sauce aux arachides.
+	</string>
+	<string name="id_5103_ingredients"> Le riz cuit, poulet, huile végétale, oignon,
+		Crevettes,
+		Oeufs Sel, poivre, et Lettus, tomates
+	</string>
+	<string name="id_5103_options_name">partie</string>
+	<string name="id_5103_option_0_name">ordinaire</string>
+	<string name="id_5103_option_1_name">grand</string>
+	<string name="id_5103_option_2_name">petit</string>
+	<string name="id_5104_name">RIZ JAUNE.</string>
+	<string name="id_5104_description">Description afiga ohagagh nnei io ah hahaoahf
+	</string>
+	<string name="id_5104_instruction">Chauffer la casserole. Ajouter 2
+		cuillerées d\'huile.
+		Quand l\'huile est chaude, ajouter les
+		oignons et les faire frire jusqu\'à ce qu\'il se dorés, ajoutez
+		tous les
+		les autres ingrédients et de l\'eau. Couvrir la
+		casserole et cuire pendant environ
+		10 minutes. Servir avec la
+		sauce.
+	</string>
+	<string name="id_5104_ingredients"> Riz basmati cuit, oignon, ail, huile, curcuma,
+		clou de girofle,
+		Cardamome, cannelle, eau, sel
+	</string>
+	<string name="id_5104_options_name">partie</string>
+	<string name="id_5104_option_0_name">ordinaire</string>
+	<string name="id_5104_option_1_name">grand</string>
+	<string name="id_5104_option_2_name">petit</string>
+	<string name="id_502_name">PIZZA</string>
+	<string name="id_5201_name">PIZZA AU FROMAGE</string>
+	<string name="id_5201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_5201_instruction">Faire la pâte. Mix de purée de tomate,
+		la pâte de tomate,
+		l\'ail émincé et le basilic. Étaler une
+		couche sur la pâte à pizza préparée.
+		Ajouter une autre couche
+		de SAICE. Garnir de fromage mozzarella en tranches. Cuire au
+		four à 500C
+		pendant 10-12 minutes.
+	</string>
+	<string name="id_5201_ingredients">L\'eau tiède, la levure, le sucre, la farine de
+		pain, le sel, l\'huile d\'olive,
+		Purée de tomate, pâte de
+		tomates, l\'ail, fromage frais Mozerella
+	</string>
+	<string name="id_5201_options_name">partie</string>
+	<string name="id_5201_option_0_name">ordinaire</string>
+	<string name="id_5201_option_1_name">grand</string>
+	<string name="id_5201_option_2_name">petit</string>
+	<string name="id_5202_name">PIZZA AU PEPPERONI</string>
+	<string name="id_5202_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_5202_instruction">Préchauffer le four à 500 °. Faire
+		chauffer une grande poêle antiadhésive à feu moyen-élevé.
+		Pan
+		Manteau avec un aérosol de cuisson. Ajouter les champignons
+		émincés à la poêle, et faire sauter pendant 5 minutes ou
+		jusqu\'à ce que l\'humidité s\'évapore.
+		Retirer la pellicule de
+		plastique de la pâte à pizza de base; jetez-le. D\'huile au
+		pinceau sur la pâte.
+		Retirer préchauffé plaque à pâtisserie du
+		four; porte du four ferme. Faites glisser la pâte sur une
+		plaque à pâtisserie préchauffé, à l\'aide d\'une spatule en
+		tant que guide.
+		Cuire sur la grille inférieure du four à 500 °
+		pendant 8 minutes. Retirer du four.
+		Fais Sauce à pizza de base
+		en une couche uniforme sur la croûte, en laissant une bordure
+		1/4-inch. Haut sauce aux champignons.
+		Saupoudrer uniformément
+		les champignons à la mozzarella et le parmesan. Disposer
+		pepperoni en une couche uniforme sur le dessus de fromage.
+		Cuire sur le Moyen-crémaillère 10 minutes supplémentaires ou
+		jusqu\'à ce que la croûte soit dorée et le fromage fondu.
+		Couper en 12 quartiers.
+	</string>
+	<string name="id_5202_ingredients"> Aérosol de cuisson, en tranches de champignons
+		cremini, la pâte à pizza de base, l\'huile d\'olive,
+		Fromage
+		mozzarella, fromage parmesan, Turky Pepperoni
+	</string>
+	<string name="id_5202_options_name">partie</string>
+	<string name="id_5202_option_0_name">ordinaire</string>
+	<string name="id_5202_option_1_name">grand</string>
+	<string name="id_5202_option_2_name">petit</string>
+	<string name="id_5203_name">SAUSAGE PIZZA</string>
+	<string name="id_5203_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_5203_instruction">Avec les doigts graissés, pâte pat sur
+		un. Non graissée de 12 à pan pizza.
+		Piquer la pâte à fond avec
+		une fourchette. Cuire au four à 400 ° pendant 10-12 minutes
+		ou jusqu\'à ce que légèrement bruni.
+		Pendant ce temps, dans une
+		grande poêle, faire cuire la saucisse, l\'oignon, les
+		champignons et le poivron vert à feu moyen
+		chauffer jusqu\'à ce
+		que la saucisse ne soit plus rose; sauce à pizza sur la
+		croûte drain.Spread.
+		Garnir du mélange de saucisse et parsemer
+		de fromage. Cuire au four à 400 ° pendant 12-15 minutes ou
+		jusqu\'à coloration dorée.
+	</string>
+	<string name="id_5203_ingredients"> Pâte à pizza, concassée de tomates, basilic,
+		mozzarella Chhese,
+		Sel, poivre, huile d\'olive, l\'ail,
+		Saucisses
+	</string>
+	<string name="id_5203_options_name">partie</string>
+	<string name="id_5203_option_0_name">ordinaire</string>
+	<string name="id_5203_option_1_name">grand</string>
+	<string name="id_5203_option_2_name">petit</string>
+	<string name="id_503_name">SPAGHETTI</string>
+	<string name="id_5301_name">CREMEUSE AUX TOMATES</string>
+	<string name="id_5301_description">Description is osdosa oaoga ahogfap hahga.
+	</string>
+	<string name="id_5301_instruction">Faire bouillir l\'eau salée. Faire
+		chauffer l\'huile d\'olive dans une grande poêle à feu moyen.
+		Ajouter l\'oignon et cuire en remuant jusqu\'à tendreté,
+		environ 5-6 sauce pour pâtes minutes.Add au mélange d\'oignon.
+		Ajouter de l\'eau à un bocal vide; Fermer le récipient et
+		secouez-le pour desserrer reste de la sauce pour pâtes;
+		ajouter dans la poêle avec les tomates non égouttées. Porter
+		à spaghetti simmer.Cook selon des directions de paquet
+		jusqu\'à ce que al dente.
+		Quelques minutes avant les spaghettis
+		sont cuits, ajouter le fromage à la crème à la sauce pour
+		pâtes et cuire en remuant jusqu\'à ce que le fromage soit
+		fondu et que la sauce crémeuse.
+		Égoutter les pâtes et ajouter
+		dans la poêle avec la sauce et remuer pendant quelques
+		minutes, puis servir.
+	</string>
+	<string name="id_5301_ingredients">Spaghetti, l\'huile d\'olive, l\'oignon, l\'eau,
+		tomates,
+		Fromage, sauce tomate
+	</string>
+	<string name="id_5301_options_name">partie</string>
+	<string name="id_5301_option_0_name">ordinaire</string>
+	<string name="id_5301_option_1_name">grand</string>
+	<string name="id_5301_option_2_name">petit</string>
+	<string name="id_5302_name">PAIN DE VIANDE SPAGHETTI</string>
+	<string name="id_5302_description">Description is osdosa oaoga ahogfap hahga.
+	</string>
+	<string name="id_5302_instruction">Faire bouillir une grande casserole
+		d\'eau salée. Pendant ce temps, couper le pain de viande en
+		petits morceaux et
+		combiner dans une grande poêle avec la
+		sauce pour pâtes. Rincer pot de sauce pour pâtes avec de
+		l\'eau et
+		ajouter que dans la poêle. Placer sur feu moyen et
+		laisser mijoter, en remuant fréquemment.
+		Faire cuire les pâtes
+		selon les instructions du paquet jusqu\'à ce qu\'elles soient
+		al dente. Égoutter, puis placer sur un plat de service.
+		Garnir avec la sauce pour pâtes et du fromage râpé et servir
+		immédiatement.
+	</string>
+	<string name="id_5302_ingredients"> Sauce spaghetti, pain de viande,, eau, fromage
+		Romano
+	</string>
+	<string name="id_5302_options_name">partie</string>
+	<string name="id_5302_option_0_name">ordinaire</string>
+	<string name="id_5302_option_1_name">grand</string>
+	<string name="id_5302_option_2_name">petit</string>
+	<string name="id_504_name">LASAGNE</string>
+	<string name="id_5401_name">ITALIEN LASAGNE</string>
+	<string name="id_5401_description">Dessia aig apgp apfgpahg apogpa</string>
+	<string name="id_5401_instruction">Faire fondre le lait butter.Gradually
+		add.
+		Retirer du feu et ajouter la muscade et la sauce tomate.
+		Stire puits et permettre
+		à refroidir. Sur le fond d\'un plat de
+		support répandre un peu de sauce béchamel.
+		Répartir
+		uniformément une couche de tout le mélange de ricotta, puis
+		une couche de tous les épinards.
+		Disposez une autre couche de
+		feuilles de pâtes et de diffuser tous les boeuf haché sur le
+		dessus.
+		Disposer la dernière couche de feuilles de pâtes et
+		garnir avec le reste béchamel, mozzarella et parmesan.
+		Cuire
+		au four pendant environ 30 minutes.
+	</string>
+	<string name="id_5401_ingredients">Beurre, farine, lait, noix de muscade, sauce
+		tomate, sel, poivre,
+		L\'huile d\'olive, de boeuf, fromage
+		ricotta, les œufs, feuilles de lasagne, Mozerrella
+	</string>
+	<string name="id_5401_options_name">partie</string>
+	<string name="id_5401_option_0_name">ordinaire</string>
+	<string name="id_5401_option_1_name">grand</string>
+	<string name="id_5401_option_2_name">petit</string>
+	<string name="id_5402_name">FROMAGE LASAGNE</string>
+	<string name="id_5402_description">Dessia aig apgp apfgpahg apogpa</string>
+	<string name="id_5402_instruction">Préchauffer le oven.Bring une grande
+		casserole d\'eau légèrement salée à ébullition. Ajouter les
+		pâtes
+		et faire cuire pendant 8 à 10 minutes ou jusqu\'à ce que
+		al dente, égoutter et déposer sur une feuille de lasagne plat
+		à refroidir.
+		Dans un bol moyen, mélanger la ricotta, le
+		parmesan, les œufs, le sel et le poivre et bien mélanger.
+		Dans une casserole moyenne, faire chauffer l\'huile à feu
+		moyen et faire revenir l\'ail pendant 2 minutes;
+		Incorporer la
+		sauce à spaghetti et assaisonnement à l\'italienne. Chauffer
+		la sauce jusqu\'à ce que réchauffé,
+		en remuant de temps, 2 à 5
+		minutes.Spread 1/2 tasse de sauce dans le fond d\'un plat
+		allant au four 9x13.
+		Couvrir avec une couche de nouilles.
+		Répartir la moitié du mélange de ricotta sur les lasagnes;
+		dessus avec une autre couche de nouilles.
+		Versez 1 1/2 tasses
+		de sauce sur les nouilles, et répandre la ricotta restante
+		sur la sauce.
+		Top avec des nouilles restantes et sauce et
+		saupoudrer de mozzarella sur le tout. Couvrir de papier
+		d\'graissé.
+		Cuire au four 45 minutes, ou jusqu\'à ce que le
+		fromage bouillonne et le dessus soit doré.
+	</string>
+	<string name="id_5402_ingredients">Lasagnes, fromage parmesan, oeufs, sel, poivre,
+		huile d\'olive,
+		Sauce Spagatti, assaisonnement à l\'italienne,
+		mozzarella
+	</string>
+	<string name="id_5402_options_name">partie</string>
+	<string name="id_5402_option_0_name">ordinaire</string>
+	<string name="id_5402_option_1_name">grand</string>
+	<string name="id_5402_option_2_name">petit</string>
+	<string name="id_6_name">DESSERTS</string>
+	<string name="id_601_name">ICE CREAM</string>
+	<string name="id_6101_name">GLACE VANILLE</string>
+	<string name="id_6101_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6101_instruction">Faire chauffer le lait, le sel et le
+		sucre dans une casserole. Grattez les graines de la gousse de
+		vanille dans le lait, ajoutez la gousse de haricot au lait.
+		Couvrir, retirer du feu et laisser infuser pendant une
+		hour.Set en place d\'un bain de glace en plaçant un de 2
+		pintes (2l) bol dans un grand bol partiellement rempli d\'eau
+		et de glace.
+		Définir une passoire au-dessus de la petite bol
+		et versez la crème dans la bowl.In un autre bol, mélanger
+		ensemble les jaunes d\'œufs.
+		Réchauffer le lait puis verser
+		progressivement un peu de lait dans les jaunes en fouettant
+		constamment pendant que vous versez. Grattez les jaunes
+		chaudes et
+		le lait de retour dans le saucepan.Cook à feu doux,
+		en remuant constamment et en raclant le fond avec une spatule
+		résistant à la chaleur,
+		jusqu\'à ce que la crème épaississe
+		suffisamment pour recouvrir le spatula.Strain la crème dans
+		la crème épaisse. Incorporer sur la glace jusqu\'à ce qu\'il
+		refroidisse,
+		ajouter l\'extrait de vanille, puis réfrigérer
+		pour refroidir complètement. De préférence overnight.Remove
+		la gousse de vanille
+		et de geler la crème dans votre
+		sorbetière selon les instructions du fabricant.
+	</string>
+	<string name="id_6101_ingredients">Lait, sel, sucre, la gousse de vanille, la crème
+		épaisse, jaune d\'oeuf,
+		extrait de vanille
+	</string>
+	<string name="id_6101_options_name">partie</string>
+	<string name="id_6101_option_0_name">ordinaire</string>
+	<string name="id_6101_option_1_name">grand</string>
+	<string name="id_6101_option_2_name">petit</string>
+	<string name="id_6102_name">Crème glacée au chocolat</string>
+	<string name="id_6102_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6102_instruction">Placez la poudre de cacao avec 1 tasse
+		de la moitié-moitié
+		dans une casserole moyenne à feu moyen et
+		mélanger au fouet. Ajouter le reste de
+		moitié-moitié et la
+		crème épaisse. Amener le mélange à ébullition tout en remuant
+		de temps,
+		et de retirer de l\'heat.In un bol moyen fouetter les
+		jaunes d\'œufs jusqu\'à ce qu\'ils alléger en couleur.
+		Ajouter
+		graduellement le sucre et mélanger au fouet. Tempérer le
+		mélange de crème dans les oeufs et
+		le sucre en ajoutant
+		progressivement de petites quantités. Verser dans le reste et
+		retourner l\'ensemble du mélange
+		dans la casserole et la placer
+		sur heat.Continue faible pour faire cuire, en remuant
+		fréquemment,
+		jusqu\'à ce que le mélange épaississe légèrement
+		et nappe le dos d\'une cuillère et atteint 170 à 175 degrés F.
+		Verser le mélange dans un récipient et laisser reposer à
+		température ambiante. Incorporer l\'extrait de vanille.
+		Placez
+		le mélange dans le réfrigérateur et une fois il est assez
+		cool de ne pas former de la condensation sur le couvercle.
+		Servir tel quel pour Soft Serve ou congeler pour un autre 3 à
+		4 heures pour permettre à la crème glacée à durcir.
+	</string>
+	<string name="id_6102_ingredients">Cacao en poudre, la crème épaisse, jaune d\'oeuf,
+		sucre, extrait de vanille
+	</string>
+	<string name="id_6102_options_name">partie</string>
+	<string name="id_6102_option_0_name">ordinaire</string>
+	<string name="id_6102_option_1_name">grand</string>
+	<string name="id_6102_option_2_name">petit</string>
+	<string name="id_6103_name">Glace à la fraise</string>
+	<string name="id_6103_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6103_instruction">Ajouter les fraises, le jus de citron et
+		le sucre. Bien mélanger et mettre de côté dans les oeufs
+		fridge.sBeat.
+		Peu à peu, ajouter le sucre et le lait remuer
+		vanila. Ajouter le jus de fraises et bien mélanger.
+		Verser
+		dans une sorbetière.
+	</string>
+	<string name="id_6103_ingredients">Fraises fraîches, jus de citron, les oeufs,
+		sucre, crème à fouetter, lait, extrait de vanille
+	</string>
+	<string name="id_6103_options_name">partie</string>
+	<string name="id_6103_option_0_name">ordinaire</string>
+	<string name="id_6103_option_1_name">grand</string>
+	<string name="id_6103_option_2_name">petit</string>
+	<string name="id_6104_name">FRUITS ET GLACE NUT</string>
+	<string name="id_6104_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6104_instruction">Préchauffer le four à 180 ° C.Spread les
+		noisettes et les amandes sur une plaque à pâtisserie
+		plateau
+		et cuire au four préchauffé jusqu\'à ce que la lumière
+		golden.Remove la peau de noisettes.
+		Mettez les noisettes et
+		les amandes dans un bol moyen. Ajouter les pêches, les figues
+		et les pistaches
+		noyaux, et remuer pour bien combined.Sprinkle
+		le mélange de fruits et de noix
+		sur la base du moule préparé.
+		Verser la crème glacée sur le mélange de noix
+		et d\'utiliser le
+		dos d\'une cuillère pour lisser la surface.Place dans le
+		congélateur jusqu\'à consistance ferme.
+		Pour faire la crème
+		caramel, mettre le sucre dans une poêle moyenne à feu doux et
+		cuire,
+		en remuant, jusqu\'à ce qu\'il devienne doré
+		brown.Gradually incorporer la crème (le caramel va durcir).
+		Placez une casserole à feu doux et cuire, en brassant,
+		pendant 2-3 minutes ou jusqu\'à ce que le caramel se dissout.
+	</string>
+	<string name="id_6104_ingredients">Noisettes, amandes effilées, les pêches séchées,
+		secs Dessert entier figures,
+		Amandes de pistaches, crème
+		glacée classique
+	</string>
+	<string name="id_6104_options_name">partie</string>
+	<string name="id_6104_option_0_name">ordinaire</string>
+	<string name="id_6104_option_1_name">grand</string>
+	<string name="id_6104_option_2_name">petit</string>
+	<string name="id_6105_name">Glace au caramel</string>
+	<string name="id_6105_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6105_instruction">Tasse de sucre Faire chauffer 1 jusqu\'à
+		ce qu\'il soit sombre amber.Add 1 1/4 tasse de crème et cuire,
+		en brassant, jusqu\'à ce que tous caramel soit dissous.
+		Transférer dans un bol et incorporer le sel de mer et le lait
+		vanilla.Add, tasse de crème restante, et le reste du sucre
+		1/4 tasse à ébullition dans une petite
+		casserole à fond épais,
+		fouetter les œufs en remuant occasionally.Lightly dans un bol
+		moyen, puis ajouter la moitié du mélange de lait chaud dans
+		un courant lent, en fouettant
+		constamment. Verser dans la
+		casserole et cuire à feu moyen. Verser la crème à travers un
+		tamis à maille fine dans un grand bol, puis incorporer au
+		caramel refroidi.
+		Crème pâtissière froide, en remuant
+		occasionnellement, jusqu\'à ce que très froid. Congeler la
+		crème dans la sorbetière, puis transférer dans un contenant
+		hermétique et mettre au congélateur pour raffermir.
+	</string>
+	<string name="id_6105_ingredients">Sucre, crème épaisse, sel, extrait de vanille,
+		lait, œufs
+	</string>
+	<string name="id_6105_options_name">partie</string>
+	<string name="id_6105_option_0_name">ordinaire</string>
+	<string name="id_6105_option_1_name">grand</string>
+	<string name="id_6105_option_2_name">petit</string>
+	<string name="id_6106_name">CHOCOLATE CHIP ICE CREAM</string>
+	<string name="id_6106_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6106_instruction">Add chocolate chips, lemon juice and
+		sugar. Mix well and set aside in the fridge.sBeat eggs.
+		Gradually adding sugar stir vanila and milk. Add strawberry
+		juice and mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6106_ingredients">Chocolate chips, Fresh Lemon Juice, Eggs, Sugar,
+		Heavy Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6106_options_name">portion</string>
+	<string name="id_6106_option_0_name">regular</string>
+	<string name="id_6106_option_1_name">large</string>
+	<string name="id_6106_option_2_name">small</string>
+	<string name="id_6107_name">HONEYCOMB ICE CREAM</string>
+	<string name="id_6107_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6107_instruction">Add chocolate chips, lemon juice and
+		sugar. Mix well and set aside in the fridge.sBeat eggs.
+		Gradually adding sugar stir vanila and milk. Add strawberry
+		juice and mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6107_ingredients">Honey, Fresh Lemon Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6107_options_name">portion</string>
+	<string name="id_6107_option_0_name">regular</string>
+	<string name="id_6107_option_1_name">large</string>
+	<string name="id_6107_option_2_name">small</string>
+	<string name="id_6108_name">MANGO VANILA CREAM</string>
+	<string name="id_6108_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6108_instruction">Add slices of mango, lemon juice and
+		sugar. Mix well and set aside in the fridge.sBeat eggs.
+		Gradually adding sugar stir vanila and milk. Add strawberry
+		juice and mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6108_ingredients">Mango, Fresh Lemon Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6108_options_name">portion</string>
+	<string name="id_6108_option_0_name">regular</string>
+	<string name="id_6108_option_1_name">large</string>
+	<string name="id_6108_option_2_name">small</string>
+	<string name="id_6109_name">ORANGE ICE CREAM</string>
+	<string name="id_6109_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6109_instruction">Add Raspberry lime juice and sugar. Mix
+		well and set aside in the fridge.sBeat eggs.
+		Gradually adding
+		sugar stir vanila and milk. Add strawberry juice and mix
+		well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6109_ingredients">Raspberry ,Fresh Lime Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6109_options_name">portion</string>
+	<string name="id_6109_option_0_name">regular</string>
+	<string name="id_6109_option_1_name">large</string>
+	<string name="id_6109_option_2_name">small</string>
+	<string name="id_6110_name">BANANA ICE CREAM</string>
+	<string name="id_6110_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6110_instruction">Add banana, lime juice and sugar. Mix
+		well and set aside in the fridge.sBeat eggs.
+		Gradually adding
+		sugar stir vanila and milk. Add strawberry juice and mix
+		well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6110_ingredients">Banana, Fresh Lime Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6110_options_name">portion</string>
+	<string name="id_6110_option_0_name">regular</string>
+	<string name="id_6110_option_1_name">large</string>
+	<string name="id_6110_option_2_name">small</string>
+	<string name="id_6111_name">BLACKBERRY ICE CREAM</string>
+	<string name="id_6111_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6111_instruction">Add blackberry, lime juice and sugar.
+		Mix well and set aside in the fridge.sBeat eggs.
+		Gradually
+		adding sugar stir vanila and milk. Add strawberry juice and
+		mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6111_ingredients">Blackberry, Fresh Lime Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6111_options_name">portion</string>
+	<string name="id_6111_option_0_name">regular</string>
+	<string name="id_6111_option_1_name">large</string>
+	<string name="id_6111_option_2_name">small</string>
+	<string name="id_602_name">PUDDING</string>
+	<string name="id_6201_name">PUDDING AU CARAMEL</string>
+	<string name="id_6201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6201_instruction">Préparer le sucre et d\'eau caramel.Boil
+		jusqu\'à ce qu\'il devienne brun doré
+		et versez dans le moule ou
+		d\'un mélange dish.Now préparation. Mélanger le lait condensé
+		et de l\'eau à la vanille.
+		Ajouter les oeufs battus au mélange
+		et bien mélanger. Passer le mélange dans le moule / plat.
+		Couvrir le plat avec de l\'aluminium foil.Place moule / plat
+		dans le bac de cuisson avec un peu
+		l\'eau et faire cuire au
+		four à feu doux pendant environ une heure ou jusqu\'à cuisson
+		complète.
+		Tournez à pouding de la moisissure sur le plat.
+	</string>
+	<string name="id_6201_ingredients">Sucre, eau, lait concentré, de vanille, oeufs
+	</string>
+	<string name="id_6201_options_name">partie</string>
+	<string name="id_6201_option_0_name">ordinaire</string>
+	<string name="id_6201_option_1_name">grand</string>
+	<string name="id_6201_option_2_name">petit</string>
+	<string name="id_6202_name">RIZ PUDDING</string>
+	<string name="id_6202_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6202_instruction"> Dans une PME, casserole à fond épais,
+		porter le lait,
+		le riz et le sel à ébullition sur feu vif.
+		Réduire le feu à doux et laisser mijoter
+		jusqu\'à ce que le riz
+		soit tendre, environ 20-25 minutes. Remuer fréquemment pour
+		éviter
+		le riz de coller au fond de la pan.In un petit bol,
+		mélanger au fouet
+		ensemble l\'oeuf et la cassonade jusqu\'à ce
+		que bien mélangé. Ajouter une demi-tasse de riz chaud
+		mélange
+		au mélange d\'oeufs, une cuillère à soupe à la fois, en
+		fouettant vigoureusement pour incorporer.
+		Rajouter le mélange
+		d\'œufs dans la casserole de riz et de lait et remuer, sur feu
+		doux,
+		pendant 10 minutes environ, jusqu\'à ce qu\'elle
+		épaississe. Soyez prudent de ne pas avoir le mélange venir à
+		ébullition en ce moment.
+		Incorporer la vanille. Retirer du feu
+		et incorporer les raisins secs et cinnamon.Serve chaud ou
+		froid
+	</string>
+	<string name="id_6202_ingredients">Lait, riz, sel, oeufs, sucre brun, extrait de
+		vanille, cannelle, raisins secs
+	</string>
+	<string name="id_6202_options_name">portion</string>
+	<string name="id_6202_option_0_name">ordinaire</string>
+	<string name="id_6202_option_1_name">grand</string>
+	<string name="id_6202_option_2_name">petit</string>
+	<string name="id_6203_name">PUDDING AUX FRAISES</string>
+	<string name="id_6203_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6203_instruction">Dans un bain-marie combiner 1/3 tasse de
+		sucre, la farine, le sel,
+		jaunes d\'œufs, le lait, et 1
+		cuillère à café de vanille et cuire, en remuant constamment,
+		jusqu\'à ce que la crème
+		épaississe. Tapisser le fond et les
+		côtés d\'un plat allant au four (1 taille 1/2-quart) à la
+		vanille
+		plaquettes, des couches alternées de crème mélange,
+		plaquettes, et les baies. Battre les blancs d\'oeufs
+		jusqu\'à
+		formation de pics rigides former, ajouter le sucre 1 cuillère
+		à soupe et 1/2 cuillère à café
+		la vanille. Fais meringue sur
+		la crème et faire cuire dans un four jusqu\'à ce que la
+		meringue ° 325 soit doré.
+	</string>
+	<string name="id_6203_ingredients">Fraises, farine, sel, oeufs, lait, la vanille,
+		biscuits gaufrettes à la vanille
+	</string>
+	<string name="id_6203_options_name">portion</string>
+	<string name="id_6203_option_0_name">ordinaire</string>
+	<string name="id_6203_option_1_name">grand</string>
+	<string name="id_6203_option_2_name">petit</string>
+	<string name="id_6204_name">PUDDING CUSTARD</string>
+	<string name="id_6204_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6204_instruction">Moules au beurre pouding individuels.
+		chaleur
+		2 cuillères à soupe d\'eau dans une casserole. Ajouter
+		6 cuillerées à soupe de sucre et laisser mijoter
+		jusqu\'à ce
+		que la sauce soit bien dorée. Soigneusement ajoutez 1 c d\'eau
+		chaude
+		pour fluidifier la sauce. Verser la sauce dans les
+		moules. Mettre le lait dans un
+		casserole moyenne et de la
+		chaleur à environ 140 degrés F. Dissoudre le sucre dans
+		le
+		lait et ajouter l\'extrait de vanille. Arrêtez la chaleur.
+		battre légèrement
+		oeufs dans un bol. Ajouter graduellement le
+		lait chaud dans le mélange d\'oeufs.
+		Exécutez le mélange d\'œufs
+		à travers une passoire. Scoop quelques bulles
+		de la surface du
+		mélange d\'oeuf. Verser le mélange aux oeufs sur les
+		la sauce
+		dans les moules. Placez les moules à pudding à la vapeur
+		et de
+		la vapeur à feu doux pendant environ 15-20 minutes ou jusqu\'à
+		cuisson complète.
+		Arrêtez le feu et laissez-les refroidir.
+		Retirer pouding
+	</string>
+	<string name="id_6204_ingredients">Lait, sucre, extrait de vanille, oeufs, beurre,
+		eau
+	</string>
+	<string name="id_6204_options_name">partie</string>
+	<string name="id_6204_option_0_name">ordinaire</string>
+	<string name="id_6204_option_1_name">grand</string>
+	<string name="id_6204_option_2_name">petit</string>
+	<string name="id_6205_name">PUDDING DE LA CHAUX</string>
+	<string name="id_6205_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6205_instruction">Préchauffer le four à 180 c. Battre le
+		beurre et Suger. Ajouter la farine.
+		Ajouter le jus de lime, le
+		lait et les oeufs a battu. Mélangez bien
+		et laissez cuire
+		pendant 20 minutes.
+	</string>
+	<string name="id_6205_ingredients">Lime, beurre, sucre, farine, lait, oeufs
+	</string>
+	<string name="id_6205_options_name">partie</string>
+	<string name="id_6205_option_0_name">ordinaire</string>
+	<string name="id_6205_option_1_name">grand</string>
+	<string name="id_6205_option_2_name">petit</string>
+	<string name="id_603_name">GÂTEAU</string>
+	<string name="id_6301_name">gâteau au beurre</string>
+	<string name="id_6301_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6301_instruction">Tamiser ensemble la farine, le beurre de
+		cuisson powder.Cream
+		et le sucre. Puis ajouter les oeufs un
+		par un et bien battre jusqu\'à ce que desolves sucre.
+		Ajouter
+		Essence Vanila et mélanger la farine peu à peu dans well.Add
+		petites quantités et bien mélanger. Ajouter Milk.Bake
+		à 180
+		degrés C dans un four préchauffé pendant 25 - 35 minutes.
+	</string>
+	<string name="id_6301_ingredients">Farine, margarine, Suger, œufs, lait, poudre de
+		Sauvegarde,
+		L\'essence de vanille.
+	</string>
+	<string name="id_6301_options_name">partie</string>
+	<string name="id_6301_option_0_name">ordinaire</string>
+	<string name="id_6301_option_1_name">grand</string>
+	<string name="id_6301_option_2_name">petit</string>
+	<string name="id_6302_name">GATEAU AU CHOCOLAT</string>
+	<string name="id_6302_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6302_instruction">Tamiser ensemble la farine, la poudre à
+		pâte, le bicarbonate de Aappa et chocolat en poudre.
+		Crémer le
+		beurre et le sucre. Puis ajouter les oeufs un par un et bien
+		battre jusqu\'à ce que desolves sucre.
+		Ajouter Essence Vanila
+		et mélanger la farine progressivement well.Add en petites
+		quantités et bien mélanger. Ajouter le lait.
+		Cuire au four à
+		180 degrés C dans un four préchauffé pendant 25 - 35 minutes.
+	</string>
+	<string name="id_6302_ingredients">Farine, la poudre de chocolat, sucre, margarine,
+		œufs, lait, poudre à pâte,
+		essence de vanille
+	</string>
+	<string name="id_6302_options_name">partie</string>
+	<string name="id_6302_option_0_name">ordinaire</string>
+	<string name="id_6302_option_1_name">grand</string>
+	<string name="id_6302_option_2_name">petit</string>
+	<string name="id_6303_name">Gâteau marbré</string>
+	<string name="id_6303_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6303_instruction">Préchauffer le four à 350 degrés F.
+		Graisser et fariner un moule rond de 9 pouces.
+		Placer la
+		farine, la poudre à pâte, le sel, le sucre, le beurre ou la
+		margarine, les œufs, la vanille,
+		et le lait dans un bol à
+		mélanger. Battre lentement pour humidifier, puis battre avec
+		un
+		mélangeur électrique à vitesse moyenne pendant environ 2
+		minutes jusqu\'à consistance lisse. Réserve 3/4 tasse de pâte;
+		verser le reste dans le cacao dans la pâte pan.Stir 3/4 tasse
+		réservés.
+		Laisser tomber par cuillerées sur le dessus de la
+		pâte blanche. Avec un couteau, tourbillon de la pâte de cacao
+		dans la pâte de couleur blanche à l\'incorporer dans un effet
+		de marbre.
+		Cuire au four préchauffé pendant 30 à 35 minutes,
+		jusqu\'à ce qu\'un pic inséré bois en ressorte propre.
+	</string>
+	<string name="id_6303_ingredients">Farine, la poudre Sauvegarde, sel, Suger, beurre,
+		œufs, lait,
+		Extraits Vanila, poudre de cacao
+	</string>
+	<string name="id_6303_options_name">partie</string>
+	<string name="id_6303_option_0_name">ordinaire</string>
+	<string name="id_6303_option_1_name">grand</string>
+	<string name="id_6303_option_2_name">petit</string>
+	<string name="id_6304_name">COFFEE CAKE</string>
+	<string name="id_6304_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6304_instruction">Make the coffee first and leave to cool.
+		Cream margarine and sugar till light and creamy. Add the
+		eggs
+		one at a time, beating well after each egg. Add vanilla.
+		Fold
+		in the flour alternately with the coffee.
+		Bake at 180 C 30-40
+		minutes till cooked. A skewer or
+		toothpick
+		inserted to the
+		middle of the cake should come out
+		clean with
+		just a bit of
+		moisture and a crumb or two.
+	</string>
+	<string name="id_6304_ingredients">Margerine, Suger, Eggs, Backing Powder, Flour,
+		Coffee, Milk Powder,
+		Vanilla Essence
+	</string>
+	<string name="id_6304_options_name">partie</string>
+	<string name="id_6304_option_0_name">ordinaire</string>
+	<string name="id_6304_option_1_name">grand</string>
+	<string name="id_6304_option_2_name">petit</string>
+	<string name="id_7_name">BOISSONS</string>
+	<string name="id_701_name">TEA</string>
+	<string name="id_7101_name">THÉ NOIR</string>
+	<string name="id_7101_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7101_instruction">Ajouter 200ml d\'eau fraîchement bouillie
+		sur
+		les feuilles de thé. Laisser les feuilles de thé à infuser
+		pendant
+		2 minutes.Remove le thé bag.Add 10 ml de lait.
+	</string>
+	<string name="id_7101_ingredients">Feuilles de thé noir, eau, sucre, lait (si
+		nécessaire)
+	</string>
+	<string name="id_7101_options_name">partie</string>
+	<string name="id_7101_option_0_name">ordinaire</string>
+	<string name="id_7101_option_1_name">grand</string>
+	<string name="id_7101_option_2_name">petit</string>
+	<string name="id_7102_name">THÉ VERT</string>
+	<string name="id_7102_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7102_instruction">Ajouter 200ml d\'eau fraîchement
+		bouillie
+		sur les feuilles de thé. Laisser les feuilles
+		de thé à infuser
+		pendant 2 minutes.Remove le thé bag.Add 10 ml de lait.
+	</string>
+	<string name="id_7102_ingredients">Feuilles de thé vert, eau, sucre, lait
+	</string>
+	<string name="id_7102_options_name">partie</string>
+	<string name="id_7102_option_0_name">ordinaire</string>
+	<string name="id_7102_option_1_name">grand</string>
+	<string name="id_7102_option_2_name">petit</string>
+	<string name="id_7103_name">TISANE</string>
+	<string name="id_7103_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7103_instruction">Ajouter 200ml d\'eau fraîchement
+		bouillie
+		sur les feuilles de thé. Laisser les
+		feuilles de thé à infuser
+		pendant 2 minutes.
+		Remove le thé bag.Add 10 ml de lait.
+	</string>
+	<string name="id_7103_ingredients">Feuilles de thé à base de plantes, eau, sucre
+	</string>
+	<string name="id_7103_options_name">partie</string>
+	<string name="id_7103_option_0_name">ordinaire</string>
+	<string name="id_7103_option_1_name">grand</string>
+	<string name="id_7103_option_2_name">petit</string>
+	<string name="id_702_name">CAFÉ</string>
+	<string name="id_7201_name">Café LATTE</string>
+	<string name="id_7201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7201_instruction">Le processus de prise de copie est une
+		question complexe
+		qui nécessite une formation spéciale et de
+		l\'équipement.
+	</string>
+	<string name="id_7201_ingredients">Café, lait, eau
+	</string>
+	<string name="id_7201_options_name">partie</string>
+	<string name="id_7201_option_0_name">ordinaire</string>
+	<string name="id_7201_option_1_name">grand</string>
+	<string name="id_7201_option_2_name">petit</string>
+	<string name="id_7202_name">CAFÉ IRLANDAIS</string>
+	<string name="id_7202_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7202_instruction"> Le processus de prise de copie est une
+		question complexe
+		qui nécessite une formation spéciale et de
+		l\'équipement.
+	</string>
+	<string name="id_7202_ingredients">Café irlandais, eau, sucre
+	</string>
+	<string name="id_7202_options_name">partie</string>
+	<string name="id_7202_option_0_name">ordinaire</string>
+	<string name="id_7202_option_1_name">grand</string>
+	<string name="id_7202_option_2_name">petit</string>
+	<string name="id_7203_name">Un café noir</string>
+	<string name="id_7203_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7203_instruction">Ajouter l\'eau chaude pour le café.
+		Gardez fermé à brasser.
+		Ajouter le sucre au goût.
+	</string>
+	<string name="id_7203_ingredients">Black Coffee, eau, sucre
+	</string>
+	<string name="id_7203_options_name">partie</string>
+	<string name="id_7203_option_0_name">ordinaire</string>
+	<string name="id_7203_option_1_name">grand</string>
+	<string name="id_7203_option_2_name">petit</string>
+	<string name="id_703_name">VIN</string>
+	<string name="id_7301_name">VIN ROUGE</string>
+	<string name="id_7301_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7301_instruction">Le processus de brassage est compliquée.
+		Elle requiert l\'
+		formation et l\'équipement
+	</string>
+	<string name="id_7301_ingredients">Extrait de raisin, eau, sel, sucre
+	</string>
+	<string name="id_7301_options_name">partie</string>
+	<string name="id_7301_option_0_name">ordinaire</string>
+	<string name="id_7301_option_1_name">grand</string>
+	<string name="id_7301_option_2_name">petit</string>
+	<string name="id_7302_name">VIN BLANC</string>
+	<string name="id_7302_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7302_instruction">Le processus de brassage est compliquée.
+		Elle requiert l\'
+		formation et l\'équipement.
+	</string>
+	<string name="id_7302_ingredients">Extrait de raisin, l\'eau, sucre, sel
+	</string>
+	<string name="id_7302_options_name">partie</string>
+	<string name="id_7302_option_0_name">ordinaire</string>
+	<string name="id_7302_option_1_name">grand</string>
+	<string name="id_7302_option_2_name">petit</string>
+	<string name="id_7303_name">VIN FRANÇAIS</string>
+	<string name="id_7303_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7303_instruction">Le processus de brassage est compliquée.
+		Elle requiert l\'
+		formation et l\'équipement.
+	</string>
+	<string name="id_7303_ingredients">Extrait de raisin, l\'eau, sucre, sel
+	</string>
+	<string name="id_7303_options_name">partie</string>
+	<string name="id_7303_option_0_name">ordinaire</string>
+	<string name="id_7303_option_1_name">grand</string>
+	<string name="id_7303_option_2_name">petit</string>
+	<string name="id_7304_name">VIN CHARDONNAY</string>
+	<string name="id_7304_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7304_instruction">Le processus de brassage est compliquée.
+		Elle requiert l\'
+		formation et l\'équipement.
+	</string>
+	<string name="id_7304_ingredients">Extrait de raisin, l\'eau, sucre, sel
+	</string>
+	<string name="id_7304_options_name">partie</string>
+	<string name="id_7304_option_0_name">ordinaire</string>
+	<string name="id_7304_option_1_name">grand</string>
+	<string name="id_7304_option_2_name">petit</string>
+	<string name="id_8_name">SANDWICHS</string>
+	<string name="id_801_name">sandwich au pain</string>
+	<string name="id_801_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_801_instruction">Couper le pain en tranches. faire une pâte
+		d\'œufs durs,
+		poisson, le sel et le poivre. Appliquer la pâte sur
+		le pain. Ajouter les
+		tranches de tomate.Servir comme prévu.
+	</string>
+	<string name="id_801_ingredients">Pain, beurre, poisson, oeufs, sel, poivre, la
+		tomate
+	</string>
+	<string name="id_801_options_name">partie</string>
+	<string name="id_801_option_0_name">ordinaire</string>
+	<string name="id_801_option_1_name">grand</string>
+	<string name="id_801_option_2_name">petit</string>
+	<string name="id_802_name">SANDWICH AU FROMAGE</string>
+	<string name="id_802_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_802_instruction">Couper le pain en tranches. faire une pâte
+		d\'œufs durs,
+		poisson, le sel et le poivre. Appliquer la pâte sur
+		le pain. Ajouter les tranches de fromage.
+		Servir comme prévu.
+	</string>
+	<string name="id_802_ingredients">Pain, beurre, poisson, oeufs, sel, poivre, tomates,
+		fromage
+	</string>
+	<string name="id_802_options_name">partie</string>
+	<string name="id_802_option_0_name">ordinaire</string>
+	<string name="id_802_option_1_name">grand</string>
+	<string name="id_802_option_2_name">petit</string>
+	<string name="id_803_name">Sandwich au jambon</string>
+	<string name="id_803_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_803_instruction">Couper le pain en tranches. faire une pâte
+		d\'œufs durs,
+		poisson, le sel et le poivre. Appliquer la pâte sur
+		le pain. Ajouter les tranches de fromage.
+		Ajouter le jambon.
+		Servir comme prévu.
+	</string>
+	<string name="id_803_ingredients">Pain, beurre, jambon, oeufs, sel, poivre, tomates,
+		fromage
+	</string>
+	<string name="id_803_options_name">portion</string>
+	<string name="id_803_option_0_name">ordinaire</string>
+	<string name="id_803_option_1_name">grand</string>
+	<string name="id_803_option_2_name">petit</string>
+	<string name="id_804_name">Sandwich aux légumes</string>
+	<string name="id_804_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_804_instruction">Couper le pain en tranches. Faire une pâte
+		à partir de beurre
+		sel et poivre. Faire bouillir la carotte et
+		les tomates. Les écraser et ajouter le fromage.
+		Appliquer la
+		pâte sur le pain.
+	</string>
+	<string name="id_804_ingredients">Pain, beurre, sel, poivre, carottes, pommes de
+		terre, tomates, fromage
+	</string>
+	<string name="id_804_options_name">portion</string>
+	<string name="id_804_option_0_name">ordinaire</string>
+	<string name="id_804_option_1_name">grand</string>
+	<string name="id_804_option_2_name">petit</string>
+	<string name="id_805_name">SANDWICH INDIEN</string>
+	<string name="id_805_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_805_instruction">Couper le pain en tranches. Faire une pâte
+		à partir de beurre
+		sel et le poivre et les épices indiennes.
+		Faire bouillir la carotte et les tomates.
+		Les écraser et ajouter
+		le fromage. Appliquer la pâte sur le pain. Haut de bouillie
+		poulet.
+	</string>
+	<string name="id_805_ingredients">Pain, beurre, sel, poivre, carottes, pommes de
+		terre, tomate, poulet.
+		Fromage, des épices indiennes
+	</string>
+	<string name="id_805_options_name">partie</string>
+	<string name="id_805_option_0_name">ordinaire</string>
+	<string name="id_805_option_1_name">grand</string>
+	<string name="id_805_option_2_name">petit</string>
+	<string name="id_9_name">OPTIONS DE LA SANTÉ</string>
+	<string name="id_901_name">SOUPE AUX LÉGUMES</string>
+	<string name="id_901_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_901_instruction">Pas de préparation trop pour cette soupe.
+		Juste hacher
+		l\'oignon, émincez les carottes en 1/4 pouce
+		d\'épaisseur,
+		couper et réduire de moitié les been verts. Couper
+		les champignons en 1/4
+		morceaux d\'un pouce, hacher les pommes de
+		terre en 1/8 de l \'ou 1/4 de l\' en fonction de
+		leur taille et
+		hacher le persil. Maintenant vous êtes prêt à le mettre
+		tous
+		ensemble.
+	</string>
+	<string name="id_901_ingredients">l\'huile d\'olive, de beurre non salé, l\'oignon, la
+		carotte, le vert
+		les haricots, les champignons, le bouillon de
+		poulet, de pommes de terre, sel et poivre
+		persil
+	</string>
+	<string name="id_901_options_name">partie</string>
+	<string name="id_901_option_0_name">ordinaire</string>
+	<string name="id_901_option_1_name">grand</string>
+	<string name="id_901_option_2_name">petit</string>
+	<string name="id_902_name">SALADE DE FRUITS</string>
+	<string name="id_902_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_902_instruction">Dans un grand bol, combiner les pêches,
+		ananas, et le mélange pudding à la vanille. Cela inclut les jus
+		des canettes. Mélangez bien jusqu\'à ce pudding est dissous.
+		Incorporer le
+		fraises, bananes, bleuets, les raisins et le sucre
+		si
+		souhaitée. Réfrigérer.
+	</string>
+	<string name="id_902_ingredients">Banane, Ananas, pomme, papaye, les graphiques, les
+		arachides
+	</string>
+	<string name="id_902_options_name">partie</string>
+	<string name="id_902_option_0_name">ordinaire</string>
+	<string name="id_902_option_1_name">grand</string>
+	<string name="id_902_option_2_name">petit</string>
+	<string name="id_903_name">LÉGUMES SALADE</string>
+	<string name="id_903_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_903_instruction">Dans une casserole, porter 2 po d\'eau à
+		ébullition.
+		Ajouter les haricots, les pois, les courges jaunes,
+		courgettes et l\'oignon. Réduire le feu;
+		couvrir et laisser
+		mijoter pendant 2-3 minutes ou jusqu\'à ce que les légumes
+		soient tendres mais encore croquants.
+		Égoutter et rincer à l\'eau
+		froide et pat légumes dry.Place dans un bol;
+		ajouter le reste
+		des ingrédients. Incorporer délicatement pour bien enrober.
+		Réfrigérer jusqu\'au moment de servir.
+	</string>
+	<string name="id_903_ingredients">Haricots verts frais, pois, courge, courgette,
+		oignon,
+		Tomate, Carotte. Vinaigrette italienne, ciboulette, sel
+	</string>
+	<string name="id_903_options_name">partie</string>
+	<string name="id_903_option_0_name">ordinaire</string>
+	<string name="id_903_option_1_name">grand</string>
+	<string name="id_903_option_2_name">petit</string>
+	<string name="id_10_name">KIDS \'ALIMENTATION</string>
+	<string name="id_10001_name">CUPCAKE</string>
+	<string name="id_10001_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_10001_instruction">Préchauffer le four à 350 casseroles
+		gâteau degrees.Line
+		avec de la farine liners.Combine papier, le
+		sucre, la poudre à pâte et le sel
+		dans un grand bol à mélanger.
+		Ajouter le shortening, le lait et la vanille.
+		Battre pendant 1
+		minute à vitesse moyenne. Grattez les parois du bol avec une
+		spatule.
+		Ajouter les oeufs au mélange. Battre pendant 1 minute à
+		vitesse moyenne.
+		Racler le bol à nouveau. Battre à grande
+		vitesse pendant 1 minute 30 secondes
+		jusqu\'à ce que la pâte
+		mixed.Spoon bien petit gâteau en papier liners.Bake
+		de 20 à 25
+		minutes ou jusqu\'à ce qu\'un cure-dent inséré au centre en
+		sort
+		clean.Cool 5 minutes dans les moules puis les retirer et placer
+		sur des grilles pour refroidir les petits gâteaux sont
+		complètement completely.Once
+		refroidie, décorer!
+	</string>
+	<string name="id_10001_ingredients">Farine, oeufs, sucre, sel, poudre à pâte, extrait
+		de vanille,
+		lait
+	</string>
+	<string name="id_10001_options_name">partie</string>
+	<string name="id_10001_option_0_name">ordinaire</string>
+	<string name="id_10001_option_1_name">grand</string>
+	<string name="id_10001_option_2_name">petit</string>
+	<string name="id_10002_name">SANDWICHS</string>
+	<string name="id_10002_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_10002_instruction">Faire bouillir la carotte, la tomate, les
+		œufs et faire frire le poisson.
+		Les écraser et de les en faire
+		une pâte en ajoutant le beurre et le fromage.
+		Ajouter un peu de
+		Suger et le sel au goût.
+	</string>
+	<string name="id_10002_ingredients">Pain, beurre, sucre, sel, carottes, pommes de
+		terre, fromage, poisson, œuf
+	</string>
+	<string name="id_10002_options_name">partie</string>
+	<string name="id_10002_option_0_name">ordinaire</string>
+	<string name="id_10002_option_1_name">grand</string>
+	<string name="id_10002_option_2_name">petit</string>
+</resources>

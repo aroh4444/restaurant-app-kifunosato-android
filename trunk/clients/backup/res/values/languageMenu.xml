@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+	<string name="id_1_name">APPETIZERS</string>
+	<string name="id_101_name">SNACK APPETIZER</string>
+	<string name="id_101_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_101_instruction">Use any orange- or green-fleshed melon for
+		this sweet and zesty fruit salsa and serve it as an appetizer
+		with chips or with grilled fish, chicken or pork.
+	</string>
+	<string name="id_101_ingredients">olive oil, unsalted butter, onion, carrot, green
+		beans, mushrooms, chicken stock, potato, salt and pepper
+		parsley
+	</string>
+	<string name="id_102_name">CALAMARI PUFFS APPETIZER</string>
+	<string name="id_102_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_102_instruction">Heat at least 4 inches of oil in a large
+		heavy saucepan or Dutch oven or a deep-fryer.
+		Chop the squid
+		fillets into small pieces and
+		place in a medium bowl. Add the
+		chopped onion,
+		scallions, cheese, egg, parsley, garlic,
+		salt and
+		pepper and mix thoroughly. Add bread crumbs
+		into the mixture and
+		form into 1 1/2-ounce balls.
+		Dredge the balls in the cracker
+		meal
+		and lay on a
+		parchment paper-lined sheet pan to firm.
+		Carefully
+		drop squid balls into the fryer and fry until golden
+		brown.
+	</string>
+	<string name="id_102_ingredients">Vegetable Oil, Squid, Onion, Egg, Garlic, Salt,
+		Pepper,
+	</string>
+	<string name="id_102_options_name">portion</string>
+	<string name="id_102_option_0_name">regular</string>
+	<string name="id_102_option_1_name">large</string>
+	<string name="id_102_option_2_name">small</string>
+	<string name="id_103_name">CHEESE STRAWS</string>
+	<string name="id_103_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_103_instruction">Preheat oven to 450 degrees F (230 degrees
+		C).
+		In a mixing bowl, combine the cheese and butter. Blend in
+		the
+		flour and salt. Form the mixture into 6 balls. Roll the
+		balls
+		into
+		slender "snakes." Cut each "snake" into 4 straws.
+		Bake the straws
+		for about 8 minutes, or until golden brown
+	</string>
+	<string name="id_103_ingredients">Cheddar Cheese, Butter, Salt, Flour
+	</string>
+	<string name="id_103_options_name">portion</string>
+	<string name="id_103_option_0_name">regular</string>
+	<string name="id_103_option_1_name">large</string>
+	<string name="id_103_option_2_name">small</string>
+	<string name="id_104_name">CHEESE BALLS</string>
+	<string name="id_104_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_104_instruction">In a medium bowl combine the cream cheese,
+		Cheddar cheese,
+		Monterey Jack cheese, green bell pepper,
+		jalapeno
+		pepper, Worcestershire
+		sauce and garlic salt. Mix
+		together and form
+		mixture into a ball.
+		Roll ball in cilantro and
+		serve with your
+		favorite crackers.
+	</string>
+	<string name="id_104_ingredients">Cheddar Cheese, Cream Cheese, Pepperjack Cheese,
+		Bellpepper,
+		Salt
+	</string>
+	<string name="id_104_options_name">portion</string>
+	<string name="id_104_option_0_name">regular</string>
+	<string name="id_104_option_1_name">large</string>
+	<string name="id_104_option_2_name">small</string>
+	<string name="id_105_name">PITA CHIPS</string>
+	<string name="id_105_description">Destrere weph ebgei eipgpqeg qega a eagg
+	</string>
+	<string name="id_105_instruction">Preheat oven.Cut each pita bread into 8
+		triangles.
+		Place triangles on lined cookie sheet.In a small
+		bowl,
+		combine the
+		oil,
+		pepper, salt, basil and chervil. Brush
+		each
+		triangle with oil mixture.
+		Bake in the preheated oven for
+		about 7
+		minutes,
+		or until lightly browned and crispy.
+	</string>
+	<string name="id_105_ingredients">Bread, Olive Oil, Pepper, Garlic Salt, Dried Basil,
+		Dried Chervil
+	</string>
+	<string name="id_105_options_name">portion</string>
+	<string name="id_105_option_0_name">regular</string>
+	<string name="id_105_option_1_name">large</string>
+	<string name="id_105_option_2_name">small</string>
+	<string name="id_2_name">SALADS</string>
+	<string name="id_201_name">FRUIT SALAD</string>
+    <string name="id_201_description">The leaves are all down, apples, pomegranates, and persimmons all picked, days mostly overcast and dreary, save for neighborhood citrus trees with their orange and yellow orbs dotting the landscape with vivid color.</string>
+    <string name="id_201_instruction">n a large bowl, combine peaches,
+		pineapples, and vanilla pudding mix. This includes the juices
+		from the cans. Mix well until pudding is dissolved. Stir in
+		strawberries, banana, blueberries, grapes, and sugar if
+		desired.
+		Chill.
+</string>
+    <string name="id_201_ingredients">anana, Pineapple, apple, Papaya, Grapes, Peanuts
+</string>
+    <string name="id_202_name">ASPARAGUS SALAD WITH SHRIMP</string>
+    <string name="id_202_description">This is a quick and easy salad, made with fresh asparagus spears that have been blanched for a few minutes, thinly sliced on the diagonal, and tossed with shrimp in an olive oil, garlic, lemon juice dressing.</string>
+    <string name="id_202_instruction">ring a medium pot of water to a boil and
+		salt it well.
+		Add the asparagus to the boiling water and boil
+		for 3
+		minutes.
+		Use a slotted spoon to remove the asparagus to a
+		bowl to
+		cool.
+		Add the shrimp to the pot of boiling water. If
+		they are
+		pre-cooked,
+		remove after 30 seconds—this is just to
+		warm them. If
+		the shrimp
+		are uncooked, boil them for 2-3
+		minutes, until cooked
+		through.
+		Remove the shrimp and add them to
+		a large bowl.2 Slice the
+		asparagus
+		spears thinly on the diagonal
+		until you get close to the
+		tip.
+		Cut the asparagus tips off in
+		one piece.
+		Put the asparagus in
+		the bowl with the shrimp.
+		Add
+		salt and black pepper to taste. Add
+		more lemon juice if
+		desired, to taste
+</string>
+    <string name="id_202_ingredients">sparagus, Shrimp, Olive Oil, Garlic, Lemon Juice,
+		Salt, Pepper
+</string>
+    <string name="id_202_options_name">portion</string>
+    <string name="id_202_option_0_name">regular</string>
+    <string name="id_202_option_1_name">large</string>
+    <string name="id_202_option_2_name">small</string>
+    <string name="id_203_name">BLACK BEAN SALAD</string>
+    <string name="id_203_description">The basic structure of a black bean salad is black beans (canned or freshly made) with corn kernels (canned, frozen, or fresh). Parsley, basil or cilantro can add a bitter to the flavors.</string>
+    <string name="id_203_instruction">ake sure to rinse and drain the beans,
+		if
+		you are using canned beans.In a large bowl, combine the
+		beans,
+		corn, onions, jalapeno chile peppers, tomatoes, avocado,
+		cilantro, basil, lime juice and olive oil. Add sugar and salt
+		and
+		pepper to taste.Chill before serving.
+</string>
+    <string name="id_203_ingredients">lack Bean, Corn, Onion, Pepper, Tomato, Avocado,
+		Olive Oil, Suger, Salt, Pepper
+</string>
+    <string name="id_203_options_name">portion</string>
+    <string name="id_203_option_0_name">regular</string>
+    <string name="id_203_option_1_name">large</string>
+    <string name="id_203_option_2_name">small</string>
+    <string name="id_204_name">BROCOLLI SALAD</string>
+    <string name="id_204_description">The broccoli will still be firm enough for the salad, the color will be even prettier, because blanching brings out the green, and the taste will be less raw and more cooked. </string>
+    <string name="id_204_instruction">ring a large pot of water, salted with
+		a
+		teaspoon of salt, to a boil. Add the broccoli florets.
+		Cook 1-2
+		minute.Drain the broccoli and immediately put
+		into a bowl of ice
+		water to stop the cooking. Let cool and drain.
+		2 Combine
+		broccoli
+		florets, almonds, crumbled bacon, chopped onion,
+		and
+		peas in a
+		large serving bowl. In a separate bowl,
+		whisk together
+		mayonnaise,
+		cider vinegar and honey.
+		Add dressing to the salad
+		and toss to mix
+		well. Chill thoroughly before serving.
+</string>
+    <string name="id_204_ingredients">roccoli, Salt, Almond, Becon, Onion
+</string>
+    <string name="id_204_options_name">portion</string>
+    <string name="id_204_option_0_name">regular</string>
+    <string name="id_204_option_1_name">large</string>
+    <string name="id_204_option_2_name">small</string>
+    <string name="id_205_name">CEASER SALAD</string>
+    <string name="id_205_description">You have what is probably the most popular restaurant salad in the country, with plenty of variations around the theme of romaine lettuce, garlic, Parmesan, and croutons. </string>
+    <string name="id_205_instruction">n a very large bowl, whisk together
+		the
+		olive oil and garlic.Spread the baguette slices out
+		over a
+		baking
+		sheet, lined with parchment paper or Silpat.
+		Brush or
+		spray with
+		olive oil.Broil for a couple of
+		minutes until the
+		tops are lightly
+		browned.Remove and let cool.
+		Add anchovies and
+		eggs to the oil
+		garlic mixture.
+		Whisk until creamy. Add salt and
+		pepper and 1/4 cup
+		of lemon juice.
+		Whisk in half of the Parmesan
+		cheese.Using your
+		hands,
+		tear off chunks of lettuce from the
+		heads of lettuce.
+		Add to
+		the oil mixture and toss until coated.
+		Add the rest of the
+		Parmesan cheese, toss.
+		Coarsely chop the
+		toasted bread and addto
+		the salad
+</string>
+    <string name="id_205_ingredients">live oil, Garlic, Lemon Juice, Cheese, Eggs,
+		Salt,
+		Pepper. Leetuce
+</string>
+    <string name="id_205_options_name">portion</string>
+    <string name="id_205_option_0_name">regular</string>
+    <string name="id_205_option_1_name">large</string>
+    <string name="id_205_option_2_name">small</string>
+	<string name="id_3_name">SOUP</string>
+	<string name="id_301_name">VEGETABLE SOUP</string>
+	<string name="id_301_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_301_instruction">Not too much prep for this soup. Just chop
+		up the onion, slice the carrots into 1/4 inch thick pieces,
+		trim
+		and halve the green beens. Slice the mushrooms into 1/4
+		inch
+		pieces, chop the potatoes into 1/8\'s or 1/4\'s depending on
+		their
+		size and chop the parsley. Now you are ready to put it
+		all
+		together.
+	</string>
+	<string name="id_301_ingredients">olive oil, unsalted butter, onion, carrot, green
+		beans, mushrooms, chicken stock, potato, salt and pepper
+		parsley
+	</string>
+	<string name="id_302_name">BROCCOLI SOUP</string>
+	<string name="id_302_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_302_instruction">Heat 2 tbs oil in a heavy-based saucepan
+		over low-medium heat and cook onions, garlic and 2 tsp salt.
+		Add
+		potatoes and 5 cups water and bring to the boil.
+		Add
+		broccoli and
+		simmer for 10 minutes or until just tender.
+		Cool
+		slightly then
+		blend, in 3 batches, in a food processor
+		until
+		smooth. Return soup
+		to pan. Stir in cream and season.
+		When ready
+		to serve, gently
+		reheat over medium heat.
+		Meanwhile, process
+		parsley and 100ml oil
+		in a food processor
+		until smooth, then
+		strain through a fine
+		sieve.Heat remaining
+		oil in a frying pan
+		over high heat and cook
+		scallops.
+		Serve soup topped with
+		scallops and chervil leaves,
+		drizzled with parsley oil.
+	</string>
+	<string name="id_302_ingredients">Broccoli, Potato, Cream, Olive oil, Onion, Garlic
+	</string>
+	<string name="id_302_options_name">portion</string>
+	<string name="id_302_option_0_name">regular</string>
+	<string name="id_302_option_1_name">large</string>
+	<string name="id_302_option_2_name">small</string>
+	<string name="id_303_name">CHICKEN SOUP</string>
+	<string name="id_303_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_303_instruction">Cook the chicken wings, onion, carrot,
+		and
+		celery in the oil in a large pot over medium-high heat,
+		stirring
+		often.
+		Add enough cold water to the pot to cover the
+		ingredients by
+		2
+		inches.
+		Bring to a boil over high heat, skimming
+		off any foam
+		that
+		rises to the surface.
+		Add the parsley, thyme,
+		peppercorns,
+		and bay
+		leaves. Reduce the heat to low and
+		simmer,
+		uncovered,
+		until the
+		broth is full-flavored, at least 2 hours
+		and up to 6
+		hours.
+		Strain
+		the broth through a colander set over a
+		large bowl.
+		Discard the
+		solids. Let stand for 5 minutes.
+		Skim off
+		the clear yellow fat that
+		rises to the surface.
+	</string>
+	<string name="id_303_ingredients">Chicken, Onion, Carrot, Vegetable Oil
+	</string>
+	<string name="id_303_options_name">portion</string>
+	<string name="id_303_option_0_name">regular</string>
+	<string name="id_303_option_1_name">large</string>
+	<string name="id_303_option_2_name">small</string>
+	<string name="id_304_name">PUMPKIN SOUP</string>
+	<string name="id_304_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_304_instruction">Preheat oven.Place the pumpkin, onion,
+		garlic,
+		potato and chilli flakes in a large roasting pan.
+		Drizzle
+		with oil and toss to combine. Season with salt and
+		pepper.
+		Roast in
+		pre-heated oven for about 50 to 55 minutes or
+		until the
+		vegetables
+		are golden and tender.Transfer to a large
+		saucepan
+		over high
+		heat.Add the stock. Bring to the boil. Reduce
+		heat to low.
+		Simmer
+		for about 5 minutes. Remove the pan from
+		heat.
+		Using a stick
+		blender, blend soup until just smooth.
+		Stir
+		in the pure cream.
+	</string>
+	<string name="id_304_ingredients">Pumpkin, Onion, Garlic, Potaoto, Olive Oil, Chicken
+		Stock
+	</string>
+	<string name="id_304_options_name">portion</string>
+	<string name="id_304_option_0_name">regular</string>
+	<string name="id_304_option_1_name">large</string>
+	<string name="id_304_option_2_name">small</string>
+	<string name="id_305_name">SEAFOOD SOUP</string>
+	<string name="id_305_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_305_instruction">Saute chopped green onion and garlic in
+		butter.
+		Stir in flour, stirring until well blended. Slowly add 2
+		cups of
+		the fish stock, continuing to cook until smooth and
+		bubbly.
+		Slowly add cream and milk. Stir in crabmeat. Add sherry,
+		lemon-pepper seasoning, salt and white pepper. Simmer until
+		piping hot;
+		adjust seasoning.
+	</string>
+	<string name="id_305_ingredients">Fish Stock, Crab Meat, Onion, Garlic, Butter, Milk,
+		Salt, Pepper
+	</string>
+	<string name="id_305_options_name">portion</string>
+	<string name="id_305_option_0_name">regular</string>
+	<string name="id_305_option_1_name">large</string>
+	<string name="id_305_option_2_name">small</string>
+	<string name="id_4_name">SEAFOOD</string>
+	<string name="id_401_name">FISH</string>
+	<string name="id_4101_name">DEVILLED TUNA</string>
+	<string name="id_4101_description">Adaadfj avfavfajva. oa sfoof oa fo oasosvoa
+		oasv.
+	</string>
+	<string name="id_4101_instruction">Cut eggs in half lengthwise. Remove
+		yolks
+		and mash. Add tuna, mayonnaise, chili sauce, green
+		pepper,
+		onion, mustard salt and pepper sauce. Mix well.
+		Divide mixture
+		among egg whites, heaping high. Garnish with
+		pimento and
+		parsley. (I Garnish mine with a slice of olive
+		and paprika.)
+	</string>
+	<string name="id_4101_ingredients">Tuna fish, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4101_options_name">portion</string>
+	<string name="id_4101_option_0_name">regular</string>
+	<string name="id_4101_option_1_name">large</string>
+	<string name="id_4101_option_2_name">small</string>
+	<string name="id_4102_name">GRILLED YELLOW TUNA</string>
+	<string name="id_4102_description">Fsdsfh oss s sfss a awhoo aoa aooa aoagfho.
+	</string>
+	<string name="id_4102_instruction">Marinate for 6-8 hours in garlic,
+		ginger,
+		sesame oil, black pepper and olive oil. 2 serrano
+		peppers 18 sun
+		dried tomatoes 1/2 c. pistachio nuts 1/2 c.
+		Calamata black
+		olives 4 oz. Feta cheese 3 oz. white wine
+		Grilled tuna should be
+		rare only if sushi quality. Saute rest
+		of ingredients and add
+		reserved marinade. Serve with whole
+		wheat angel hair tossed with
+		a herbal vinaigrette.
+	</string>
+	<string name="id_4102_ingredients">Tuna fish, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4102_options_name">portion</string>
+	<string name="id_4102_option_0_name">regular</string>
+	<string name="id_4102_option_1_name">large</string>
+	<string name="id_4102_option_2_name">small</string>
+	<string name="id_4103_name">BLUE FIN TUNA WITH CAVIER</string>
+	<string name="id_4103_description">Description abf ipabgp papa papfick.
+	</string>
+	<string name="id_4103_instruction">Heat sesame oil in a large skillet over
+		a
+		medium high flame. Place tuna steaks on the skillet. Cook
+		for 1
+		minute on either side. The outside should be just gray
+		and the
+		inside should still be ruby red. Remove from heat and
+		plate with
+		Brown Sugar Soy Sauce (below) and garnish with
+		sesame seeds.
+	</string>
+	<string name="id_4103_ingredients">Tuna fish, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4103_options_name">portion</string>
+	<string name="id_4103_option_0_name">regular</string>
+	<string name="id_4103_option_1_name">large</string>
+	<string name="id_4103_option_2_name">small</string>
+	<string name="id_4104_name">TUNA AND POTATO CAKE</string>
+	<string name="id_4104_description">Description afiga ohagagh nnei io ah hahaoahf
+	</string>
+	<string name="id_4104_instruction">In bowl combine potatoes, tuna, bread
+		crumbs, celery, and pepper. Add tuna water, if and as needed,
+		to moisten mixture. In skillet heat oil over medium heat.
+		Drop
+		about 1/3 cup potato mixture into hot oil; flatten to
+		1/2-inch
+		patty. Cook 4 minutes or until browned. Carefully
+		turn; cook 4
+		minutes more. Repeat with remaining mixture.
+		Serve with tartar
+		sauce if desired.
+	</string>
+	<string name="id_4104_ingredients">Tuna fish, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4104_options_name">portion</string>
+	<string name="id_4104_option_0_name">regular</string>
+	<string name="id_4104_option_1_name">large</string>
+	<string name="id_4104_option_2_name">small</string>
+	<string name="id_402_name">MACKEREL</string>
+	<string name="id_4201_name">DEVILLED MACKEREL</string>
+	<string name="id_4201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_4201_instruction">Heat oven to 220C/fan 200C/gas 7. Make a
+		couple of slashes in both sides of the fish and rub with half
+		the curry paste. Heat the oil in a roasting tray, then fry
+		the
+		potatoes and onion for about 8 mins until starting to
+		brown.
+		Stir the remaining curry paste into the potatoes, then
+		sit the
+		fish on top and roast for 20-25 mins until the fish
+		and potatoes
+		are cooked. Lift the fish onto plates, then
+		place the potatoes
+		back over a high heat. Add the spinach to
+		the pan and cook for
+		3-4 mins until completely wilted. Scoop
+		out and serve with the
+		fish.
+	</string>
+	<string name="id_4201_ingredients">Mackeral fish, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4201_options_name">portion</string>
+	<string name="id_4201_option_0_name">regular</string>
+	<string name="id_4201_option_1_name">large</string>
+	<string name="id_4201_option_2_name">small</string>
+	<string name="id_403_name">SALMON</string>
+	<string name="id_4301_name">DEVILLED SALMON</string>
+	<string name="id_4301_description">Description is osdosa oaoga ahogfap hahga.
+	</string>
+	<string name="id_4301_instruction">Carefully flake the salmon into a bowl,
+		discarding any small bones, cartilage, and skin. Add the
+		onion,
+		celery, corn, salt, and pepper. Fold together with a
+		rubber
+		spatula. Set aside. In another bowl, combine the
+		mayonnaise,
+		mustard, pickle relish, lemon juice,
+		Worcestershire sauce,
+		paprika, and Tabasco sauce. Fold these
+		ingredients into the
+		salmon mixture. Lightly beat the egg.
+		Using the rubber spatula,
+		fold into the salmon mixture along
+		with 1/2 cup of the cracker
+		crumbs. Place the remaining cup
+		of cracker crumbs on a dinner
+		plate. Form the salmon mixture
+		into eight 3-inch patties.
+		Carefully coat them with the
+		cracker crumbs. Refrigerate,
+		loosely covered, for 1 hour.
+	</string>
+	<string name="id_4301_ingredients">Salmon fish, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4301_options_name">portion</string>
+	<string name="id_4301_option_0_name">regular</string>
+	<string name="id_4301_option_1_name">large</string>
+	<string name="id_4301_option_2_name">small</string>
+	<string name="id_404_name">CRABS</string>
+	<string name="id_4401_name">DEVILLED CRABS</string>
+	<string name="id_4401_description">Fafa ioag oaagaoga oiagag agh kaka.
+	</string>
+	<string name="id_4401_instruction">Put the mayonnaise in a bowl and whisk
+		in
+		the onions, green peppers, parsley, mustard,
+		Worcestershire
+		sauce, Tabasco, cayenne, lemon juice, salt,
+		and pepper. Go very
+		easy on the salt and pepper. Cover bowl
+		and put aside for 15
+		minutes or so for the flavors to marry.
+		Correct seasoning.
+		Gently fold in the crab. Reserve,
+		refrigerated, if you are doing
+		this in advance. Melt 3
+		tablespoons butter in a small skillet
+		and add the bread
+		crumbs. Cook over low heat until just golden,
+		adding a little
+		more butter if it seems too dry. Scrape into a
+		bowl and cool.
+		Preheat oven to 425 degrees F.
+	</string>
+	<string name="id_4401_ingredients">Fresh crabs, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4401_options_name">portion</string>
+	<string name="id_4401_option_0_name">regular</string>
+	<string name="id_4401_option_1_name">large</string>
+	<string name="id_4401_option_2_name">small</string>
+	<string name="id_405_name">PRAWNS</string>
+	<string name="id_4501_name">DEVILLED PRAWNS</string>
+	<string name="id_4501_description">Dessia aig apgp apfgpahg apogpa</string>
+	<string name="id_4501_instruction">Shell de-vein and wash prawns.Heat oil
+		and
+		add onion, Ginger and garlic. Cook over heat for two
+		minutes.
+		Add paprika,chilli,turmeric,sugar and salt. Mix
+		well. Add prawns
+		,tomato sauce and Worcestershire sauce. Cook
+		uncover for 5-7
+		minutes on low heat. Serve Hot with rice ,or
+		buns.
+	</string>
+	<string name="id_4501_ingredients">Fresh prawns, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4501_options_name">portion</string>
+	<string name="id_4501_option_0_name">regular</string>
+	<string name="id_4501_option_1_name">large</string>
+	<string name="id_4501_option_2_name">small</string>
+	<string name="id_406_name">LOBSTERS</string>
+	<string name="id_4601_name">DEVILLED LOBSTERS</string>
+	<string name="id_4601_description">Desga asoghagh aisfaf aslgfhagh aghl
+	</string>
+	<string name="id_4601_instruction">Preheat oven to 350 degrees. Add first 6
+		ingredients to a large pot of boiling water. Add the lobster
+		tails to the water. Keep at a full rolling boil for 20
+		minutes.
+		Remove the lobster tails, split in half lengthwise,
+		and remove
+		the meat. Save 6 half shells. Saute the celery,
+		onion, green
+		bell pepper, and parsley in butter until the
+		onion is
+		transparent. Break lobster meat into chunks in a
+		large bowl.
+		Gently stir in the sauteed vegetables, hard
+		boiled eggs, raw
+		egg, Tabasco, 1 cup bread crumbs, salt and
+		pepper to taste, and
+		just enough milk to hold it together.
+		Pile the mixture high in
+		each of the 6 reserved shells and
+		top with the rest of the bread
+		crumbs. Bake until brown,
+		about 20 minutes. Serve at once with a
+		serving of melted
+		butter for each portion. Dip each bite in
+		butter when eating.
+	</string>
+	<string name="id_4601_ingredients">Fresh lobsters, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4601_options_name">portion</string>
+	<string name="id_4601_option_0_name">regular</string>
+	<string name="id_4601_option_1_name">large</string>
+	<string name="id_4601_option_2_name">small</string>
+	<string name="id_407_name">SQUID</string>
+	<string name="id_4701_name">DEVILLED SQUID</string>
+	<string name="id_4701_description">Destetr psfisdgh hsogh hsdoghg hsdofghods.
+	</string>
+	<string name="id_4701_instruction">Cut squid lengthways into 1cm. strips,
+		thread onto toothpicks. Combine remaining ingredients, except
+		parsley, in a bowl. Add squid to the liquid and put in the
+		refrigerator to marinate for a few hours. Barbecue squid,
+		brushing with marinade, until tender. Sprinkle with parsley
+		before serving. Yields 24.
+	</string>
+	<string name="id_4701_ingredients">Fresh squids, egg, chilli, salt, peppers,
+		onion
+	</string>
+	<string name="id_4701_options_name">portion</string>
+	<string name="id_4701_option_0_name">regular</string>
+	<string name="id_4701_option_1_name">large</string>
+	<string name="id_4701_option_2_name">small</string>
+	<string name="id_5_name">MAIN COURSES</string>
+	<string name="id_501_name">RICE</string>
+	<string name="id_5101_name">FRIED RICE</string>
+	<string name="id_5101_description">Fsdsfh oss s sfss a awhoo aoa aooa aoagfho.
+	</string>
+	<string name="id_5101_instruction">Marinate for 6-8 hours in garlic,
+		ginger,
+		sesame oil, black pepper and olive oil. 2 serrano
+		peppers 18 sun
+		dried tomatoes 1/2 c. pistachio nuts 1/2 c.
+		Calamata black
+		olives 4 oz. Feta cheese 3 oz. white wine
+		Grilled tuna should be
+		rare only if sushi quality. Saute rest
+		of ingredients and add
+		reserved marinade. Serve with whole
+		wheat angel hair tossed with
+		a herbal vinaigrette.
+	</string>
+	<string name="id_5101_ingredients">cooked rice, Carrot, Beans, Eggs, Sausages,
+		Onions,
+		salt, pepper,
+		Oil, Sauce
+	</string>
+	<string name="id_5102_name"> BIRIYANI </string>
+	<string name="id_5102_description">Fsdsfh oss s sfss a awhoo aoa aooa aoagfho.
+	</string>
+	<string name="id_5102_instruction">Saute the onions and the cashew in the
+		butter until golden brown.
+		Add the green peas and raisins and
+		fry.Remove from the fire, and put them aside.
+
+		Put the ginger,
+		garlic, chillie powder, curry powder into the
+		same pan used
+		above and saute for 3-4 minutes. Add the meat
+		and
+		saute.
+
+		Add
+		chopped tomatoes, cloves, cinnamon, cardamoms, turmeric,
+		mint
+		leaves and salt and saute for 2 minutes. Add a little
+		water
+		and
+		cook until the meat is almost cooked. Now add the rice
+		and
+		potatoes. Add the rest of the water and simmer covered, on
+		a
+		very
+		low flame for 15-20 minutes, until the rice is cooked.
+
+		Serve hot, garnished with the fried onions
+	</string>
+	<string name="id_5102_ingredients"> Chicken, Cooked rice, Raisins, Green peas,
+		Cashew
+		nuts, Garlic, Ginger, curry powder, Onions,
+		Tumeric,
+		Potatoes,
+		Salt to taste
+	</string>
+	<string name="id_5102_options_name">portion</string>
+	<string name="id_5102_option_0_name">regular</string>
+	<string name="id_5102_option_1_name">large</string>
+	<string name="id_5102_option_2_name">small</string>
+	<string name="id_5103_name">MALAYSIAN RICE</string>
+	<string name="id_5103_description">Description abf ipabgp papa papfick.
+	</string>
+	<string name="id_5103_instruction">Heat 2 tablespoons of oil in a wok or
+		deep
+		frying pan.
+		Add the chicken and fry, stirring often, over
+		medium
+		heat for 5 minutes.
+		Add the onion and garlic and fry,
+		stirring
+		often, for a further
+		8 minutes.
+		Add the shrimps, green
+		peas, salt,
+		pepper and cayenne. Stir-fry
+		for 5 minutes.
+		Add the
+		rice and
+		stir-fry until the rice has heated through.
+		Meanwhile, heat the
+		remaining oil in a separate large frying
+		pan. Fry the eggs until
+		cooked to taste.
+		Transfer the fried
+		rice to a serving platter.
+		Top with the fried
+		eggs. Garnish
+		with lettuce, coriander leaves
+		and tomato.
+		Serve as it is or
+		with peanut sauce.
+	</string>
+	<string name="id_5103_ingredients"> Cooked rice, Chicken, Vegetable Oil, Onion,
+		Shrimps,
+		Salt, Pepper, Eggs, Lettus, Tomatos
+	</string>
+	<string name="id_5103_options_name">portion</string>
+	<string name="id_5103_option_0_name">regular</string>
+	<string name="id_5103_option_1_name">large</string>
+	<string name="id_5103_option_2_name">small</string>
+	<string name="id_5104_name">YELLOW RICE</string>
+	<string name="id_5104_description">Description afiga ohagagh nnei io ah hahaoahf
+	</string>
+	<string name="id_5104_instruction">Heat the saucepan. Add 2 spoonfulls of
+		oil.
+		When oil is hot add onions and fry till it gets golden
+		brown, add all
+		the other ingredients and water. Cover the
+		saucepan and cook for about
+		10 minutes. Serve with sauce.
+	</string>
+	<string name="id_5104_ingredients"> Cooked Basmati Rice, Onion, Garlic, Oil,
+		Tumeric,
+		Cloves,
+		Cardamon, Cinnamon, Water, Salt
+	</string>
+	<string name="id_5104_options_name">portion</string>
+	<string name="id_5104_option_0_name">regular</string>
+	<string name="id_5104_option_1_name">large</string>
+	<string name="id_5104_option_2_name">small</string>
+	<string name="id_502_name">PIZZA</string>
+	<string name="id_5201_name">CHEESE PIZZA</string>
+	<string name="id_5201_description">A herb, hand-rolled crust 
+								with a homemade tomato sauce topped 
+								with mozzarella cheese. Approx. 10 in. (25.4 cm) round. 
+								Warm in microwave or oven until cheese melts. Freezes well.</string>
+	<string name="id_5201_instruction">Make the dough. Mix tomato puree, tomato
+		paste,
+		minced garlic and basil. Spread a layer onto prepared
+		pizza dough.
+		Add another layer of saice. Top with sliced
+		Mozarella Cheese. Bake at 500C
+		for 10-12 minutes.
+	</string>
+	<string name="id_5201_ingredients">Lukewarm Water, Yeast, Sugar, Bread Flour, Salt,
+		Olive Oil,
+		Tomato Puree, Tomato Paste, Garlic, Fresh Mozerella
+		Cheese
+	</string>
+	<string name="id_5201_options_name">portion</string>
+	<string name="id_5201_option_0_name">regular</string>
+	<string name="id_5201_option_1_name">large</string>
+	<string name="id_5201_option_2_name">small</string>
+	<string name="id_5202_name">PEPPERONI PIZZA</string>
+	<string name="id_5202_description">Mix up this classic pepperoni pizza 
+								recipe with sautéed mushrooms to add earthy 
+								flavor to this familiar favorite.</string>
+	<string name="id_5202_instruction">Preheat oven to 500°. Heat a large
+		nonstick skillet over medium-high heat.
+		Coat pan with cooking
+		spray. Add sliced mushrooms to pan, and sauté for 5 minutes
+		or
+		until moisture evaporates.
+		Remove plastic wrap from Basic
+		Pizza
+		Dough; discard. Brush oil over dough.
+		Remove preheated
+		baking
+		sheet from oven; close oven door. Slide dough onto
+		preheated
+		baking sheet, using a spatula as a guide.
+		Bake on
+		lowest oven
+		rack at 500° for 8 minutes. Remove from oven.
+		Spread Basic Pizza
+		Sauce in an even layer over crust, leaving
+		a 1/4-inch border.
+		Top sauce with mushrooms.
+		Sprinkle
+		mushrooms evenly with
+		mozzarella and Parmesan. Arrange
+		pepperoni in an even layer on
+		top of cheese.
+		Bake on middle
+		rack an additional 10 minutes or
+		until crust is golden brown
+		and cheese melts. Cut into 12
+		wedges.
+	</string>
+	<string name="id_5202_ingredients"> Cooking spray, Sliced cremini mushrooms, Basic
+		Pizza Dough, Olive oil,
+		Mozzarella cheese, Parmesan Cheese,
+		Turky Pepperoni
+	</string>
+	<string name="id_5202_options_name">portion</string>
+	<string name="id_5202_option_0_name">regular</string>
+	<string name="id_5202_option_1_name">large</string>
+	<string name="id_5202_option_2_name">small</string>
+	<string name="id_520_name">SAUSAGE PIZZA</string>
+	<string name="id_520_description">Spread crust in pizza pan. Top 
+	    with sauce in box. Next layer Mozzarella cheese 
+	    slices to cover sauce. Then layer sausage. 
+	    Then top with shredded Mozzarella cheese.</string>
+	<string name="id_520_instruction">With greased fingers, pat dough onto an
+		ungreased 12-in. pizza pan.
+		Prick dough thoroughly with a
+		fork.
+		Bake at 400° for 10-12 minutes or until lightly
+		browned.
+		Meanwhile, in a large skillet, cook the sausage,
+		onion,
+		mushrooms and green pepper over medium
+		heat until
+		sausage is no
+		longer pink; drain.Spread pizza sauce over
+		crust.
+		Top with
+		sausage mixture; sprinkle with cheese. Bake at
+		400° for 12-15
+		minutes or until golden brown.
+	</string>
+	<string name="id_520_ingredients"> Pizza Dough, Crushed Tomatoes, Basil, Mozzarella
+		Chhese,
+		Salt, Pepper, Olive Oil, Garlic, Sausages
+	</string>
+	<string name="id_520_options_name">portion</string>
+	<string name="id_520_option_0_name">regular</string>
+	<string name="id_520_option_1_name">large</string>
+	<string name="id_520_option_2_name">small</string>
+	<string name="id_503_name">SPAGEHTTI</string>
+	<string name="id_5301_name">CREAMY TOMATO SPAGHETTI</string>
+	<string name="id_5301_description">Description is osdosa oaoga ahogfap hahga.
+	</string>
+	<string name="id_5301_instruction">Boil salted water. Heat olive oil in
+		large
+		skillet over medium heat. Add onion; cook and stir
+		until tender,
+		about 5-6 minutes.Add pasta sauce to onion
+		mixture. Add water to
+		an empty jar; close jar and shake to
+		loosen rest of pasta sauce;
+		add to skillet along with
+		undrained tomatoes. Bring to a
+		simmer.Cook spaghetti
+		according to package directions until al
+		dente.
+		A few minutes
+		before the spaghetti is done, add cream
+		cheese to pasta
+		sauce; cook and stir until cheese melts and
+		sauce is creamy.
+		Drain pasta and add to skillet with sauce; toss
+		for a few
+		minutes, then serve.
+	</string>
+	<string name="id_5301_ingredients"> Spaghetti, Olive Oil, Onion, Water, Tomatoes,
+		Cheese, Tomato Pasta Sauce
+	</string>
+	<string name="id_5301_options_name">portion</string>
+	<string name="id_5301_option_0_name">regular</string>
+	<string name="id_5301_option_1_name">large</string>
+	<string name="id_5301_option_2_name">small</string>
+	<string name="id_5302_name">MEATLOAF SPAGHETTI</string>
+	<string name="id_5302_description">Description is osdosa oaoga ahogfap hahga.
+	</string>
+	<string name="id_5302_instruction">Boil a large pot of salted water.
+		Meanwhile, cut meatloaf into small pieces and
+		combine in large
+		skillet with pasta sauce. Rinse pasta sauce jar out
+		with the
+		water and
+		add that to skillet. Place over medium heat and
+		bring
+		to a
+		simmer, stirring frequently.
+		Cook pasta according to
+		package
+		directions until al dente. Drain, then place on
+		serving
+		platter.
+		Top with pasta sauce and shredded cheese and
+		serve
+		immediately.
+	</string>
+	<string name="id_5302_ingredients"> Spaghetti, Meatloaf, Pasta Sauce, Water, Romano
+		Cheese
+	</string>
+	<string name="id_5302_options_name">portion</string>
+	<string name="id_5302_option_0_name">regular</string>
+	<string name="id_5302_option_1_name">large</string>
+	<string name="id_5302_option_2_name">small</string>
+	<string name="id_504_name">LASAGNA</string>
+	<string name="id_5401_name">ITALIAN LASAGNA</string>
+	<string name="id_5401_description">Dessia aig apgp apfgpahg apogpa</string>
+	<string name="id_5401_instruction">Melt the butter.Gradually add milk.
+		Remove
+		from heat and add nutmeg and tomato sauce. Stire well
+		and allow
+		to cool. Onto the bottom of a backing dish spread
+		some Bechamel
+		sauce.
+		Evenly spread a layer of all the ricotta
+		mixture and
+		then a
+		layer of all the spinach.
+		Arrange another
+		layer of
+		pasta sheets
+		and spread all the ground beef on top.
+		Arrange
+		the final layer of
+		pasta sheets and top with remaining
+		bechamel, mozzarella and
+		Parmesan cheeses.
+		Bake for about
+		30mins.
+	</string>
+	<string name="id_5401_ingredients">Butter, Flour, Milk, Nutmeg, Tomato Sauce, Salt,
+		Pepper,
+		Olive oil, Beef, Ricotta Cheese, Eggs, Lasagna Sheets,
+		Mozerrella
+	</string>
+	<string name="id_5401_options_name">portion</string>
+	<string name="id_5401_option_0_name">regular</string>
+	<string name="id_5401_option_1_name">large</string>
+	<string name="id_5401_option_2_name">small</string>
+	<string name="id_5402_name">CHEESE LASAGNA</string>
+	<string name="id_5402_description">Dessia aig apgp apfgpahg apogpa</string>
+	<string name="id_5402_instruction">Preheat oven.Bring a large pot of
+		lightly
+		salted water to a boil. Add pasta
+		and cook for 8 to 10
+		minutes or
+		until al dente; drain and lay
+		lasagna flat on foil
+		to cool.
+		In a
+		medium bowl, combine
+		ricotta, Parmesan, eggs,
+		salt and pepper;
+		mix well.
+		In a
+		medium saucepan, heat oil over
+		medium heat and
+		saute garlic
+		for 2 minutes;
+		stir in spaghetti
+		sauce and Italian
+		seasoning. Heat sauce until
+		warmed through,
+		stirring
+		occasionally, 2 to 5 minutes.Spread 1/2 cup of sauce
+		in the
+		bottom of a 9x13 baking dish.
+		Cover with a layer of
+		noodles.
+		Spread half the ricotta mixture over noodles; top
+		with
+		another
+		noodle layer.
+		Pour 1 1/2 cups of sauce over
+		noodles,
+		and spread
+		the remaining ricotta over the sauce.
+		Top
+		with
+		remaining noodles
+		and sauce and sprinkle mozzarella over
+		all.
+		Cover with greased
+		foil.
+		Bake 45 minutes, or until cheese
+		is
+		bubbly and top is
+		golden.
+	</string>
+	<string name="id_5402_ingredients">Lasagna Noodles, Parmesan Cheese, Eggs, Salt,
+		Pepper, Olive Oil,
+		Spagatti Sauce, Italian Seasoning,
+		Mozzarella
+		cheese
+	</string>
+	<string name="id_5402_options_name">portion</string>
+	<string name="id_5402_option_0_name">regular</string>
+	<string name="id_5402_option_1_name">large</string>
+	<string name="id_5402_option_2_name">small</string>
+	<string name="id_6_name">DESSERTS</string>
+	<string name="id_601_name">ICE CREAM</string>
+	<string name="id_6101_name">VANILA ICE CREAM</string>
+	<string name="id_6101_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6101_instruction">Heat the milk, salt, and sugar in a
+		saucepan. Scrape the seeds from the vanilla bean into the
+		milk,add the bean pod to the milk.
+		Cover, remove from heat,
+		and
+		infuse for one hour.Set up an ice bath by placing a
+		2-quart (2l)
+		bowl in a larger bowl partially filled with ice
+		and water.
+		Set a
+		strainer over the top of the smaller bowl and
+		pour the cream
+		into the bowl.In a separate bowl, stir
+		together the egg yolks.
+		Rewarm the milk then gradually pour
+		some of the milk into the
+		yolks, whisking constantly as you
+		pour. Scrape the warmed yolks
+		and
+		milk back into the
+		saucepan.Cook over low heat, stirring
+		constantly and scraping
+		the bottom with a heat-resistant
+		spatula,
+		until the custard
+		thickens enough to coat the
+		spatula.Strain the custard into
+		the heavy cream. Stir over
+		the
+		ice until cool,
+		add the vanilla
+		extract, then refrigerate
+		to chill
+		thoroughly. Preferably
+		overnight.Remove the vanilla
+		bean
+		and
+		freeze the custard in
+		your ice cream maker according
+		to the
+		manufacturer’s
+		instructions.
+	</string>
+	<string name="id_6101_ingredients">Milk, Salt, Sugar, Vanilla Bean, Heavy cream, Egg
+		yolk,
+		Vanilla extract
+	</string>
+	<string name="id_6101_options_name">portion</string>
+	<string name="id_6101_option_0_name">regular</string>
+	<string name="id_6101_option_1_name">large</string>
+	<string name="id_6101_option_2_name">small</string>
+	<string name="id_6102_name">CHOCOLATE ICE CREAM</string>
+	<string name="id_6102_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6102_instruction">Place the cocoa powder along with 1 cup
+		of
+		the half-and-half
+		into a medium saucepan over medium heat
+		and
+		whisk to combine. Add
+		the remaining
+		half-and-half and the
+		heavy
+		cream. Bring the mixture just to a simmer,
+		stirring
+		occasionally,
+		and remove from the heat.In a medium mixing bowl
+		whisk the egg
+		yolks until they lighten in color.
+		Gradually add
+		the sugar and whisk to combine. Temper the cream mixture
+		into
+		the eggs and
+		sugar by gradually adding small amounts. Pour in
+		the remainder and
+		return the entire mixture
+		to the saucepan and
+		place over low heat.Continue to cook,
+		stirring frequently,
+		until
+		the mixture thickens slightly and coats the back of a
+		spoon
+		and
+		reaches 170 to 175 degrees F.
+		Pour the mixture into a
+		container
+		and allow to sit at room
+		temperature. Stir in the
+		vanilla
+		extract.
+		Place the mixture into the refrigerator and
+		once it is
+		cool enough
+		not to form condensation on the lid.
+		Serve as is for
+		soft serve or freeze for another 3 to 4 hours
+		to
+		allow the ice
+		cream to harden.
+	</string>
+	<string name="id_6102_ingredients">Cocoa Powder, Heavy cream, Egg yolk, Sugar,
+		Vanila
+		Extract
+	</string>
+	<string name="id_6102_options_name">portion</string>
+	<string name="id_6102_option_0_name">regular</string>
+	<string name="id_6102_option_1_name">large</string>
+	<string name="id_6102_option_2_name">small</string>
+	<string name="id_6103_name">STRAWBERRY ICE CREAM</string>
+	<string name="id_6103_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6103_instruction">Add strawberries, lemon juice and sugar.
+		Mix well and set aside in the fridge.sBeat eggs.
+		Gradually
+		adding sugar stir vanila and milk. Add strawberry juice and
+		mix
+		well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6103_ingredients">Fresh Strawberries, Fresh Lemon Juice, Eggs,
+		Sugar,
+		Heavy Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6103_options_name">portion</string>
+	<string name="id_6103_option_0_name">regular</string>
+	<string name="id_6103_option_1_name">large</string>
+	<string name="id_6103_option_2_name">small</string>
+	<string name="id_6104_name">FRUIT AND NUT ICE CREAM</string>
+	<string name="id_6104_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6104_instruction">Preheat oven to 180°C.Spread the
+		hazelnuts
+		and almonds over a baking
+		tray and cook in preheated
+		oven until
+		light golden.Remove the skin of hazlenuts.
+		Put the
+		hazelnuts and
+		almonds to a medium bowl. Add the peaches, figs
+		and pistachio
+		kernels, and stir until well combined.Sprinkle
+		the fruit and nut
+		mixture
+		over the base of the prepared pan.
+		Spoon the ice-cream
+		over the
+		nut mixture
+		and use the back of a
+		spoon to smooth the
+		surface.Place in freezer until firm.
+		To
+		make the toffee cream,
+		place the sugar in a medium frying pan
+		over low heat and
+		cook,
+		stirring,until it turns golden
+		brown.Gradually stir in
+		the cream
+		(the toffee will harden).
+		Place pan over low heat
+		and cook,
+		stirring, for 2-3 minutes or
+		until toffee
+		dissolves.
+	</string>
+	<string name="id_6104_ingredients">Hazelnuts, Flaked almonds, Dried Peaches, Dried
+		Whole Dessert Figs,
+		Pistachio Kernels, Classic Ice Cream
+	</string>
+	<string name="id_6104_options_name">portion</string>
+	<string name="id_6104_option_0_name">regular</string>
+	<string name="id_6104_option_1_name">large</string>
+	<string name="id_6104_option_2_name">small</string>
+	<string name="id_6105_name">CARAMEL ICE CREAM</string>
+	<string name="id_6105_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6105_instruction">Heat 1 cup sugar until it is dark
+		amber.Add 1 1/4 cups cream and cook, stirring, until all of
+		caramel has dissolved.
+		Transfer to a bowl and stir in sea salt
+		and vanilla.Add milk, remaining cup cream, and remaining 1/4
+		cup sugar just to a boil in a small
+		heavy saucepan, stirring
+		occasionally.Lightly whisk eggs in a
+		medium bowl, then add
+		half
+		of hot milk mixture in a slow
+		stream, whisking
+		constantly. Pour
+		back into saucepan and cook
+		over medium heat.
+		Pour custard
+		through a fine-mesh sieve into
+		a large bowl, then
+		stir in cooled
+		caramel.
+		Chill custard,
+		stirring occasionally,
+		until very cold.
+		Freeze custard in ice
+		cream maker, then
+		transfer to an airtight
+		container and put
+		in freezer to firm
+		up.
+	</string>
+	<string name="id_6105_ingredients">Sugar, Heavy Cream, Salt, Vanila Extract, Milk,
+		Eggs
+	</string>
+	<string name="id_6105_options_name">portion</string>
+	<string name="id_6105_option_0_name">regular</string>
+	<string name="id_6105_option_1_name">large</string>
+	<string name="id_6105_option_2_name">small</string>
+	<string name="id_6106_name">CHOCOLATE CHIP ICE CREAM</string>
+	<string name="id_6106_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6106_instruction">Add chocolate chips, lemon juice and
+		sugar. Mix well and set aside in the fridge.sBeat eggs.
+		Gradually adding sugar stir vanila and milk. Add strawberry
+		juice and mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6106_ingredients">Chocolate chips, Fresh Lemon Juice, Eggs, Sugar,
+		Heavy Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6106_options_name">portion</string>
+	<string name="id_6106_option_0_name">regular</string>
+	<string name="id_6106_option_1_name">large</string>
+	<string name="id_6106_option_2_name">small</string>
+	<string name="id_6107_name">HONEYCOMB ICE CREAM</string>
+	<string name="id_6107_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6107_instruction">Add chocolate chips, lemon juice and
+		sugar. Mix well and set aside in the fridge.sBeat eggs.
+		Gradually adding sugar stir vanila and milk. Add strawberry
+		juice and mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6107_ingredients">Honey, Fresh Lemon Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6107_options_name">portion</string>
+	<string name="id_6107_option_0_name">regular</string>
+	<string name="id_6107_option_1_name">large</string>
+	<string name="id_6107_option_2_name">small</string>
+	<string name="id_6108_name">MANGO VANILA CREAM</string>
+	<string name="id_6108_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6108_instruction">Add slices of mango, lemon juice and
+		sugar. Mix well and set aside in the fridge.sBeat eggs.
+		Gradually adding sugar stir vanila and milk. Add strawberry
+		juice and mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6108_ingredients">Mango, Fresh Lemon Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6108_options_name">portion</string>
+	<string name="id_6108_option_0_name">regular</string>
+	<string name="id_6108_option_1_name">large</string>
+	<string name="id_6108_option_2_name">small</string>
+	<string name="id_6109_name">ORANGE ICE CREAM</string>
+	<string name="id_6109_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6109_instruction">Add Raspberry lime juice and sugar. Mix
+		well and set aside in the fridge.sBeat eggs.
+		Gradually adding
+		sugar stir vanila and milk. Add strawberry juice and mix
+		well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6109_ingredients">Raspberry ,Fresh Lime Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6109_options_name">portion</string>
+	<string name="id_6109_option_0_name">regular</string>
+	<string name="id_6109_option_1_name">large</string>
+	<string name="id_6109_option_2_name">small</string>
+	<string name="id_6110_name">BANANA ICE CREAM</string>
+	<string name="id_6110_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6110_instruction">Add banana, lime juice and sugar. Mix
+		well
+		and set aside in the fridge.sBeat eggs.
+		Gradually adding
+		sugar
+		stir vanila and milk. Add strawberry juice and mix
+		well.
+		Pour
+		into an ice cream maker.
+	</string>
+	<string name="id_6110_ingredients">Banana, Fresh Lime Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6110_options_name">portion</string>
+	<string name="id_6110_option_0_name">regular</string>
+	<string name="id_6110_option_1_name">large</string>
+	<string name="id_6110_option_2_name">small</string>
+	<string name="id_6111_name">BLACKBERRY ICE CREAM</string>
+	<string name="id_6111_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6111_instruction">Add blackberry, lime juice and sugar.
+		Mix
+		well and set aside in the fridge.sBeat eggs.
+		Gradually
+		adding
+		sugar stir vanila and milk. Add strawberry juice and
+		mix well.
+		Pour into an ice cream maker.
+	</string>
+	<string name="id_6111_ingredients">Blackberry, Fresh Lime Juice, Eggs, Sugar, Heavy
+		Wipping Cream, Milk, Vanila Extract
+	</string>
+	<string name="id_6111_options_name">portion</string>
+	<string name="id_6111_option_0_name">regular</string>
+	<string name="id_6111_option_1_name">large</string>
+	<string name="id_6111_option_2_name">small</string>
+	<string name="id_602_name">PUDDING</string>
+	<string name="id_6201_name">CARAMEL PUDDING</string>
+	<string name="id_6201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6201_instruction">Prepare caramel.Boil sugar and water
+		until
+		it turns golden brown
+		and pour into mould or dish.Now
+		prepare
+		mixture. Mix condensed
+		milk and water with vanilla.
+		Add beaten
+		eggs into mixture and mix well. Strain mixture
+		into
+		mould/dish.
+		Cover the dish with aluminum foil.Place
+		mould/dish in baking
+		tray
+		with a little
+		water and bake in oven
+		at low heat for about an
+		hour or until
+		done.
+		Turn out pudding
+		from mould on to dish.
+	</string>
+	<string name="id_6201_ingredients">Sugar, Water, Condensed Milk, Vanilla, Egg
+	</string>
+	<string name="id_6201_options_name">portion</string>
+	<string name="id_6201_option_0_name">regular</string>
+	<string name="id_6201_option_1_name">large</string>
+	<string name="id_6201_option_2_name">small</string>
+	<string name="id_6202_name">RICE PUDDING</string>
+	<string name="id_6202_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6202_instruction"> In a medium-sized, heavy-bottomed
+		saucepan, bring the milk,
+		rice and salt to a boil over high
+		heat. Reduce heat to low and simmer
+		until the rice is tender,
+		about 20-25 minutes. Stir frequently to
+		prevent
+		the rice from
+		sticking to the bottom of the pan.In a small
+		mixing bowl,
+		whisk
+		together egg and brown sugar until well
+		mixed. Add a half
+		cup of
+		the hot rice
+		mixture to the egg
+		mixture, a tablespoon at
+		a time,
+		vigorously whisking to
+		incorporate.
+		Add egg mixture
+		back into the
+		saucepan of rice
+		and milk and stir, on low heat,
+		for 10 minutes
+		or so, until
+		thickened. Be careful not to have
+		the mixture come
+		to a boil
+		at this point.
+		Stir in the vanilla.
+		Remove from heat and
+		stir
+		in the raisins and cinnamon.Serve
+		warm or cold
+	</string>
+	<string name="id_6202_ingredients">Milk, Rice, Salt, Egg, Brown Sugar, Vanilla
+		Extract, Cinnamon, Raisins
+	</string>
+	<string name="id_6202_options_name">portion</string>
+	<string name="id_6202_option_0_name">regular</string>
+	<string name="id_6202_option_1_name">large</string>
+	<string name="id_6202_option_2_name">small</string>
+	<string name="id_6203_name">STRAWBERRY PUDDING</string>
+	<string name="id_6203_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6203_instruction">In top of double boiler combine 1/3 cup
+		sugar, flour, salt,
+		egg yolks, milk, and 1 teaspoon vanilla;
+		cook, stirring constantly, until custard
+		thickens. Line bottom
+		and sides of a baking dish (1 1/2-quart size) with vanilla
+		wafers, alternate layers of custard mix, wafers, and berries.
+		Beat egg whites
+		until stiff peaks form; add the 1 tablespoon
+		sugar and remaining 1/2 teaspoon
+		vanilla. Spread meringue over
+		custard and bake in a 325° oven until meringue is browned.
+	</string>
+	<string name="id_6203_ingredients">Strawberries, Flour, Salt, Egg, Milk, Vanilla,
+		Vanilla Wafer Cookies
+	</string>
+	<string name="id_6203_options_name">portion</string>
+	<string name="id_6203_option_0_name">regular</string>
+	<string name="id_6203_option_1_name">large</string>
+	<string name="id_6203_option_2_name">small</string>
+	<string name="id_6204_name">CUSTARD PUDDING</string>
+	<string name="id_6204_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6204_instruction">Butter individual pudding molds. Heat
+		2
+		Tbsp of water in a sauce pan. Add 6 Tbsp of sugar and simmer
+		until the sauce is browned. Carefully add 1 Tbsp of warm
+		water
+		to thin the sauce. Pour sauce into the molds. Put milk
+		in a
+		medium pan and heat to about 140 degrees F. Dissolve
+		sugar in
+		the milk and add vanilla extract. Stop the heat.
+		Lightly beat
+		eggs in a bowl. Gradually add warm milk in the
+		egg mixture.
+		Run
+		the egg mixture through a strainer. Scoop out
+		some bubbles
+		from
+		the surface of the egg mixture. Pour egg
+		mixture over
+		the sauce
+		in the molds. Place the pudding molds
+		in a steamer
+		and steam on
+		low heat for about 15-20 minutes or
+		until cooked
+		through.
+		Stop the
+		heat and let them cool. Remove
+		pudding
+	</string>
+	<string name="id_6204_ingredients">Milk, Sugar, Vanilla Extract, Eggs, Butter, Water
+	</string>
+	<string name="id_6204_options_name">portion</string>
+	<string name="id_6204_option_0_name">regular</string>
+	<string name="id_6204_option_1_name">large</string>
+	<string name="id_6204_option_2_name">small</string>
+	<string name="id_6205_name">LIME PUDDING</string>
+	<string name="id_6205_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6205_instruction">Preheat the oven to 180 c. Beat butter
+		and
+		suger. Add flour.
+		Add lime juice, milk and beated eggs.
+		Mix well
+		and bake for 20 minutes.
+	</string>
+	<string name="id_6205_ingredients">Lime, Butter, Sugar, Flour, Milk, Eggs
+	</string>
+	<string name="id_6205_options_name">portion</string>
+	<string name="id_6205_option_0_name">regular</string>
+	<string name="id_6205_option_1_name">large</string>
+	<string name="id_6205_option_2_name">small</string>
+	<string name="id_603_name">CAKE</string>
+	<string name="id_6301_name">BUTTER CAKE</string>
+	<string name="id_6301_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6301_instruction">Sift together flour, baking powder.Cream
+		butter
+		and sugar well. Then add eggs one by one and beat well
+		until sugar desolves.
+		Add Vanila Essence and mix well.Add
+		flour
+		gradually in
+		small quantities and mix well. Add
+		Milk.Bake
+		at 180
+		degree C in a pre-heated oven for 25 – 35
+		minutes.
+	</string>
+	<string name="id_6301_ingredients">Flour, Margarine, Suger, Eggs, Milk, Backing
+		Powder,
+		Vanilla Essence.
+	</string>
+	<string name="id_6301_options_name">portion</string>
+	<string name="id_6301_option_0_name">regular</string>
+	<string name="id_6301_option_1_name">large</string>
+	<string name="id_6301_option_2_name">small</string>
+	<string name="id_6303_name">CHOCOLATE CAKE</string>
+	<string name="id_6303_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6303_instruction">Sift together flour, baking powder,Aappa
+		Soda and chocolate Powder.
+		Cream butter and sugar well. Then
+		add
+		eggs one by one and beat well until sugar desolves.
+		Add
+		Vanila
+		Essence and mix well.Add flour gradually in small
+		quantities and
+		mix well. Add Milk.
+		Bake at 180 degree C in a
+		pre-heated oven for
+		25 – 35 minutes.
+	</string>
+	<string name="id_6303_ingredients">Flour, Chocolate Powder, Sugar, margerine, Eggs,
+		Milk, Baking Powder, Vanilla Essence
+	</string>
+	<string name="id_6303_options_name">portion</string>
+	<string name="id_6303_option_0_name">regular</string>
+	<string name="id_6303_option_1_name">large</string>
+	<string name="id_6303_option_2_name">small</string>
+	<string name="id_6304_name">MARBLE CAKE</string>
+	<string name="id_6304_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6304_instruction">Preheat oven to 350 degrees F. Grease
+		and
+		flour a 9 inch round pan.
+		Place flour, baking powder,
+		salt,
+		sugar, butter or margarine, eggs, vanilla,
+		and milk into
+		mixing
+		bowl. Beat slowly to moisten, then beat with an
+		electric mixer
+		at medium speed for about 2 minutes until
+		smooth. Reserve 3/4
+		cup batter;
+		pour the remainder into
+		pan.Stir cocoa into the 3/4
+		cup reserved batter.
+		Drop by
+		spoonfuls over top of white batter.
+		Using a knife, swirl the
+		cocoa batter
+		into the white batter to
+		incorporate it in a
+		marble effect.
+		Bake in preheated oven for 30
+		to 35 minutes,
+		until an inserted wooden pick comes out clean.
+	</string>
+	<string name="id_6304_ingredients">Flour, Backing Powder, Salt, Suger, Butter, Eggs,
+		Milk,
+		Vanila Extracts, Cocoa Powder
+	</string>
+	<string name="id_6304_options_name">portion</string>
+	<string name="id_6304_option_0_name">regular</string>
+	<string name="id_6304_option_1_name">large</string>
+	<string name="id_6304_option_2_name">small</string>
+	<string name="id_6305_name">COFFEE CAKE</string>
+	<string name="id_6305_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_6305_instruction">Make the coffee first and leave to cool.
+		Cream margarine and sugar till light and creamy. Add the
+		eggs
+		one at a time, beating well after each egg. Add vanilla.
+		Fold
+		in
+		the flour alternately with the coffee.
+		Bake at 180 C 30-40
+		minutes till cooked. A skewer or
+		toothpick
+		inserted to the
+		middle
+		of the cake should come out
+		clean with
+		just a bit of
+		moisture and
+		a crumb or two.
+	</string>
+	<string name="id_6305_ingredients">Margerine, Suger, Eggs, Backing Powder, Flour,
+		Coffee, Milk Powder,
+		Vanilla Essence
+	</string>
+	<string name="id_6305_options_name">portion</string>
+	<string name="id_6305_option_0_name">regular</string>
+	<string name="id_6305_option_1_name">large</string>
+	<string name="id_6305_option_2_name">small</string>
+	<string name="id_7_name">BEVERAGES</string>
+	<string name="id_701_name">TEA</string>
+	<string name="id_7101_name">BLACK TEA</string>
+	<string name="id_7101_description">A classic black wiry leaf tea. A family estate well known for quality manufacture. A red liquour with a smooth length of dryness and a hint of honey. Will take milk well. If taken without milk cut the amount of leaf.</string>
+	<string name="id_7101_instruction">Add 200ml of freshly boiled water to the
+		tea leaves.
+		Allow the tea leaves to brew for 2 minutes.Remove
+		the tea bag.Add 10ml of milk.
+	</string>
+	<string name="id_7101_ingredients">Black Tea Leaves, Water, Suger, Milk (If needed)
+	</string>
+	<string name="id_7101_options_name">portion</string>
+	<string name="id_7101_option_0_name">regular</string>
+	<string name="id_7101_option_1_name">large</string>
+	<string name="id_7101_option_2_name">small</string>
+	<string name="id_7102_name">GREEN TEA</string>
+	<string name="id_7102_description">An aromatic light liquour fresh and rich limey-taste with vitality and zip. Recomended without milk.</string>
+	<string name="id_7102_instruction">Add 200ml of freshly boiled water to the
+		tea leaves.
+		Allow the tea leaves to brew for 2 minutes.Remove
+		the tea bag.Add 10ml of milk.
+	</string>
+	<string name="id_7102_ingredients">Green Tea Leaves, Water, Suger, Milk
+	</string>
+	<string name="id_7102_options_name">portion</string>
+	<string name="id_7102_option_0_name">regular</string>
+	<string name="id_7102_option_1_name">large</string>
+	<string name="id_7102_option_2_name">small</string>
+	<string name="id_7103_name">SPECIALITY TEA</string>
+	<string name="id_7103_description">Made from the bud and one leaf only, which is plucked in the early hours of the morning to ensure absolute freshness. Handled carefully to ensure that the bud and the leaf does not get damaged in order that it uncurls itself when brewed. A light liquouring tea with a soft slightly sweet flavour and aroma. Brew at 80-90 degrees C(176-194 F)</string>
+	<string name="id_7103_instruction">Add 200ml of freshly boiled water to the
+		tea leaves.
+		Allow the tea leaves to brew for 2 minutes.Remove
+		the tea bag.Add 10ml of milk.
+	</string>
+	<string name="id_7103_ingredients">Herbal Tea Leaves, Water, Suger
+	</string>
+	<string name="id_7103_options_name">portion</string>
+	<string name="id_7103_option_0_name">regular</string>
+	<string name="id_7103_option_1_name">large</string>
+	<string name="id_7103_option_2_name">small</string>
+	<string name="id_702_name">COFFEE</string>
+	<string name="id_7201_name">COFFEE LATTE</string>
+	<string name="id_7201_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7201_instruction">The process of making copy is a complex
+		one
+		which requires special training and equipment.
+	</string>
+	<string name="id_7201_ingredients">Coffee, Milk, Water
+	</string>
+	<string name="id_7201_options_name">portion</string>
+	<string name="id_7201_option_0_name">regular</string>
+	<string name="id_7201_option_1_name">large</string>
+	<string name="id_7201_option_2_name">small</string>
+	<string name="id_7202_name">IRISH COFFEE</string>
+	<string name="id_7202_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7202_instruction"> he process of making copy is a complex
+		one
+		which requires special training and equipment.
+	</string>
+	<string name="id_7202_ingredients">Irish coffee, Water, Suger
+	</string>
+	<string name="id_7202_options_name">portion</string>
+	<string name="id_7202_option_0_name">regular</string>
+	<string name="id_7202_option_1_name">large</string>
+	<string name="id_7202_option_2_name">small</string>
+	<string name="id_7203_name">BLACK COFFEE</string>
+	<string name="id_7203_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7203_instruction">Add hot water to the coffee. Keep closed
+		to brew.
+		Add suger to taste.
+	</string>
+	<string name="id_7203_ingredients">SBlack Coffee, Water, Suger
+	</string>
+	<string name="id_7203_options_name">portion</string>
+	<string name="id_7203_option_0_name">regular</string>
+	<string name="id_7203_option_1_name">large</string>
+	<string name="id_7203_option_2_name">small</string>
+	<string name="id_703_name">WINE</string>
+	<string name="id_7301_name">RED WINE</string>
+	<string name="id_7301_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7301_instruction">The brewing process is complicated. It
+		requires special
+		training and equipment
+	</string>
+	<string name="id_7301_ingredients">Grape Extract, Water, Salt, Suger
+	</string>
+	<string name="id_7301_options_name">portion</string>
+	<string name="id_7301_option_0_name">regular</string>
+	<string name="id_7301_option_1_name">large</string>
+	<string name="id_7301_option_2_name">small</string>
+	<string name="id_7302_name">WHITE WINE</string>
+	<string name="id_7302_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7302_instruction">The brewing process is complicated. It
+		requires special
+		training and equipment.
+	</string>
+	<string name="id_7302_ingredients">Grape Extract, Water, Suger, Salt
+	</string>
+	<string name="id_7302_options_name">portion</string>
+	<string name="id_7302_option_0_name">regular</string>
+	<string name="id_7302_option_1_name">large</string>
+	<string name="id_7302_option_2_name">small</string>
+	<string name="id_7303_name">FRENCH WINE</string>
+	<string name="id_7303_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7303_instruction">The brewing process is complicated. It
+		requires special
+		training and equipment.
+	</string>
+	<string name="id_7303_ingredients">Grape Extract, Water, Suger, Salt
+	</string>
+	<string name="id_7303_options_name">portion</string>
+	<string name="id_7303_option_0_name">regular</string>
+	<string name="id_7303_option_1_name">large</string>
+	<string name="id_7303_option_2_name">small</string>
+	<string name="id_7304_name">CHARDONNAY WINE</string>
+	<string name="id_7304_description">Saaagf iasfa afjavfja kakf aka</string>
+	<string name="id_7304_instruction">The brewing process is complicated. It
+		requires special
+		training and equipment.
+	</string>
+	<string name="id_7304_ingredients">Grape Extract, Water, Suger, Salt
+	</string>
+	<string name="id_7304_options_name">portion</string>
+	<string name="id_7304_option_0_name">regular</string>
+	<string name="id_7304_option_1_name">large</string>
+	<string name="id_7304_option_2_name">small</string>
+	<string name="id_8_name">SANDWICHES</string>
+	<string name="id_801_name">BREAD SANDWICH</string>
+	<string name="id_801_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_801_instruction">Cut the bread into slices. make a paste of
+		boiled eggs,
+		fish, salt and pepper. Apply the paste on the
+		bread.
+		Add slices of tomato.
+		Serve as intended.
+	</string>
+	<string name="id_801_ingredients">Bread, Butter, Fish, Egg, Salt, Pepper, Tomato
+	</string>
+	<string name="id_801_options_name">portion</string>
+	<string name="id_801_option_0_name">regular</string>
+	<string name="id_801_option_1_name">large</string>
+	<string name="id_801_option_2_name">small</string>
+	<string name="id_802_name">CHEESES SANDWICH</string>
+	<string name="id_802_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_802_instruction">Cut the bread into slices. make a paste of
+		boiled eggs,
+		fish, salt and pepper. Apply the paste on the
+		bread.
+		Add slices of cheese.
+		Serve as intended.
+	</string>
+	<string name="id_802_ingredients">Bread, Butter, Fish, Egg, Salt, Pepper, Tomato,
+		Cheese
+	</string>
+	<string name="id_802_options_name">portion</string>
+	<string name="id_802_option_0_name">regular</string>
+	<string name="id_802_option_1_name">large</string>
+	<string name="id_802_option_2_name">small</string>
+	<string name="id_803_name">HAM SSANDWICH</string>
+	<string name="id_803_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_803_instruction">Cut the bread into slices. make a paste of
+		boiled eggs,
+		fish, salt and pepper. Apply the paste on the
+		bread.
+		Add slices of cheese.
+		Add the ham. Serve as intended.
+	</string>
+	<string name="id_803_ingredients">Bread, Butter, Ham, Egg, Salt, Pepper, Tomato,
+		Cheese
+	</string>
+	<string name="id_803_options_name">portion</string>
+	<string name="id_803_option_0_name">regular</string>
+	<string name="id_803_option_1_name">large</string>
+	<string name="id_803_option_2_name">small</string>
+	<string name="id_804_name">VEGITABLE SANDWICH</string>
+	<string name="id_804_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_804_instruction">Cut the bread into slices. Make a paste
+		from
+		butter
+		salt and pepper. Boil the carrot and tomatoes. Smash
+		them
+		and add cheese.
+		Apply the paste on bread.
+	</string>
+	<string name="id_804_ingredients">Bread, Butter, Salt, Pepper, Carrot, Potato,
+		Tomato,
+		Cheese
+	</string>
+	<string name="id_804_options_name">portion</string>
+	<string name="id_804_option_0_name">regular</string>
+	<string name="id_804_option_1_name">large</string>
+	<string name="id_804_option_2_name">small</string>
+	<string name="id_805_name">INDIAN SANDWICH</string>
+	<string name="id_805_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_805_instruction">Cut the bread into slices. Make a paste
+		from
+		butter
+		salt and pepper and the Indian spices. Boil the
+		carrot and
+		tomatoes.
+		Smash them and add cheese. Apply the paste
+		on bread. Top
+		with boiled
+		chicken.
+	</string>
+	<string name="id_805_ingredients">Bread, Butter, Salt, Pepper, Carrot, Potato,
+		Tomato,
+		Chicken.
+		Cheese, Indian spices
+	</string>
+	<string name="id_805_options_name">portion</string>
+	<string name="id_805_option_0_name">regular</string>
+	<string name="id_805_option_1_name">large</string>
+	<string name="id_805_option_2_name">small</string>
+	<string name="id_9_name">HEALTHY OPTIONS</string>
+	<string name="id_901_name">VEGETABLE SOUP</string>
+	<string name="id_901_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_901_instruction">Not too much prep for this soup. Just chop
+		up the onion, slice the carrots into 1/4 inch thick pieces,
+		trim
+		and halve the green beens. Slice the mushrooms into 1/4
+		inch
+		pieces, chop the potatoes into 1/8\'s or 1/4\'s depending on
+		their
+		size and chop the parsley. Now you are ready to put it
+		all
+		together.
+	</string>
+	<string name="id_901_ingredients">olive oil, unsalted butter, onion, carrot, green
+		beans, mushrooms, chicken stock, potato, salt and pepper
+		parsley
+	</string>
+	<string name="id_901_options_name">portion</string>
+	<string name="id_901_option_0_name">regular</string>
+	<string name="id_901_option_1_name">large</string>
+	<string name="id_901_option_2_name">small</string>
+	<string name="id_902_name">FRUIT SALAD</string>
+	<string name="id_902_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_902_instruction">In a large bowl, combine peaches,
+		pineapples, and vanilla pudding mix. This includes the juices
+		from the cans. Mix well until pudding is dissolved. Stir in
+		strawberries, banana, blueberries, grapes, and sugar if
+		desired.
+		Chill.
+	</string>
+	<string name="id_902_ingredients">Banana, Pineapple, apple, Papaya, Graps, Peenuts
+	</string>
+	<string name="id_902_options_name">portion</string>
+	<string name="id_902_option_0_name">regular</string>
+	<string name="id_902_option_1_name">large</string>
+	<string name="id_902_option_2_name">small</string>
+	<string name="id_903_name">VEGETABLE SALAD</string>
+	<string name="id_903_description">Descrisd soalgap bkag aga a ag ag ag</string>
+	<string name="id_903_instruction">In a saucepan, bring 2 in. of water to a
+		boil.
+		Add beans, peas, yellow squash, zucchini and onion. Reduce
+		heat;
+		cover and simmer for 2-3 minutes or until vegetables are
+		crisp-tender.
+		Drain; rinse with cold water and pat dry.Place
+		vegetables in a bowl;
+		add the remaining ingredients. Gently stir
+		to coat. Refrigerate
+		until serving.
+	</string>
+	<string name="id_903_ingredients">Fresh Green Beans, Peas, Squash, Zucchini, Onion,
+		TOmato, Carrot. Italian Salad Dressing, Chives, Salt
+	</string>
+	<string name="id_903_options_name">portion</string>
+	<string name="id_903_option_0_name">regular</string>
+	<string name="id_903_option_1_name">large</string>
+	<string name="id_903_option_2_name">small</string>
+	<string name="id_10_name">KIDS\' FOOD</string>
+	<string name="id_10001_name">CUPCAKE</string>
+	<string name="id_10001_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_10001_instruction">Preheat oven to 350 degrees.Line cupcake
+		pans
+		with paper liners.Combine flour, sugar, baking powder, and
+		salt
+		in a large mixing bowl. Add shortening, milk, and vanilla.
+		Beat for 1 minute on medium speed. Scrape side of bowl with a
+		spatula.
+		Add eggs to the mixture. Beat for 1 minute on medium
+		speed.
+		Scrape bowl again. Beat on high speed for 1 minute 30
+		seconds
+		until
+		well mixed.Spoon cupcake batter into paper
+		liners.Bake
+		for 20 to
+		25 minutes or until toothpick inserted in
+		center
+		comes out
+		clean.Cool 5 minutes in pans then remove and
+		place
+		on wire racks
+		to cool completely.Once cupcakes are
+		completely
+		cooled,decorate!
+	</string>
+	<string name="id_10001_ingredients">Flour, Eggs, Sugar, Salt, Baking Powder, Vanilla
+		Extract,
+		Milk
+	</string>
+	<string name="id_10001_options_name">portion</string>
+	<string name="id_10001_option_0_name">regular</string>
+	<string name="id_10001_option_1_name">large</string>
+	<string name="id_10001_option_2_name">small</string>
+	<string name="id_10002_name">SANDWICHES</string>
+	<string name="id_10002_description">Descripta hah aerhgh hsdfhs hfgshg soghso shgos
+	</string>
+	<string name="id_10002_instruction">Boil the carrot, tomatoes, eggs and fry
+		the
+		fish.
+		Smash them and make them into a paste adding butter
+		and
+		cheese.
+		Add a little suger and salt to taste.
+	</string>
+	<string name="id_10002_ingredients">Breab, Butter, Suger, Salt, Carrot, Potaoes,
+		Cheese,
+		Fish, Egg
+	</string>
+	<string name="id_10002_options_name">portion</string>
+	<string name="id_10002_option_0_name">regular</string>
+	<string name="id_10002_option_1_name">large</string>
+	<string name="id_10002_option_2_name">small</string>
+</resources>

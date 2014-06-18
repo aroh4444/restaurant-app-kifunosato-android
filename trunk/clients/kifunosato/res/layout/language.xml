@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/langugeselection">
+
+    <LinearLayout
+        android:id="@+id/layout_heading_language"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@drawable/top_bar"
+        android:orientation="vertical"
+        android:visibility="invisible" >
+    </LinearLayout>   
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="25dp"
+            android:layout_marginBottom="-25dp"
+            android:src="@drawable/logoimage"
+            android:visibility="invisible" />
+
+        <LinearLayout
+            android:id="@+id/linearLayoutMiddle"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:orientation="vertical"
+            android:padding="50dp"
+            android:layout_marginTop="-50dp">
+
+            <TextView
+                android:id="@+id/welcomeText_language"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:text="@string/welcome"
+                android:textColor="@color/language_welcomeText_language"
+                android:textSize="30dp"
+                android:visibility="invisible"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/selectLang_language"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                android:text="@string/select_lang"
+                android:textColor="@color/language_selectLang_language"
+                android:textSize="24dp"
+                android:textStyle="bold" />
+
+            <HorizontalScrollView
+                android:id="@+id/languages"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="30dp" >
+
+                <LinearLayout
+                    android:id="@+id/linearLayout4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/image"
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" >
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/name"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+                    </LinearLayout>
+                </LinearLayout>
+            </HorizontalScrollView>
+            <TextView
+            android:id="@+id/table_no_language"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="200dp"
+            android:layout_gravity="right"
+            android:text="@string/table_no"
+            android:textColor="@color/language_table_no_language"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+ </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/message_lang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="25dp"
+            android:text="@string/message_lang"
+            android:textColor="@color/language_message_lan"
+            android:textSize="12dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

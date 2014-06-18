@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/setting_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical"
+        android:layout_marginTop="125dp"
+        android:padding="35dp" >
+        
+        <TextView
+                android:id="@+id/welcomeText_login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="30dp"
+                android:text="@string/welcome_authentication"
+                android:textColor="@color/login_welcomeText_login"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+        <!-- The text view for the error message -->
+
+        <TextView
+            android:id="@+id/error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/red_rectangle_button"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textColor="@color/login_error"
+            android:textSize="14dp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- The text label for Waiter ID -->
+
+            <TextView
+                android:id="@+id/waiterId"
+                android:layout_width="450dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:gravity="right"
+                android:text="@string/waiter_id"
+                android:textSize="16dp" />
+            <!-- The text view for the error message -->
+
+            <EditText
+                android:id="@+id/txtwaiterId"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="25dp"
+                android:background="@drawable/roundedtextfield"
+                android:imeOptions="actionNext"
+                android:inputType="text"
+                android:textColor="@color/login_txtwaiterId" >
+
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <!-- The text view for the access code -->
+
+            <TextView
+                android:id="@+id/accesCode"
+                android:layout_width="450dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:gravity="right"                
+                android:text="@string/access_code"
+                android:textSize="16dp" />
+            <!-- The text field for the access code -->
+
+            <EditText
+                android:id="@+id/textAccessCode"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="25dp"
+                android:background="@drawable/roundedtextfield"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
+                android:textColor="@color/login_txtwaiterId" >
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical" >
+
+            <!-- The button for submit -->
+
+            <Button
+                android:id="@+id/btn_login_submit"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="605dp"
+                android:background="@drawable/green_round_button"
+                android:gravity="center"
+                android:onClick="onSubmitClick"
+                android:text="@string/submit"
+                android:textColor="@color/login_btn"
+                android:textStyle="bold" />
+
+            <!-- The button for cancel -->
+
+            <Button
+                android:id="@+id/btn_login_cancel"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/orange_round_button"
+                android:gravity="center"
+                android:onClick="onCancelClick"
+                android:text="@string/cancel"
+                android:textColor="@color/login_btn"
+                android:textStyle="bold" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/linearLayoutForLoadingIcon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal" >
+
+            <ProgressBar
+                android:id="@+id/progressBarConnectingToServer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/connectingToServer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp"
+                android:text="@string/connecting_to_server"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/message_lang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"      
+        android:text="@string/copyrights"
+        android:textColor="@color/login_message_lang"
+        android:textSize="12dp" />
+
+</LinearLayout>

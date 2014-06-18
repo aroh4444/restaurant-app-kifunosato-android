@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layout_heading_main"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@drawable/top_bar"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_restaurent_Specific_Image"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/cafelogo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="495dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:gravity="center" >
+
+        <HorizontalScrollView
+            android:id="@+id/menuitems"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:fadingEdge="none"
+            android:fadeScrollbars="false"
+            android:fillViewport="true" >
+
+            <LinearLayout
+                android:id="@+id/linearLayoutItems"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/promotionsBar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/promotions_bar"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>

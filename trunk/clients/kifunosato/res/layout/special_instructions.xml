@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lnrSpecialInstructionMain_special_instructions"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <EditText android:id="@+id/txtSpecialInstruction_special_instructions"
+	                        android:layout_height="50dp"
+			                android:background="@drawable/roundedinsidetextfield"
+			                android:imeOptions="actionDone"
+			                android:inputType="textMultiLine"
+			                android:paddingLeft="10dp"
+			                android:layout_marginTop="10dp"
+			                android:layout_marginBottom="10dp"
+			                 android:layout_width="match_parent"    				
+			                android:textColor="@color/roundedTextfieldInside_TextColor"/>
+     <TableLayout 
+          android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+         android:id="@+id/tblSpecialInstructionButtons_special_instructions"></TableLayout>
+
+</LinearLayout>

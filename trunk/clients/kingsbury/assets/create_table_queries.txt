@@ -1,0 +1,5 @@
+create table if not exists ROLES(roleid INTEGER NOT NULL PRIMARY KEY,rolename  TEXT NOT NULL)
+@@create table if not exists ROLEPERMISSIONS(rolepermissionid INTEGER NOT NULL PRIMARY KEY,roleid INTEGER NOT NULL,permision TEXT NOT NULL)
+@@create table if not exists USERROLES(userroleid INTEGER NOT NULL PRIMARY KEY,username TEXT NOT NULL,rolename TEXT NOT NULL) 
+@@create table if not exists USERS(userid INTEGER NOT NULL PRIMARY KEY,username  TEXT NOT NULL UNIQUE,password TEXT NOT NULL, firstname TEXT,lastname TEXT ,email TEXT,telephone1 TEXT,telephone2 TEXT,isactive INTEGER)
+@@create table if not exists TABLE_NUMBER(id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, table_no TEXT NOT NULL)

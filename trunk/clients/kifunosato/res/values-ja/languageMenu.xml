@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- Menu 1 -->
+	<string name="id_51_name">肉料理</string>
+	
+	<string name="id_5101_name">千屋牛ロースステーキ</string>
+	<string name="id_5101_options_name">Type</string>
+	<string name="id_5101_option_0_name">100g</string>
+	<string name="id_5101_option_1_name">150g</string>
+	<string name="id_5101_description">岡山県からのローカル牛肉</string>
+	<string name="id_5101_instruction">	</string>
+	<string name="id_5101_ingredients"></string>
+	
+	<string name="id_5102_name">国産牛ヒレステーキ</string>
+	<string name="id_5102_options_name">Type</string>
+	<string name="id_5102_option_0_name">100g</string>
+	<string name="id_5102_option_1_name">150g</string>
+	<string name="id_5102_description"> </string>
+	<string name="id_5102_instruction"></string>
+	<string name="id_5102_ingredients"></string>
+	
+	<string name="id_5103_name">国産牛ロースステーキ</string>
+	<string name="id_5103_options_name">Type</string>
+	<string name="id_5103_option_0_name">100g</string>
+	<string name="id_5103_option_1_name">150g</string>
+	<string name="id_5103_description"></string>
+	<string name="id_5103_instruction"></string>
+	<string name="id_5103_ingredients">	</string>
+	
+		
+	<!-- Menu 2 -->
+	<string name="id_21_name">魚料理</string>
+	
+	<string name="id_2101_name">お魚料理お好み (Price: Please feel free to talk with us)</string>
+	<string name="id_2101_options_name">Type</string>
+	<string name="id_2101_option_0_name"></string>
+	<string name="id_2101_option_1_name"></string>
+	<string name="id_2101_description">ご相談ください</string>
+	<string name="id_2101_instruction"></string>
+	<string name="id_2101_ingredients"></string>
+	
+	<string name="id_2102_name">伊勢海老の刺身 (Price: Maket price)</string>
+	<string name="id_2102_options_name">Type</string>
+	<string name="id_2102_option_0_name"></string>
+	<string name="id_2102_option_1_name"></string>
+	<string name="id_2102_description">時価</string>
+	<string name="id_2102_instruction"></string>
+	<string name="id_2102_ingredients"></string>	
+	
+	<string name="id_2103_name">鮑のお造り(1杯)</string>
+	<string name="id_2103_description"></string>
+	<string name="id_2103_options_name">Type</string>
+	<string name="id_2103_option_0_name"></string>
+	<string name="id_2103_option_1_name"></string>
+	<string name="id_2103_instruction"></string>
+	<string name="id_2103_ingredients"></string>
+	
+	<string name="id_2104_name">車海老塩焼き（2尾）</string>
+	<string name="id_2104_description"></string>
+	<string name="id_2104_options_name">Type</string>
+	<string name="id_2104_option_0_name"></string>
+	<string name="id_2104_option_1_name"></string>
+	<string name="id_2104_instruction"></string>
+	<string name="id_2104_ingredients"></string>
+
+	
+	<!-- Menu 3 -->	
+	<string name="id_22_name">その他</string>
+	
+	<string name="id_2201_name">天ぷらお好み (Price: Please feel free to talk with us)</string>
+	<string name="id_2201_description">ご相談ください</string>	
+	<string name="id_2201_options_name">Type</string>
+	<string name="id_2201_option_0_name"></string>
+	<string name="id_2201_option_1_name"></string>
+	<string name="id_2201_instruction"></string>
+	<string name="id_2201_ingredients"></string>
+	
+	<string name="id_2202_name">おにぎり（2個）</string>
+	<string name="id_2202_description"></string>
+	<string name="id_2202_options_name">Type</string>
+	<string name="id_2202_option_0_name"></string>
+	<string name="id_2202_option_1_name"></string>
+	<string name="id_2202_instruction"></string>
+	<string name="id_2202_ingredients"></string>	
+	
+	<string name="id_2205_name">うどん各種</string>
+	<string name="id_2205_description"></string>
+	<string name="id_2205_options_name">Type</string>
+	<string name="id_2205_option_0_name"></string>
+	<string name="id_2205_option_1_name"></string>
+	
+	<string name="id_2206_name">お粥・雑炊</string>
+	<string name="id_2206_description"></string>
+	<string name="id_2206_options_name">Type</string>
+	<string name="id_2206_option_0_name"></string>
+	<string name="id_2206_option_1_name"></string>
+	
+	<string name="id_2207_name">きつねうどん</string>
+	<string name="id_2207_description"></string>
+	<string name="id_2207_options_name">Type</string>
+	<string name="id_2207_option_0_name"></string>
+	<string name="id_2207_option_1_name"></string>
+	
+	<string name="id_2208_name">天ぷらうどん</string>
+	<string name="id_2208_description"></string>
+	<string name="id_2208_options_name">Type</string>
+	<string name="id_2208_option_0_name"></string>
+	<string name="id_2208_option_1_name"></string>
+	
+	<string name="id_2209_name">卵とじうどん</string>
+	<string name="id_2209_description"></string>
+	<string name="id_2209_options_name">Type</string>
+	<string name="id_2209_option_0_name"></string>
+	<string name="id_2209_option_1_name"></string>
+	
+	
+	<!-- Menu 4 -->	
+	<string name="id_24_name">お子様</string>
+	
+	<string name="id_2401_name">お子様ランチ</string>	
+	<string name="id_2401_description"></string>
+	<string name="id_2401_instruction"></string>
+	<string name="id_2401_ingredients"></string>
+	
+	<string name="id_2402_name">お子様朝食</string>	
+	<string name="id_2402_description"></string>
+	<string name="id_2402_instruction"></string>
+	<string name="id_2402_ingredients"></string>
+	
+	<string name="id_2403_name">幼児夕食</string>	
+	<string name="id_2403_description"></string>
+	<string name="id_2403_instruction"></string>
+	<string name="id_2403_ingredients"></string>
+	
+	<string name="id_2404_name">幼児朝食</string>	
+	<string name="id_2404_description"></string>
+	<string name="id_2404_instruction"></string>
+	<string name="id_2404_ingredients"></string>
+	
+	<!-- Used in addon -->	
+	<string name="id_31_name">Add-Ons</string>
+	
+	<string name="id_3103_name">Extra Patty (Chicken)</string>
+	<string name="id_3104_name">Extra Patty (Beef)</string>
+	<string name="id_3105_name">Hashbrown</string>
+	<string name="id_3106_name">Jalapenos</string>
+	<string name="id_3107_name">Fried Egg</string>
+	<string name="id_3108_name">Cheese (Cheddar/Swiss)</string>
+	<string name="id_3109_name">Caramelized Onions</string>
+	<string name="id_3110_name">Shiitake &amp; Enoki Mushrooms</string>
+	<string name="id_3111_name">Whole Portabello Mushroom</string>
+	<string name="id_3111_description">Grilled/Fried</string>
+	<string name="id_3112_name">Fried Avocado</string>
+	<string name="id_3113_name">Pineapple</string>
+	
+	
+	<!-- Menu 5 -->	
+	<string name="id_32_name">ビール</string>
+	
+	<string name="id_3205_name">キリン　クラシックラガー</string>
+	<string name="id_3205_description"></string>	
+	<string name="id_3206_name">アサヒ　スーパードライ</string>
+	<string name="id_3207_name">生ビール　キリン一番搾り</string>
+
+	<!-- Menu 6 -->	
+	<string name="id_41_name">どぶろく</string>
+	
+	<string name="id_4102_name">れいし（麗姿)</string>
+	<string name="id_4102_options_name">Type</string>
+	<string name="id_4102_option_0_name">Glass</string>
+	<string name="id_4102_option_1_name">Bottle (720ml)</string>
+	<string name="id_4102_description">美作の水と米からできた天然の発泡日本酒。 フレッシュでフルーティな味わい。アルコール度数は11〜13度と</string>	
+	
+	<!-- Menu 7 -->	
+	<string name="id_42_name">サワー</string>
+	
+	<string name="id_4205_name">レモン</string>	
+	<string name="id_4206_name">梅</string>
+	<string name="id_4207_name">カルピス</string>
+	
+	<!-- Menu 8 -->	
+	<string name="id_43_name">ソフトドリンク</string>
+	
+	<string name="id_4305_name">ウーロン茶</string>	
+	<string name="id_4306_name">コカコーラ</string>
+	<string name="id_4307_name">オレンジジュース</string>
+	<string name="id_4308_name">炭酸水</string>
+	<string name="id_4309_name">ノンアルコールビール　キリンフリー</string>
+	
+	<!-- Menu 9 -->	
+	<string name="id_44_name">日本酒</string>
+	
+	<string name="id_4405_name">作州武蔵　(純米）</string>
+	<string name="id_4405_description">岡山県産の朝日米でできたスッキリとした辛口の純米酒です。 難波酒造（津山市）</string>
+	<string name="id_4405_options_name">Type</string>
+	<string name="id_4405_option_0_name">300ml</string>
+	<string name="id_4406_name">御前酒美作 　(純米）</string>
+	<string name="id_4406_description">雄町米が持つ旨み、味わいの広がりが楽しめる飲み飽きない 旨口の純米酒です。　御前酒蔵元 辻本店（真庭市）</string>
+	<string name="id_4406_options_name">Type</string>
+	<string name="id_4406_option_0_name">300ml</string>
+	<string name="id_4407_name">武蔵の里 (純米吟醸）</string>
+	<string name="id_4407_description">美作を贅沢に使った〝純米吟醸 武蔵の里〟は 大吟醸酒におとらない高い香りとフルーティな味わいです。 　田中酒造場（作市）</string>
+	<string name="id_4407_options_name">Type</string>
+	<string name="id_4407_option_0_name">300ml</string>
+	<string name="id_4408_name">加茂五葉　（大吟醸）</string>
+	<string name="id_4408_description">山田錦を40％精米し、杜氏が精魂かたむけた大吟醸酒。 斗びん囲いで、ていねいに冷蔵した香り高く若々しい味わいが </string>
+	<string name="id_4408_options_name">Type</string>
+	<string name="id_4408_option_0_name">300ml</string>
+	<string name="id_4409_name">熱燗 　さつき心 </string>
+	<string name="id_4409_description">清酒 さつき心〟はその名の通り、新芽が吹くころの</string>
+	<string name="id_4409_options_name">Type</string>
+	<string name="id_4409_option_0_name">180ml</string>
+	
+	<!-- Menu 10 -->	
+	<string name="id_45_name">Shochu</string>
+	
+	<string name="id_4505_name">いいちこ (麦）</string>
+	<string name="id_4505_options_name">Type</string>
+	<string name="id_4505_option_0_name">Glass</string>
+	<string name="id_4505_option_1_name">Bottle (900ml)</string>
+	<string name="id_4506_name">神の河 (麦)</string>
+	<string name="id_4506_options_name">Type</string>
+	<string name="id_4506_option_0_name">Glass</string>
+	<string name="id_4506_option_1_name">Bottle (720ml)</string>
+	<string name="id_4507_name">黒霧島 (芋)</string>
+	<string name="id_4507_options_name">Type</string>
+	<string name="id_4507_option_0_name">Glass</string>
+	<string name="id_4507_option_1_name">Bottle (720ml)</string>
+	<string name="id_4508_name">ももちゅう (桃)</string>
+	<string name="id_4508_description">白桃の馥郁とした香りと味しさを十二分にひきだした 甘さひかえめの桃の焼酎です</string>
+	<string name="id_4508_options_name">Type</string>
+	<string name="id_4508_option_0_name">Glass</string>
+	<string name="id_4508_option_1_name">Bottle (520ml)</string>
+	
+	<!-- Menu 11 -->	
+	<string name="id_46_name">Wine</string>
+	
+	<string name="id_4605_name">これ里ワイン ピオーネ（ロゼ/中甘口）</string>
+	<string name="id_4605_description">是里ワインは岡山産ブドウで醸造している地産地消のワイナリーです</string>
+	<string name="id_4606_name">これ里ワイン マスカット (白/甘口）</string>
+	<string name="id_4607_name">バロン・ド・レスタック　（白/辛口）</string>
+	<string name="id_4607_description">フランス ボルドーにあるカステル社はフランスNo.1のワイン会社との</string>
+	<string name="id_4608_name">バロン・ド・レスタック　（赤/ミディアムボディ）</string>
+	<string name="id_4609_name">ブルート・レゼルバ　（発泡白/辛口）</string>
+	<string name="id_4609_description">とても細やかな泡立ちで、滑らかな感触を口中で楽しむことができる</string>
+	
+</resources>

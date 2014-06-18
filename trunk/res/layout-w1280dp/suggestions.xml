@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layout_heading_suggestions"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@drawable/top_bar"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_restaurent_Specific_Image"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+<ImageView
+            android:id="@+id/imageViewRestaurantLogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+             android:src="@drawable/cafelogo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="580dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:id="@+id/linearLayoutforMenuList"
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/LinearLayouttitlebar"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textViewSummery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="15dp"
+                    android:text="@string/summery"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="@color/suggestions_textViewSummery"
+                    android:textStyle="bold" />
+                
+                
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/suggestions_viewWhiteLine" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="left|center_vertical"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/linearLayout5"
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:gravity="center_vertical|left"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textViewOrders"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="15dp"
+                        android:text="@string/categories_header"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="@color/suggestions_textViewOrders"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:gravity="center_vertical|right"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textViewPrice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingRight="10dp"
+                        android:text="@string/total"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:textColor="@color/suggestions_textViewPrice"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/suggestions_viewWhiteLine" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/suggestions_viewDarkerGrayLine" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="match_parent"
+                    android:layout_height="75dp"
+                    android:gravity="left|center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout5"
+                        android:layout_width="180dp"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:gravity="center_vertical|left"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textViewOrders"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="15dp"
+                            android:text="@string/pending_orders"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/suggestions_textViewPendingOrders" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:gravity="center_vertical|right"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textViewSuggestPendingOrderPrice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="10dp"
+                            android:text="00.00 LKR"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/suggestions_textViewPendingOrders" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/suggestions_viewDarkerGrayLine" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="match_parent"
+                    android:layout_height="75dp"
+                    android:background="@null"
+                    android:gravity="left|center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout5"
+                        android:layout_width="180dp"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:gravity="center_vertical|left"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textViewOrders"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="15dp"
+                            android:text="@string/sent_orders"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/suggestions_textViewPendingOrders" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:gravity="center_vertical|right"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textViewConfirmedOrderPrice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="10dp"
+                            android:text="00.00 LKR"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/suggestions_textViewPendingOrders" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:background="@android:color/darker_gray" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="match_parent"
+                    android:layout_height="75dp"
+                    android:gravity="left|center_vertical"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout5"
+                        android:layout_width="180dp"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:gravity="center_vertical|left"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/totalText"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="15dp"
+                            android:text="@string/total"
+                            android:textAppearance="?android:attr/textAppearanceLarge"
+                            android:textColor="@color/suggestions_textViewPendingOrders"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@null"
+                        android:gravity="center_vertical|right"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textViewTotalSuggestionsView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingRight="10dp"
+                            android:text="00.00 LKR"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textColor="@color/suggestions_textViewPendingOrders" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/suggestions_viewDarkerGrayLine" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutSuggestions"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="28dp"
+            android:layout_weight="0.71"
+            android:background="@drawable/transparentcornerback"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/linearLayoutFoodItemName"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textViewWeNoticed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="25dp"
+                    android:textColor="@color/suggestions_textViewWeNoticed"
+                    android:text="@string/suggestion_notice"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textStyle="bold" />
+                
+            <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@android:color/black" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+               android:layout_marginBottom="5dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/suggestionMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/suggestions_suggMessage"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout6"
+                android:layout_width="match_parent"
+                android:layout_height="260dp"
+               android:layout_marginBottom="10dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <HorizontalScrollView
+                    android:id="@+id/horizontalScrollView_suggestions"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/layout_suggestion_scroll"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal" >                       
+                    </LinearLayout>
+                </HorizontalScrollView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayout8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/ButtonNoThanks"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/green_rectangle_button"
+                    android:onClick="onDiscardSuggestion"
+                    android:padding="15dp"
+                    android:text="@string/suggestions_continue"
+                    android:textColor="@color/suggestions_btns"
+                    android:textSize="14dp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- Menu 1 -->
+	<string name="id_51_name">Meat</string>
+	
+	<string name="id_5101_name">Chiya Beef Loin Steak</string>
+	<string name="id_5101_options_name">Type</string>
+	<string name="id_5101_option_0_name">100g</string>
+	<string name="id_5101_option_1_name">150g</string>
+	<string name="id_5101_description">The local beef from Okayama Prefecture</string>
+	<string name="id_5101_instruction">	</string>
+	<string name="id_5101_ingredients"></string>
+	
+	<string name="id_5102_name">Japanese beef Fillet steak</string>
+	<string name="id_5102_options_name">Type</string>
+	<string name="id_5102_option_0_name">100g</string>
+	<string name="id_5102_option_1_name">150g</string>
+	<string name="id_5102_description"> </string>
+	<string name="id_5102_instruction"></string>
+	<string name="id_5102_ingredients"></string>
+	
+	<string name="id_5103_name">Japanese beef Loin steak</string>
+	<string name="id_5103_options_name">Type</string>
+	<string name="id_5103_option_0_name">100g</string>
+	<string name="id_5103_option_1_name">150g</string>
+	<string name="id_5103_description"></string>
+	<string name="id_5103_instruction"></string>
+	<string name="id_5103_ingredients">	</string>
+	
+		
+	<!-- Menu 2 -->
+	<string name="id_21_name">Fish</string>
+	
+	<string name="id_2101_name">Fish with your preference (Price: Please feel free to talk with us)</string>
+	<string name="id_2101_options_name">Type</string>
+	<string name="id_2101_option_0_name"></string>
+	<string name="id_2101_option_1_name"></string>
+	<string name="id_2101_description"></string>
+	<string name="id_2101_instruction"></string>
+	<string name="id_2101_ingredients"></string>
+	
+	<string name="id_2102_name">Chiya Beef Loin Steak (Price: Maket price)</string>
+	<string name="id_2102_options_name">Type</string>
+	<string name="id_2102_option_0_name"></string>
+	<string name="id_2102_option_1_name"></string>
+	<string name="id_2102_description"></string>
+	<string name="id_2102_instruction"></string>
+	<string name="id_2102_ingredients"></string>	
+	
+	<string name="id_2103_name">Abalone Sashimi</string>
+	<string name="id_2103_description"></string>
+	<string name="id_2103_options_name">Type</string>
+	<string name="id_2103_option_0_name"></string>
+	<string name="id_2103_option_1_name"></string>
+	<string name="id_2103_instruction"></string>
+	<string name="id_2103_ingredients"></string>
+	
+	<string name="id_2104_name">2 Grilled Kuruma prawn with salt</string>
+	<string name="id_2104_description"></string>
+	<string name="id_2104_options_name">Type</string>
+	<string name="id_2104_option_0_name"></string>
+	<string name="id_2104_option_1_name"></string>
+	<string name="id_2104_instruction"></string>
+	<string name="id_2104_ingredients"></string>
+
+	
+	<!-- Menu 3 -->	
+	<string name="id_22_name">Others</string>
+	
+	<string name="id_2201_name">Tempura with your preference (Price: Please feel free to talk with us)</string>
+	<string name="id_2201_description"></string>	
+	<string name="id_2201_options_name">Type</string>
+	<string name="id_2201_option_0_name"></string>
+	<string name="id_2201_option_1_name"></string>
+	<string name="id_2201_instruction"></string>
+	<string name="id_2201_ingredients"></string>
+	
+	<string name="id_2202_name">2 Rice bolls</string>
+	<string name="id_2202_description"></string>
+	<string name="id_2202_options_name">Type</string>
+	<string name="id_2202_option_0_name"></string>
+	<string name="id_2202_option_1_name"></string>
+	<string name="id_2202_instruction"></string>
+	<string name="id_2202_ingredients"></string>	
+	
+	<string name="id_2205_name">Udon</string>
+	<string name="id_2205_description"></string>
+	<string name="id_2205_options_name">Type</string>
+	<string name="id_2205_option_0_name"></string>
+	<string name="id_2205_option_1_name"></string>
+	
+	<string name="id_2206_name">Rice gruel ・ Zosui (rice porridge)</string>
+	<string name="id_2206_description"></string>
+	<string name="id_2206_options_name">Type</string>
+	<string name="id_2206_option_0_name"></string>
+	<string name="id_2206_option_1_name"></string>
+	
+	<string name="id_2207_name">Fried Tofu in Udon noodle soup</string>
+	<string name="id_2207_description"></string>
+	<string name="id_2207_options_name">Type</string>
+	<string name="id_2207_option_0_name"></string>
+	<string name="id_2207_option_1_name"></string>
+	
+	<string name="id_2208_name">Tempura in Udon noodle soup</string>
+	<string name="id_2208_description"></string>
+	<string name="id_2208_options_name">Type</string>
+	<string name="id_2208_option_0_name"></string>
+	<string name="id_2208_option_1_name"></string>
+	
+	<string name="id_2209_name">beaten egg in Udon noodle soup</string>
+	<string name="id_2209_description"></string>
+	<string name="id_2209_options_name">Type</string>
+	<string name="id_2209_option_0_name"></string>
+	<string name="id_2209_option_1_name"></string>
+	
+	
+	<!-- Menu 4 -->	
+	<string name="id_24_name">For Kids</string>
+	
+	<string name="id_2401_name">Kid\'s lunch</string>	
+	<string name="id_2401_description"></string>
+	<string name="id_2401_instruction"></string>
+	<string name="id_2401_ingredients"></string>
+	
+	<string name="id_2402_name">Kid\'s breakfast</string>	
+	<string name="id_2402_description"></string>
+	<string name="id_2402_instruction"></string>
+	<string name="id_2402_ingredients"></string>
+	
+	<string name="id_2403_name">Little kid\'s dinner</string>	
+	<string name="id_2403_description"></string>
+	<string name="id_2403_instruction"></string>
+	<string name="id_2403_ingredients"></string>
+	
+	<string name="id_2404_name">Little kid\'s breakfast</string>	
+	<string name="id_2404_description"></string>
+	<string name="id_2404_instruction"></string>
+	<string name="id_2404_ingredients"></string>
+	
+	<!-- Used in addon -->	
+	<string name="id_31_name">Add-Ons</string>
+	
+	<string name="id_3103_name">Extra Patty (Chicken)</string>
+	<string name="id_3104_name">Extra Patty (Beef)</string>
+	<string name="id_3105_name">Hashbrown</string>
+	<string name="id_3106_name">Jalapenos</string>
+	<string name="id_3107_name">Fried Egg</string>
+	<string name="id_3108_name">Cheese (Cheddar/Swiss)</string>
+	<string name="id_3109_name">Caramelized Onions</string>
+	<string name="id_3110_name">Shiitake &amp; Enoki Mushrooms</string>
+	<string name="id_3111_name">Whole Portabello Mushroom</string>
+	<string name="id_3111_description">Grilled/Fried</string>
+	<string name="id_3112_name">Fried Avocado</string>
+	<string name="id_3113_name">Pineapple</string>
+	
+	
+	<!-- Menu 5 -->	
+	<string name="id_32_name">Beer</string>
+	
+	<string name="id_3205_name">KIRIN Classic lager</string>
+	<string name="id_3205_description"></string>	
+	<string name="id_3206_name">ASAHI SUPER DRY</string>
+	<string name="id_3207_name">Draft beer KIRIN Ichiban</string>
+
+	<!-- Menu 6 -->	
+	<string name="id_41_name">Unrefined Sake</string>
+	
+	<string name="id_4102_name">Reishi</string>
+	<string name="id_4102_options_name">Type</string>
+	<string name="id_4102_option_0_name">Glass</string>
+	<string name="id_4102_option_1_name">Bottle (720ml)</string>
+	<string name="id_4102_description">This is Japanese sparkling Sake made of pure local water and rice in Mimasaka. Fresh, fruity and easy to drink especially for women, due to the lower alcohol content (11〜13%).</string>	
+	
+	<!-- Menu 7 -->	
+	<string name="id_42_name">Sour Cocktail</string>
+	
+	<string name="id_4205_name">Lemon</string>	
+	<string name="id_4206_name">Plum</string>
+	<string name="id_4207_name">Japanese milk-based soft drink</string>
+	
+	<!-- Menu 8 -->	
+	<string name="id_43_name">Soft Drinks</string>
+	
+	<string name="id_4305_name">Oolong tea</string>	
+	<string name="id_4306_name">Coke</string>
+	<string name="id_4307_name">Orange juice</string>
+	<string name="id_4308_name">Soda</string>
+	<string name="id_4309_name">Alcohol-free beer KIRIN Free</string>
+	
+	<!-- Menu 9 -->	
+	<string name="id_44_name">Sake</string>
+	
+	<string name="id_4405_name">Sakushumusashi (Pure Rice Premium Brew Sake)</string>
+	<string name="id_4405_description">Pure rice premium brew sake made of Asahi rice (local rice in Okayama prefecture), which tastes light and dry. Namba Brewery (Tsuyama City)</string>
+	<string name="id_4405_options_name">Type</string>
+	<string name="id_4405_option_0_name">300ml</string>
+	<string name="id_4406_name">Gozenshu Mimasa (Pure Rice Premium Brew Sake)</string>
+	<string name="id_4406_description">Pure rice premium brew sake made of Omachi rice (local rice in Okayama prefecture), which is palatable and has natural rice flavor. Gozenshu Brewery Tsuji Head shop (Maniwa City)</string>
+	<string name="id_4406_options_name">Type</string>
+	<string name="id_4406_option_0_name">300ml</string>
+	<string name="id_4407_name">Musashinosato （Quality sake brewed with very highly polished rice）</string>
+	<string name="id_4407_description">Quality sake brewed with very highly polished rice made of Yamadanishiki rice (local rice in Okayama prefecture).  Extraordinarily aromatic and fruity. Tanaka Brewery (Mimasaka City)</string>
+	<string name="id_4407_options_name">Type</string>
+	<string name="id_4407_option_0_name">300ml</string>
+	<string name="id_4408_name">Kamoitsuha</string>
+	<string name="id_4408_description">Being polished 40% of Yamadanishiki rice (local rice in Okayama prefecture) and the master puts the heart and soul in it. Extraordinarily aromatic and fresh. The name is based on 330 years history of the brewery, Goyo pine tree and Kamo river. Tako-Honke Brewery (Tsuyama-city)</string>
+	<string name="id_4408_options_name">Type</string>
+	<string name="id_4408_option_0_name">300ml</string>
+	<string name="id_4409_name">Hot Sake Satsuki-Kokoro</string>
+	<string name="id_4409_description">Very fresh Sake like the sunny day in May. Mansai Brewery (Okayama City)</string>
+	<string name="id_4409_options_name">Type</string>
+	<string name="id_4409_option_0_name">180ml</string>
+	
+	<!-- Menu 10 -->	
+	<string name="id_45_name">Shochu</string>
+	
+	<string name="id_4505_name">Iichiko (Made from barley)</string>
+	<string name="id_4505_options_name">Type</string>
+	<string name="id_4505_option_0_name">Glass</string>
+	<string name="id_4505_option_1_name">Bottle (900ml)</string>
+	<string name="id_4506_name">Kaminokawa (Made from barley)</string>
+	<string name="id_4506_options_name">Type</string>
+	<string name="id_4506_option_0_name">Glass</string>
+	<string name="id_4506_option_1_name">Bottle (720ml)</string>
+	<string name="id_4507_name">Kuro-Kirishima (Made from barley)</string>
+	<string name="id_4507_options_name">Type</string>
+	<string name="id_4507_option_0_name">Glass</string>
+	<string name="id_4507_option_1_name">Bottle (720ml)</string>
+	<string name="id_4508_name">Momo-chu （Peach shochu)</string>
+	<string name="id_4508_description">Enjoy the peach aroma and flavor (lightly sweetened)</string>
+	<string name="id_4508_options_name">Type</string>
+	<string name="id_4508_option_0_name">Glass</string>
+	<string name="id_4508_option_1_name">Bottle (520ml)</string>
+	
+	<!-- Menu 11 -->	
+	<string name="id_46_name">Wine</string>
+	
+	<string name="id_4605_name">Koresato Wine Pione (Rosé / Middle sweet)</string>
+	<string name="id_4605_description">Koresato wine is made of local grapes in local winery, Okayama prefecture.</string>
+	<string name="id_4606_name">Koresato Wine Muscat grapes (White / Sweet)</string>
+	<string name="id_4607_name">BARON de LESAC (White / Dry)</string>
+	<string name="id_4607_description">Le Groupe Castel is well-known as No.1 wine company in Bordeaux, France and produce high quality wine.</string>
+	<string name="id_4608_name">BARON de LESAC (Red / Medium)</string>
+	<string name="id_4609_name">BRUT RESERVA (Sparkling wine / Dry)</string>
+	<string name="id_4609_description">Cava (sparkling wine) from Spain. Extraordinarily creamy and smooth.</string>
+	
+</resources>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/settings_main_background"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:padding="30dp"
+        android:src="@drawable/logoimage" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutMiddle"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="@drawable/background"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:paddingTop="20dp" >
+
+        <TextView
+            android:id="@+id/welcomeText_setTable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/welcome_settings"
+            android:textColor="#ffffff"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <!-- The button for set table number -->
+
+        <Button
+            android:id="@+id/btn_settings_tableNo"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="490dp"
+            android:background="@drawable/blue_button_background"
+            android:onClick="onTableNoClick"
+            android:text="@string/set_table_no"
+            android:textSize="17dp" />
+
+        <!-- The button for setting device Name -->
+
+        <Button
+            android:id="@+id/btn_settings_deviceName"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="490dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/blue_button_background"
+            android:onClick="onDeviceNameClick"
+            android:text="@string/set_device_name"
+            android:textSize="17dp" />
+
+        <Button
+            android:id="@+id/btn_settings_clear"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="490dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/blue_button_background"
+            android:onClick="onClearSentOrdersClick"
+            android:text="@string/clear_orders"
+            android:textSize="17dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <!-- The button for synchronize menu -->
+
+            <Button
+                android:id="@+id/btn_settings_syncMenu"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="490dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/blue_button_background"
+                android:onClick="onSyncMenuClick"
+                android:text="@string/sync_menu"
+                android:textSize="17dp" />
+
+            <!-- The progress bar for synchronize menu -->
+
+            <ProgressBar
+                android:id="@+id/syncMenuSpinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <!-- The button for synchronize other data -->
+
+            <Button
+                android:id="@+id/btn_settings_syncOther"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="490dp"
+                android:layout_marginTop="2dp"
+                android:background="@drawable/blue_button_background"
+                android:onClick="onSyncOtherClick"
+                android:text="@string/sync_other"
+                android:textSize="17dp" />
+
+            <!-- The progress bar for synchronize other data -->
+
+            <ProgressBar
+                android:id="@+id/syncOtherSpinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_settings_back"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="490dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/blue_button_background"
+            android:onClick="onCloseClick"
+            android:text="@string/back_settings"
+            android:textSize="17dp" />
+
+        <Button
+            android:id="@+id/btn_settings_exit"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="490dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/red_rectangle_button"
+            android:onClick="onExitClick"
+            android:text="@string/exit_app"
+            android:textColor="@color/settings_btn_settings_exit"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/message_setTable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="50dp"
+        android:text="@string/copyrights"
+        android:textColor="@color/settings_allRightsReserved"
+        android:textSize="12dp" />
+
+</LinearLayout>
