@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnPrintPreview"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="195dp"
+        android:background="@drawable/green_rectangle_button"
+        android:onClick="onPrintPreviewClick"
+        android:text="@string/print"
+        android:textColor="@color/viewfoodcart_btns"
+        android:textSize="21sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:id="@+id/sclPrintPreview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <WebView
+            android:id="@+id/wbViewPrintPreview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </WebView>
+    </ScrollView>
+
+</LinearLayout>

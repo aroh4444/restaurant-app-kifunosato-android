@@ -1,0 +1,5 @@
+<tr>
+	<td>%s - %s</td>
+	<td width="80px" style="text-align: center;" colspan="2">%s * %s</td>
+	<td style="text-align: right;">%s</td>
+</tr>

@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<restaurant>
+	<currency>
+		<name>Rupees</name>
+		<symbol>Rs</symbol>
+	</currency>
+	<languages>
+		<language>
+			<name>English</name>
+			<id>en</id>
+			<flag>
+				<location>english</location>
+				<type>png</type>
+			</flag>
+		</language>
+		<language>
+			<name>French</name>
+			<id>fr</id>
+			<flag>
+				<location>french</location>
+				<type>png</type>
+			</flag>
+		</language>
+	</languages>
+	<menus>
+		<submenu>
+			 <name>Snacks</name>
+			 <id>51</id>
+			 <isEnable>true</isEnable>
+			 <price></price>
+			 <isSuggestion>true</isSuggestion>
+			 <image>
+			   <location>snackz</location>
+			   <type>png</type>
+			 </image>
+			 <items>
+			   <item>
+				 <name>Deviled Cashew Nuts</name>
+				 <id>5101</id>
+				 <isEnable>true</isEnable>
+				 <price>750</price>
+				 <image>
+				   <location>cashew</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>cashew, salt, onion
+				   </ingredients>
+				   <cooking_instructions>Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+					 Cashew with Fried Curry Leave
+				   </description>
+				   <calories>600</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Homemade Potato Wedges</name>
+				 <id>5102</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>potatow</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>
+				   Mozzarella Cheese, Tomato Sauce, Guacamole, Sour Cream
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   Mozzarella Cheese, Tomato Sauce, Guacamole, Sour Cream
+				   </description>
+				   <calories>600</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Tandoori Chicken Tortilla</name>
+				 <id>5103</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>tandoori_chicken</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>
+				   Chicken, Curd, Tomato, Onion, Lettuce
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   Combination of Tandoori Chicken, Curd, Tomato, Onion and Lettuce
+				   </description>
+				   <calories>600</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Vegetable Samosa</name>
+				 <id>5104</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>vegetable_samosa</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>Potato, Green Peas, Cumin, Coriander, Green Salad
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description> A samosa with Potato, Green Peas, Cumin, Coriander, Green Salad
+				   </description>
+				   <calories>600</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Spicy Lamb Rolls</name>
+				 <id>5105</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>spicy_lamb_rolls</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>
+				   Garden Greens, egg, Aromatic Aioli, onion, Tabasco, 
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   </description>
+				   <calories>500</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Southern Fried Chicken</name>
+				 <id>5106</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>southern_fried_chicken</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients> chicken, cinnamon, salt
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   Wholemeal Crust and Chips
+				   </description>
+				   <calories>700</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Cheese Stick Potato Salad</name>
+				 <id>5107</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>cheese_stick_potato_salad</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>Cheese, Bacon, Gherkins, Rocket Lettuce
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   Parmesan Cheese Sticks, Crispy Bacon, Apples, Gherkins and Rocket Lettuce (Vegetarian Option Available)
+				   </description>
+				   <calories>500</calories>
+				 </item_details>
+			   </item>
+			   
+				 <item>
+				 <name>Healthy Sensation</name>
+				 <id>5108</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>healthy_sensation</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients> Chicken, beans, Tamari Soy, Dill, Greens
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   Chicken Tenderloin, Raw Vegetables, Orange Aioli Rice Paper, Tamari Soy, Dill and Greens 
+				   </description>
+				   <calories>700</calories>
+				 </item_details>
+			   </item>
+			   
+				<item>
+				 <name>Chunky Chips</name>
+				 <id>5109</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>chunky_chips</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>
+				   potato, oil
+				   </ingredients>
+				   <cooking_instructions>
+				   Put the mayonnaise in a bowl and whisk in the onions, 
+				   green peppers, parsley, mustard, Worcestershire sauce, Tabasco, 
+				   cayenne, lemon juice, salt, and pepper.
+				   </cooking_instructions>
+				   <description>
+				   with Tomato Sauce 
+				   </description>
+				   <calories>500</calories>
+				 </item_details>
+			   </item>
+			 </items>
+			</submenu>
+		<submenu>
+			  <name>Sandwiches</name>
+			  <id>21</id>
+			  <isEnable>true</isEnable>
+			  <price></price>
+			  <isSuggestion>true</isSuggestion>
+			  <image>
+				<location>sandwiches</location>
+				<type>png</type>
+			  </image>
+			  <items>
+				<item>
+				  <name>Club Sandwich</name>
+				  <id>2101</id>
+				  <isEnable>true</isEnable>
+				  <price>1380</price>
+				  <image>
+					<location>club_sandwich</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Fresh Greens, Potato Wedges, Lettus
+					  Tomato, Egg, Chicken and Bacon
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  A club sandwich, also called a clubhouse sandwich,
+					  is a sandwich with toasted bread. It is often cut 
+					  into quarters and held together by hors d'œuvre sticks. 
+					  It has two layers separated by an additional slice of bread
+					</description>
+					<calories>500</calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>Smoked Salmon Sandwich</name>
+				  <id>2102</id>
+				  <isEnable>true</isEnable>
+				  <price>1380</price>
+				  <image>
+					<location>smoked_salmon_sandwich</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Focaccia, Capers, Mayonnaise, Boiled Egg
+					  Fresh Garden Leaves and Chip
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  5 loaves dense 7-grain or health bread, unsliced
+					  40 slices smoked salmon          
+					</description>
+					<calories>500</calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>Tuna Melt</name>
+				  <id>2103</id>
+				  <isEnable>true</isEnable>
+				  <price>1145</price>
+				  <image>
+					<location>tuna_melt</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Tuna Salad, Onion, Chilli and Cheese
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  A melt sandwich is a type of sandwich consisting 
+					  of bread, some sort of filling, and a layer of cheese,
+					  sometimes grated. The sandwich is then grilled or
+					  fried until the cheese is melted. It may be served
+					  as an open face sandwich or a closed face one.
+					</description>
+					<calories>500</calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>Cheese and Tomato</name>
+				  <id>2104</id>
+				  <isEnable>true</isEnable>
+				  <price>990</price>
+				  <image>
+					<location>cheese_and_tomato</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Lettus and French Fries
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  A cheese sandwich is a basic sandwich
+					  made generally with one or more varieties
+					  of cheese on any sort of bread. In
+					  addition to the cheese, it may also include
+					  meats, vegetables and/or condiments.
+					</description>
+					<calories>500</calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>SRI LANKAN WRAP</name>
+				  <id>2105</id>
+				  <isEnable>true</isEnable>
+				  <price>990</price>
+				  <image>
+					<location>Sri Lankan Wrap</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Lentil Cutlet, Avocado, Parsley, Tomato
+					  Onion and Lemon Aioli
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  Lentil Cutlet, Avocado, Parsley, Tomato
+					  Onion and Lemon Aioli
+					</description>
+					<calories>500</calories>
+				  </item_details>
+				</item>
+			  </items>
+			</submenu>
+			<submenu>
+			  <name>Salads</name>
+			  <id>22</id>
+			  <isEnable>true</isEnable>
+			  <price></price>
+			  <isSuggestion>true</isSuggestion>
+			  <image>
+				<location>salads</location>
+				<type>png</type>
+			  </image>
+			  <items>
+				<item>
+				  <name>Caesar Salad</name>
+				  <id>2201</id>
+				  <isEnable>true</isEnable>
+				  <price>1145</price>
+				  <image>
+					<location>caesar_salad</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Iceberg Lettus, Crispy Bacon, Parmesan
+					  Cheese Garlic Croutons, Anchovies
+					  and Salad Dressing
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  A Caesar salad is a salad of romaine 
+					  lettuce and croutons dressed with parmesan
+					  cheese, lemon juice, olive oil, egg,
+					  Worcestershire sauce, garlic, and black 
+					  pepper. It is often prepared tableside.
+					</description>
+					<calories></calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>
+					Greek Salad with Mediterranean
+					Mint Vinaigrette
+				  </name>
+				  <id>2202</id>
+				  <isEnable>true</isEnable>
+				  <price>1145</price>
+				  <image>
+					<location>greek_salad</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Romaine Baby Lettus, Iceberg Lettus,
+					  Tomato Bell Pepper, Red onion, Cucumber,
+					  Pickled Peppers, Olives, Parsley, Feta Cheese
+					  and Mint Vinaigrette
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  Romaine Baby Lettus, Iceberg Lettus,
+					  Tomato Bell Pepper, Red onion, Cucumber,
+					  Pickled Peppers, Olives, Parsley, Feta Cheese
+					  and Mint Vinaigrette
+					</description>
+					<calories></calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>
+					Fresh Rice Paper Roll
+				  </name>
+				  <id>2203</id>
+				  <isEnable>true</isEnable>
+				  <price>950</price>
+				  <image>
+					<location>fresh_rice</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Steamed Prawns, Vegetables
+					  Sri Lankan Dukka and Chilli Hoisin Sauce
+					  (Vegetarian Option Available)
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  Rice paper rolls are considered an Asian
+					  staple either fried or raw. They are great
+					  finger foods for a party or gathering and 
+					  can be made almost as quickly
+					  as a healthy sandwich.
+					</description>
+					<calories></calories>
+				  </item_details>
+				</item>
+				<item>
+				  <name>
+					Pepper or Chilli Crusted Tuna
+				  </name>
+				  <id>2204</id>
+				  <isEnable>true</isEnable>
+				  <price>910</price>
+				  <image>
+					<location>pepper_or_chilli</location>
+					<type>png</type>
+				  </image>
+				  <options>
+				  </options>
+				  <item_details>
+					<ingredients>
+					  Seared and Sliced Fresh Over Wasabi
+					  Mayonnaise and Crispy Mixed
+					  Garden Greens
+					</ingredients>
+					<cooking_instructions>
+					  Put the mayonnaise in a bowl and whisk
+					  in
+					  the onions, green peppers, parsley, mustard,
+					  Worcestershire
+					  sauce, Tabasco, cayenne, lemon juice, salt,
+					  and pepper
+					</cooking_instructions>
+					<description>
+					  Seared and Sliced Fresh Over Wasabi
+					  Mayonnaise and Crispy Mixed
+					  Garden Greens
+					</description>
+					<calories></calories>
+				  </item_details>
+				</item>
+
+			  </items>
+			</submenu>
+				
+			<submenu>
+				  <name>Thin Crusted Italian Pizza</name>
+				  <id>23</id>
+				  <isEnable>true</isEnable>
+				  <price></price>
+				  <isSuggestion>true</isSuggestion>
+				  <image>
+					<location>thin_crusted</location>
+					<type>png</type>
+				  </image>
+				  <items>
+					<item>
+					  <name>Seafood</name>
+					  <id>2301</id>
+					  <isEnable>true</isEnable>
+					  <price>1300</price>
+					  <image>
+						<location>seafood</location>
+						<type>png</type>
+					  </image>
+					  <options>
+					  </options>
+					  <item_details>
+						<ingredients>
+						  White Fish, Squid, Shrimps, Herbs
+						  Green Chilli and Mozzarella
+						</ingredients>
+						<cooking_instructions>
+						  Put the mayonnaise in a bowl and whisk
+						  in
+						  the onions, green peppers, parsley, mustard,
+						  Worcestershire
+						  sauce, Tabasco, cayenne, lemon juice, salt,
+						  and pepper
+						</cooking_instructions>
+						<description>
+						  Seafood is any form of sea life regarded as 
+						  food by humans. Seafood prominently includes 
+						  fish and shellfish. Shellfish include various 
+						  species of molluscs, crustaceans, and echinoderms.
+						</description>
+						<calories>500</calories>
+					  </item_details>
+					</item>
+				  </items>
+				</submenu>
+			<submenu>
+				  <name>Desserts</name>
+				  <id>24</id>
+				  <isEnable>true</isEnable>
+				  <price></price>
+				  <isSuggestion>true</isSuggestion>
+				  <image>
+					<location>desserts</location>
+					<type>png</type>
+				  </image>
+				  <items>
+					<item>
+					  <name>Homemade Ice Cream</name>
+					  <id>2401</id>
+					  <isEnable>true</isEnable>
+					  <price>280</price>
+					  <image>
+						<location>homemade_ice_cream</location>
+						<type>png</type>
+					  </image>
+					  <options>
+					  </options>
+					  <item_details>
+						<ingredients>
+						  Ice cubes, cup salt, sugar, vanilla
+						</ingredients>
+						<cooking_instructions>
+						  Put the mayonnaise in a bowl and whisk
+						  in
+						  the onions, green peppers, parsley, mustard,
+						  Worcestershire
+						  sauce, Tabasco, cayenne, lemon juice, salt,
+						  and pepper
+						</cooking_instructions>
+						<description>
+						  homemade ice cream is in a world of its own.
+						</description>
+						<calories>500</calories>
+					  </item_details>
+					</item>
+				  </items>
+				</submenu>
+
+				
+		<submenu>
+      <name>Draught beer</name>
+      <id>31</id>
+      <isEnable>true</isEnable>
+      <price></price>
+      <isSuggestion>true</isSuggestion>
+      <image>
+        <location>draught_beer</location>
+        <type>png</type>
+      </image>
+      <items>
+        <item>
+          <name>Lion Lager</name>
+          <id>3101</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>lion_lager</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>500ml</name>
+              <price>400</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>300ml</name>
+              <price>260</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              Water, Barley malt, Hops, Yeast
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Lion Lager in Sri Lanka since 1881.
+              Lion Lager is made from the very
+              best ingredients - it’s malty,
+              refreshing, and natural tasting.
+              This is a beer of character for 
+              people of character.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Three Coins Lager</name>
+          <id>3102</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>three_coins_lager</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>500ml</name>
+              <price>400</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>300ml</name>
+              <price>260</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              natural ingredients
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Three Coins is an all malt lager.
+              It is made with all natural ingredients, 
+              using no chemicals or preservatives. By
+              crafting the beer strictly with natural
+              ingredients in a state of the art brewery,
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>CARLSBERG</name>
+          <id>3103</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>Carlsberg</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>500ml</name>
+              <price>440</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>300ml</name>
+              <price>280</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              Water, Barley malt, Hops, Yeast
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Carlsberg is a 5% abv pale lager with a global distribution
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+
+      </items>
+    </submenu>
+    <submenu>
+      <name>Bottled Beer</name>
+      <id>32</id>
+      <isEnable>true</isEnable>
+      <price></price>
+      <isSuggestion>true</isSuggestion>
+      <image>
+        <location>bottled_beer</location>
+        <type>png</type>
+      </image>
+      <items>
+        <item>
+          <name>Lagers and Pilsner</name>
+          <id>3201</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>lagers_and_pilsner</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>Kronenbourg 1664 500ml</name>
+              <price>740</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Corona 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Sol 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Heineken 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Peroni 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Budweisser Budvar 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Kirin 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Tsingtao 330ml</name>
+              <price>640</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              Water, Barley malt, Hops, Yeast
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Pilsner is a type of pale lager.
+              It took its name from the city of Pilsen
+              (Plzeň, Bohemia, Czech Republic, where
+              it was first produced in 1842).[1] The
+              original Pilsner Urquell beer is still
+              produced there today.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Weissbier</name>
+          <id>3202</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>weissbier</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>Erdinger Fine Yeast 500ml</name>
+              <price>760</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Erdinger Dark 500ml</name>
+              <price>760</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Benedicktiner 500ml</name>
+              <price>760</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              Water, Barley malt, Hops, Yeast
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Weißbier, sometimes Weissbier
+              ("white beer"), also known as
+              Weizen(bier) ("wheat beer"),
+              is a Bavarian beer in which a
+              significant proportion of 
+              malted barley is replaced 
+              with malted wheat.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Stout and Ale</name>
+          <id>3203</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>stout_and_ale</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>Guiness 440ml</name>
+              <price>740</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Irish Dark Red Ale</name>
+              <price>320</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Lion Stout 325ml</name>
+              <price>290</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              Water, roasted malt or roasted barley, Hops, Yeast
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Stout is a dark beer made using roasted malt
+              or roasted barley, hops, water and yeast.
+              Stouts were traditionally the generic term 
+              for the strongest or stoutest porters, 
+              typically 7% or 8%, produced by a brewery.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Cider</name>
+          <id>3204</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>cider</location>
+            <type>png</type>
+          </image>
+          <options>
+            <option>
+              <name>Magners Pear 568ml</name>
+              <price>1000</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Savanna 340ml</name>
+              <price>760</price>
+              <no_of_person></no_of_person>
+            </option>
+            <option>
+              <name>Strong Bow 250ml</name>
+              <price>680</price>
+              <no_of_person></no_of_person>
+            </option>
+          </options>
+          <item_details>
+            <ingredients>
+              fruit juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Cider or cyder is a fermented alcoholic
+              beverage made from fruit juice, 
+              most commonly and traditionally apple juice,
+              but also the juice of peaches, pears
+              ("Perry" cider) or other fruit.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+      </items>
+    </submenu>
+    <submenu>
+      <name>King’s Picks</name>
+      <id>33</id>
+      <isEnable>true</isEnable>
+      <price>850</price>
+      <isSuggestion>true</isSuggestion>
+      <image>
+        <location>king’s_picks</location>
+        <type>png</type>
+      </image>
+      <items>
+        <item>
+          <name>Harlem</name>
+          <id>3301</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>harlem</location>
+            <type>png</type>
+          </image>
+          <options>            
+          </options>
+          <item_details>
+            <ingredients>
+              Dry Gin, Maraschino and Fresh
+              Pineapple Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Dry Gin, Maraschino and Fresh
+              Pineapple Juice
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Razzmopolitan</name>
+          <id>3302</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>razzmopolitan</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Raspberry Vodka, Curacao, Fresh Lime Juice
+              and Cranberry Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>              
+              A Razzmopolitan (also called a Raspberry Cosmopolitan)
+              is simply a Cosmopolitan cocktail that is made with
+              raspberry-flavored vodka and garnished with raspberries.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Japanese Slipper</name>
+          <id>3303</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>japanese_slipper</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Midori, Cointreau and Fresh Lime Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              If you're looking for a short drink, 
+              light on the alcohol and high on the
+              fruity flavor the Japanese Slipper 
+              is one you'll want to give a try.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Broadhurst Drive-by</name>
+          <id>3304</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>broadhurst_drive-by</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              London Dry Gin, Martini Rosso, Apple Purée
+              and Fresh Lime Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              London Dry Gin, Martini Rosso, Apple Purée
+              and Fresh Lime Juice
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Last Mango in Paris</name>
+          <id>3305</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>last_mango</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Vodka, Raspberry Liqueur, Fresh Lime Juice,
+              Fresh Mango Purée, Strawberry Purée
+              and Fresh Lime Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Vodka, Raspberry Liqueur, Fresh Lime Juice,
+              Fresh Mango Purée, Strawberry Purée
+              and Fresh Lime Juice
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+        <item>
+          <name>Voachino</name>
+          <id>3306</id>
+          <isEnable>true</isEnable>
+          <price></price>
+          <image>
+            <location>voachino</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Midori, Cointreau and Fresh Lime Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Midori, Cointreau and Fresh Lime Juice
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+      </items>
+    </submenu>
+    
+	<submenu>
+		 <name>Gin</name>
+		 <id>61</id>
+		 <isEnable>true</isEnable>
+		 <price></price>
+		 <isSuggestion>true</isSuggestion>
+		 <image>
+		   <location>gin</location>
+		   <type>png</type>
+		 </image>
+		 <items>
+		   <item>
+			 <name>Heymen’s Sloe Gin</name>
+			 <id>6101</id>
+			 <isEnable>true</isEnable>
+			 <price>500</price>
+			 <image>
+			   <location>HeymenSloeGin</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+		   
+			  <item>
+			 <name>Hendrick’s</name>
+			 <id>6102</id>
+			 <isEnable>true</isEnable>
+			 <price>520</price>
+			 <image>
+			   <location>hendrick</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+		   
+			  <item>
+			 <name>Tanqueray 10</name>
+			 <id>6103</id>
+			 <isEnable>true</isEnable>
+			 <price>480</price>
+			 <image>
+			   <location>tanqueray10</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+		   
+			  <item>
+			 <name>Tanqueray</name>
+			 <id>6104</id>
+			 <isEnable>true</isEnable>
+			 <price>460</price>
+			 <image>
+			   <location>tanqueray</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+		   
+			  <item>
+			 <name>Bombay Sapphire</name>
+			 <id>6105</id>
+			 <isEnable>true</isEnable>
+			 <price>460</price>
+			 <image>
+			   <location>Bombay_sapphire</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+		   
+			  <item>
+			 <name>Gordon’s</name>
+			 <id>6106</id>
+			 <isEnable>true</isEnable>
+			 <price>450</price>
+			 <image>
+			   <location>gordons</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+
+		   
+			<item>
+			 <name>Beefeater</name>
+			 <id>6107</id>
+			 <isEnable>true</isEnable>
+			 <price>450</price>
+			 <image>
+			   <location>beefeater</location>
+			   <type>png</type>
+			 </image>
+			 <options>
+			 </options>
+			 <item_details>
+			   <ingredients>Water, Barley malt, Hops, Yeast
+			   </ingredients>
+			   <cooking_instructions>The making process is complicated. It
+							requires special training and equipment
+			   </cooking_instructions>
+			   <description>
+			   </description>
+			   <calories>700</calories>
+			 </item_details>
+		   </item>
+		  </items>
+		</submenu>
+	
+	
+    <submenu>
+      <name>Rum</name>
+      <id>34</id>
+      <isEnable>true</isEnable>
+      <price></price>
+      <isSuggestion>true</isSuggestion>
+      <image>
+        <location>rum</location>
+        <type>png</type>
+      </image>
+      <items>
+        <item>
+          <name>Ron Zacapa XO</name>
+          <id>3401</id>
+          <isEnable>true</isEnable>
+          <price>890</price>
+          <image>
+            <location>ron_zacapa_xo</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Rum
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              The Ron Zacapa XO is a blend of rums
+              distilled from the sweetest first-crush
+              sugar cane and aged between 6 and 25 years.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+      </items>
+    </submenu>
+    <submenu>
+      <name>Blended Whisky</name>
+      <id>33</id>
+      <isEnable>true</isEnable>
+      <price></price>
+      <isSuggestion>true</isSuggestion>
+      <image>
+        <location>blended_vhisky</location>
+        <type>png</type>
+      </image>
+      <items>
+        <item>
+          <name>Johnnie Walker Odyssey</name>
+          <id>3301</id>
+          <isEnable>true</isEnable>
+          <price>13900</price>
+          <image>
+            <location>johnnie_walker_odyssey</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Dry Gin, Maraschino and Fresh
+              Pineapple Juice
+            </ingredients>
+            <cooking_instructions>
+              Rum
+            </cooking_instructions>
+            <description>
+              A Johnnie Walker Odyssey (or whisky) is the product
+              of blending different types of whiskeys and
+              often also neutral and near-neutral spirits,
+              coloring, and flavorings.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+      </items>
+    </submenu>
+    <submenu>
+      <name>American and Canadian</name>
+      <id>33</id>
+      <isEnable>true</isEnable>
+      <price></price>
+      <isSuggestion>true</isSuggestion>
+      <image>
+        <location>american_and_canadian</location>
+        <type>png</type>
+      </image>
+      <items>
+        <item>
+          <name>Jim Beam Black</name>
+          <id>3301</id>
+          <isEnable>true</isEnable>
+          <price>520</price>
+          <image>
+            <location>jim_beam_black</location>
+            <type>png</type>
+          </image>
+          <options>
+          </options>
+          <item_details>
+            <ingredients>
+              Dry Gin, Maraschino and Fresh
+              Pineapple Juice
+            </ingredients>
+            <cooking_instructions>
+              The brewing process is complicated. It
+              requires special
+              training and equipment.
+            </cooking_instructions>
+            <description>
+              Jim Beam is a brand of bourbon whiskey 
+              produced in Clermont, Kentucky.
+            </description>
+            <calories>500</calories>
+          </item_details>
+        </item>
+      </items>
+    </submenu>
+		<submenu>
+			 <name>Specialty Coffee</name>
+			 <id>66</id>
+			 <isEnable>true</isEnable>
+			 <price></price>
+			 <isSuggestion>true</isSuggestion>
+			 <image>
+			   <location>specialty_coffee</location>
+			   <type>png</type>
+			 </image>
+			 <items>
+			   <item>
+				 <name>Springbok Coffee</name>
+				 <id>6601</id>
+				 <isEnable>true</isEnable>
+				 <price>850</price>
+				 <image>
+				   <location>springbok</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients> milk, coffee, chocolate, cinnamon
+				   </ingredients>
+				   <cooking_instructions>Put water into coffee and mix it with milk and sugar.
+				   </cooking_instructions>
+				   <description>
+				   Amarula, Apricot Brandy, Cream and Coffee
+				   </description>
+				   <calories>600</calories>
+				 </item_details>
+			   </item>
+			   
+			   <item>
+				 <name>Irish Coffee</name>
+				 <id>6502</id>
+				 <isEnable>true</isEnable>
+				 <price>475</price>
+				 <image>
+				   <location>irishcoffee</location>
+				   <type>png</type>
+				 </image>
+				 <options>
+				 </options>
+				 <item_details>
+				   <ingredients>
+				   milk, coffee, chocolate
+				   </ingredients>
+				   <cooking_instructions>
+				   Put water into coffee and mix it with milk and sugar
+				   </cooking_instructions>
+				   <description>
+				   John Jameson, Cream and Coffee
+				   </description>
+				   <calories>600</calories>
+				 </item_details>
+			   </item>
+			 </items>
+			</submenu>
+		<submenu>
+			<name>White Wines</name>
+			<id>62</id>
+			<isEnable>true</isEnable>
+			<price></price>
+			<isSuggestion>false</isSuggestion>
+			<image>
+				<location>wine</location>
+				<type>png</type>
+			</image>
+			<items>
+				<item>
+					<name>Sauvignon Blanc - Tall Horse, South Africa</name>
+					<id>6201</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>red_wine</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>650</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2170</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>3250</price>
+							<no_of_person>6</no_of_person>
+						</option>
+					</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Salt, Suger
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special training and equipment
+						</cooking_instructions>
+						<description>Tall Horse, South Africa </description>
+						<calories>620</calories>
+					</item_details>
+				</item>
+				<item>
+					<name>Sauvignon Blanc - Oyster</name>
+					<id>6202</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>oyster</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>1000</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>3340</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>5000</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special
+							training and equipment.
+						</cooking_instructions>
+						<description>Oyster New Zealand</description>
+						<calories>620</calories>
+					</item_details>
+				</item>
+				<item>
+					<name>Chardonnay - Millaman</name>
+					<id>6203</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>millaman</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>650</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2170</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>3250</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special
+							training and equipment.
+						</cooking_instructions>
+						<description>Millaman, Estate Reserve Chile</description>
+						<calories>620</calories>
+					</item_details>
+				</item>
+				<item>
+					<name>Chardonnay - Domaine Laroche</name>
+					<id>6204</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>domaine_laroche</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>1000</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>3340</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>5000</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special training and equipment.
+						</cooking_instructions>
+						<description>Domaine Laroche Petit Chablis, Burgundy, France </description>
+						<calories>800</calories>
+					</item_details>
+				</item>
+				
+				<item>
+					<name>Riesling - Nederburg, Winemasters </name>
+					<id>6205</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>nederburg</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>650</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2170</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>3250</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special training and equipment.
+						</cooking_instructions>
+						<description>Nederburg, Winemasters Reserve, South Africa</description>
+						<calories>800</calories>
+					</item_details>
+				</item>
+
+				<item>
+					<name>Pinot Grigio - Santa Margherita</name>
+					<id>6206</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>santa_margherita</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>800</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2670</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>4000</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special training and equipment.
+						</cooking_instructions>
+						<description>Santa Margherita, Valdadige Trenito, Alto Adige, Italy </description>
+						<calories>800</calories>
+					</item_details>
+				</item>
+				<item>
+					<name>Gewurztraminer - Hugel and Fils</name>
+					<id>6207</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>gewurztraminer_hugel_fils</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>800</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2670</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>4000</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special training and equipment.
+						</cooking_instructions>
+						<description>Hugel and Fils, Alsace, France</description>
+						<calories>800</calories>
+					</item_details>
+				</item>
+				<item>
+					<name>Blends - Semillon Chardonnay</name>
+					<id>6208</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>semillon_chardonnay</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>700</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2340</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>3500</price>
+							<no_of_person>6</no_of_person>
+						</option>
+						</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Suger, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special training and equipment.
+						</cooking_instructions>
+						<description>Semillon Chardonnay, Banrock Station, Riverland, South Africa
+					</description>
+					<calories>500</calories>
+				  </item_details>
+				</item>
+			  </items>
+			</submenu>
+		<submenu>
+			<name>Red Wines</name>
+			<id>66</id>
+			<isEnable>true</isEnable>
+			<price></price>
+			<isSuggestion>false</isSuggestion>
+			<image>
+				<location>red_wine</location>
+				<type>png</type>
+			</image>
+			<items>
+				<item>
+					<name>Gamay</name>
+					<id>6601</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>beajoulais_villages</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>750</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>2500</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>3750</price>
+							<no_of_person>6</no_of_person>
+						</option>
+					</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Salt, Sugar
+						</ingredients>
+						<cooking_instructions>Making process is complicated. It
+							requires special training and equipment
+						</cooking_instructions>
+						<description>Beajoulais Villages Bouchard Aine and Fils, Burgundy, France </description>
+						<calories>620</calories>
+					</item_details>
+				</item>
+				
+				<item>
+					<name>Carbernet Sauvignon</name>
+					<id>6202</id>
+					<isEnable>true</isEnable>
+					<price></price>
+					<image>
+						<location>oyster</location>
+						<type>png</type>
+					</image>
+					<options>
+						<name>portion</name>
+						<option>
+							<name>glass</name>
+							<price>1000</price>
+							<no_of_person>1</no_of_person>
+						</option>
+						<option>
+							<name>carafe</name>
+							<price>3340</price>
+							<no_of_person>3</no_of_person>
+						</option>
+						<option>
+							<name>bottle</name>
+							<price>5000</price>
+							<no_of_person>6</no_of_person>
+						</option>
+					</options>
+					<item_details>
+						<ingredients>Grape Extract, Water, Sugar, Salt
+						</ingredients>
+						<cooking_instructions>The brewing process is complicated. It
+							requires special
+							training and equipment.
+						</cooking_instructions>
+						<description>Millaman, Estate Reserve, Chile
+						</description>
+						<calories>620</calories>
+
+				  </item_details>
+				</item>
+			  </items>
+			</submenu>
+	</menus>
+</restaurant>

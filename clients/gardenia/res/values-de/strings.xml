@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Gardenia</string>
+    <string name="enter_btn_txt">Eingeben</string>
+    <string name="close">Schließen</string>
+    <string name="submit">Einreichen</string>
+    <string name="cancel">kündigen</string>
+    <string name="descriptions">Beschreibungen</string>
+    <string name="not_available">nicht verfügbar</string>
+    <string name="cooking">cooking Instructions</string>
+    <string name="energy">Energie:</string>
+    <string name="price">Preis:</string>
+    <string name="total_price">Preis</string>
+    <string name="order">Add to Order</string>
+    <string name="remove">Entfernen</string>
+    <string name="select">Wählen</string>
+    <string name="quantity">Menge:</string>
+    <string name="total">Gesamt</string>
+    <string name="cal">cal</string>
+    <string name="currency">Rs</string>
+    <string name="items">Artikel:</string>
+    <string name="submit_order">Bestellung absenden</string>
+    <string name="suggestion_notice">Uns ist aufgefallen, ...</string>
+    <string name="suggestion_yes">YES PLEASE</string>
+    <string name="suggestion_no">NEIN DANKE</string>
+    <string name="items_count">Artikel</string>
+    <string name="summery">Zusammenfassung</string>
+    <string name="categories"> Kategorien durchsuchen</string>
+    <string name="categories_header">Kategorien</string>
+    <string name="status_pending">schwebend</string>
+    <string name="orders">Bestellungen</string>
+    <string name="price_text">PREIS</string>
+    <string name="my_orders">Meine Bestellungen</string>
+    <string name="pending_orders">Pending Orders</string>
+    <string name="sent_orders">Gesendete Aufträge</string>
+    <string name="confirmed_orders">Meine Gesendete Aufträge</string>
+    <string name="change_order">Reihenfolge ändern</string>
+    <string name="yes">JA</string>
+    <string name="no">NO</string>
+    <string name="forget">Hast du das vergessen?</string>
+    <string name="back">BACK</string>
+    <string name="back_settings">Back</string>
+    <string name="exit_app">Anwendung beenden</string>
+
+    <!-- string arrays -->
+    <string-array name="portion_sizes">
+        <item>Small Rs.000</item>
+        <item>Regular Rs.000</item>
+        <item>Large Rs.000</item>
+    </string-array>
+
+    <!-- strings for Language Names -->
+    <string name="lang_uk">English (UK)</string>
+    <string name="lang_ch">Chinese</string>
+    <string name="lang_en">English (US)</string>
+    <string name="lang_fr">French</string>
+
+    <!-- strings for messages -->
+    <string name="welcome">Willkommen auf der GARDENIA Café</string>
+    <string name="select_lang">Wählen Sie Ihre Sprache</string>
+    <string name="message_lang">Durch die Auswahl einer Sprache, die Sie akzeptieren Bedingungen</string>
+    <string name="welcome_authentication">waiter Authentication</string>
+    <string name="welcome_setTable">Stellen Sie die Tabelle Anzahl</string>
+    <string name="welcome_setDevice">Stellen Sie die Device Name</string>
+    <string name="welcome_settings">Menü Einstellungen</string>
+    <string name="copyrights">2012 RAMADA Colombo | Alle Rechte vorbehalten.</string>
+    <string name="info_on_price">Diese Summe kann auf andere Restaurant Ladungen unterzogen werden.</string>
+    <string name="message">Bitte überprüfen Sie die Einzelheiten Ihrer Bestellung sorgfältig und wählen Sie dann Bezugsarten um fortzufahren</string>
+    <string name="suggestion_message_begin">Du hast nicht um einen beliebigen </string>
+    <string name="suggestion_message_end">Möchten Sie jetzt bestellen?</string>
+    <string name="confirm_submit_message">Sind Sie sicher, dass Sie die Aufträge einreichen?</string>
+    <string name="confirm_clear_orders">Sind Sie sicher, dass Sie alle Aufträge löschen?</string>
+    <string name="clear_order_success">Erfolgreich gelöscht Bestelldaten</string>
+    <string name="clear_order_fail">Bestellung fehlgeschlagen Daten zu löschen</string>
+    <string name="exit_confirmation">Sind Sie sicher, dass Sie beenden?</string>
+    <string name="submit_empty_order_message">Fügen Sie einige Artikel vor Bestellung absenden</string>
+    <string name="set_device_name_succesfully">Erfolgreich den Gerätenamen</string>
+
+    <!-- strings for settings -->
+    <string name="table_no">Tabelle Anzahl</string>
+    <string name="device_name">Device Name</string>
+    <string name="waiter_id">Waiter ID :</string>
+    <string name="access_code">Zugangscode:</string>
+    <string name="set_table_no">Set Table Nummer</string>
+    <string name="set_device_name">Set Device Name</string>
+    <string name="clear_orders">klare Aufträge</string>
+    <string name="sync_menu">Synchronisieren Menu</string>
+    <string name="sync_other">Synchronisieren Andere Daten</string>
+
+    <!-- strings for errors -->
+    <string name="error_waiterID">Bitte geben Sie die Kellner ID!</string>
+    <string name="error_accessCode">Bitte geben Sie den Zugangscode!</string>
+    <string name="error_tableNo">Bitte geben Sie die Tabelle No!</string>
+    <string name="error_deviceName">Bitte geben Sie die Device Name!</string>
+    <string name="error_bluetooth">No Blue Tooth-Kompatibilität. Kann nicht die Device Name</string>
+
+    <!-- strings for action titles -->
+    <string name="select_language">Sprache auswählen</string>
+    <string name="mainmenu">Kategorie auswählen</string>
+    <string name="shopping_cart">Einkaufswagen</string>
+    <string name="my_order">Meine Bestellung</string>
+    <string name="my_sent_order">Meine Sent Auftrag</string>
+    <string name="select_item">Element auswählen</string>
+
+    <!-- strings for header menu items -->
+    <string name="settings">Einstellungen</string>
+    <string name="home">Zuhause</string>
+    <string name="language">Sprache</string>
+
+</resources>

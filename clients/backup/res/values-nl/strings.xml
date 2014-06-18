@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">RestaurantApp</string>
+    <string name="enter_btn_txt">Invoeren</string>
+    <string name="close">Close</string>
+    <string name="submit">Sluiten</string>
+    <string name="cancel">Annuleren</string>
+    <string name="descriptions">Bschrijvingen</string>
+    <string name="not_available">Niet Beschikbaar</string>
+    <string name="cooking">Kookinstructies</string>
+    <string name="energy">Energie:</string>
+    <string name="price">Prijs: </string>
+    <string name="total_price">Prijis</string>
+    <string name="order">Add to Order</string>
+    <string name="remove">Verwijderen</string>
+    <string name="select">Kiezen</string>
+    <string name="quantity">Aantal:</string>
+    <string name="total">Totaal</string>
+    <string name="cal">cal</string>
+    <string name="currency">Rs</string>
+    <string name="items">Artikelen: </string>
+    <string name="submit_order">Verzend bestelling</string>
+    <string name="suggestion_notice">We merkten ...</string>
+    <string name="suggestion_yes">YES PLEASE</string>
+    <string name="suggestion_no">NO THANKS</string>
+    <string name="items_count">Artikelen</string>
+    <string name="summery">Beknopt</string>
+    <string name="categories"> Bladeren door rubrieken</string>
+    <string name="categories_header">Categorieën</string>
+    <string name="status_pending">in afwachting van</string>
+    <string name="orders">Bestellingen</string>
+    <string name="price_text">PRIJS</string>
+    <string name="my_orders">Mijn bestellingen </string>
+    <string name="pending_orders">In afwachting van orders</string>
+    <string name="sent_orders">verzonden bestellingen</string>
+    <string name="confirmed_orders">Mijn Verzonden bestellingen</string>
+    <string name="change_order">Wijzig Bestel</string>
+    <string name="yes">JA</string>
+    <string name="no">NO</string>
+    <string name="forget">Ben je dat vergeten?</string>
+    <string name="back">TERUG</string>
+    <string name="back_settings">terug</string>
+    <string name="exit_app">Verlaat applicatie</string>
+
+    <!-- string arrays -->
+    <string-array name="portion_sizes">
+        <item>Small Rs.000</item>
+        <item>Regular Rs.000</item>
+        <item>Large Rs.000</item>
+    </string-array>
+
+    <!-- strings for Language Names -->
+    <string name="lang_uk">English (UK)</string>
+    <string name="lang_ch">Chinese</string>
+    <string name="lang_en">English (US)</string>
+    <string name="lang_fr">French</string>
+
+    <!-- strings for messages -->
+    <string name="welcome">Welkom op de Gardenia Coffee Shop</string>
+    <string name="select_lang">Selecteer uw taal</string>
+    <string name="message_lang">Door het selecteren van een taal die je accepteert voorwaarden</string>
+    <string name="welcome_authentication">Waiter Authentication</string>
+    <string name="welcome_setTable">Stel de tabel No</string>
+    <string name="welcome_setDevice">Stel het Device Name</string>
+    <string name="welcome_settings">Instellingen Menu</string>
+    <string name="copyrights">2012 Ramada Colombo | Alle rechten voorbehouden.</string>
+    <string name="info_on_price">Dit totaal kan worden onderworpen aan andere restaurant lasten.</string>
+    <string name="message">Controleer de gegevens van uw bestelling zorgvuldig en vervolgens de levering opties te selecteren om door te gaan</string>
+    <string name="suggestion_message_begin">Je hebt niet bestellen van een </string>
+    <string name="suggestion_message_end">Wilt u nu bestellen?</string>
+    <string name="confirm_submit_message">Weet u zeker dat u de bestellingen in te dienen?</string>
+    <string name="confirm_clear_orders">Ben je zeker dat je alle orders wissen?</string>
+    <string name="clear_order_success">Succesvol verwijderd bestelgegevens</string>
+    <string name="clear_order_fail">Mislukt om gegevens te wissen </string>
+    <string name="exit_confirmation">Weet u zeker dat u wilt afsluiten?</string>
+    <string name="submit_empty_order_message">Voeg enkele items te bestellen voor in te dienen</string>
+    <string name="set_device_name_succesfully">Met succes zet de Apparaatnaam</string>
+
+    <!-- strings for settings -->
+    <string name="table_no">Aantal van de Lijst</string>
+    <string name="device_name">Apparaatnaam</string>
+    <string name="waiter_id">Ober ID:</string>
+    <string name="access_code">Toegang Code:</string>
+    <string name="set_table_no">Stel Tabel Geen</string>
+    <string name="set_device_name">Stel Apparaatnaam</string>
+    <string name="clear_orders">Clear Bestellingen</string>
+    <string name="sync_menu">Synchroniseer Menu</string>
+    <string name="sync_other">Synchroniseer Overige gegevens</string>
+
+    <!-- strings for errors -->
+    <string name="error_waiterID">Voer de Ober-ID!</string>
+    <string name="error_accessCode">Voer de toegangscode!</string>
+    <string name="error_tableNo">Voer de Aantal van de Lijst!</string>
+    <string name="error_deviceName">Voer de apparaatnaam!</string>
+    <string name="error_bluetooth">Geen Blue Tooth Compatibiliteit. Kunt niet de apparaatnaam</string>
+
+    <!-- strings for action titles -->
+    <string name="select_language">Selecteer Taal</string>
+    <string name="mainmenu">Selecteer een categorie</string>
+    <string name="shopping_cart">Winkelwagen</string>
+    <string name="my_order">Bestelling</string>
+    <string name="my_sent_order">Verzonden Bestel</string>
+    <string name="select_item">Selecteer item</string>
+
+    <!-- strings for header menu items -->
+    <string name="settings">Instellingen</string>
+    <string name="home">Thuis</string>
+    <string name="language">Taal</string>
+
+</resources>

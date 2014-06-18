@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--RestaurantAppWeb build script
+
+	Document	: build.xml
+	Created on 	: July 6, 2012, 05:11 PM
+	Author 		: Gayan Phillips 
+
+-->
+
+<project name="kifunosato" default="copyFiles" basedir=".">
+
+	<!--specify the time format-->
+	<tstamp>
+		<format property="time" pattern="yyyy.MM.dd" offset="-5" unit="hour" />
+	</tstamp>
+	
+	<!--specify the version-->
+	<property name="version" value="1.3.8" />
+	<!--specify the client-->
+	<property name="client" value="kifunosato" />
+	<!--specify the module-->
+	<property name="module" value="RestaurantAppDevice" />
+	<!--specify the bin directory-->
+	<property name="build.dir" value="bin" />
+	<!--specify the src directory-->
+	<property name="source.dir" value="src" />
+	<!--specify the resource directory-->
+	<property name="resource.dir" value="res" />
+	<!--specify the assets directory-->
+	<property name="assets.dir" value="assets" />
+	<!--specify the libs directory-->
+	<property name="libs.dir" value="libs" />
+	<!--specify the gen location-->
+	<property name="gen.dir" value="gen" />
+	<!--specify the dist location-->
+	<property name="dist.dir" value="dist" />
+	<!--specify the temp location-->
+	
+	<!--specify the release build directory-->
+	<property name="relBuild.dir" value="build" />
+	<!--specify the release source directory-->
+	<property name="relSource.dir" value="source" />
+	
+	<property name="templocation" value="./temp" />
+	<!--specify the release location-->
+	<property name="releaselocation" value="\\172.21.0.2\Projects\RestaurantApp\Releases" />
+	<!--specify the client location-->
+	<property name="client.dir" value="clients\${client}" />
+   	
+	
+	<target name="init">
+		<echo>Product Version    :${version}</echo>
+		<echo>Product Module     :${module}</echo>
+		<echo>Temp Location   	 :${templocation}</echo>
+		<echo>Build Directory    :${build.dir}</echo>
+		<echo>Source Directory   :${source.dir}</echo>
+	</target>
+
+	<target name="copyTempfiles" depends="init">
+
+		<!--create necessory directories-->
+		<mkdir dir="${templocation}\release\${build.dir}" />
+		<mkdir dir="${templocation}\release\${source.dir}" />
+		<mkdir dir="${templocation}\release\${resource.dir}" />
+		<mkdir dir="${templocation}\release\${assets.dir}" />
+		<mkdir dir="${templocation}\release\${libs.dir}" />
+		<mkdir dir="${templocation}\release\${gen.dir}" />
+
+
+		<!--copy project source-->
+		<copy todir="${templocation}\release\src">
+			<fileset dir="..\src" excludes="*.scc" />
+		</copy>
+
+		<!--copy project generated resource file-->
+		<copy todir="${templocation}\release\gen">
+			<fileset dir="..\gen" excludes="*.scc" />
+		</copy>
+		<!--copy resources-->
+		<copy todir="${templocation}\release\res">
+			<fileset dir="..\res" excludes="*.scc" />
+		</copy>
+		<!--copy project assets file-->
+		
+
+		<!--copy client assets file-->
+		<copy todir="${templocation}\release\assets">
+			<fileset dir="..\${client.dir}\assets" excludes="*.scc" />
+		</copy>
+		
+		<!--copy client files-->
+		<copy todir="${templocation}\release\${client.dir}">
+			<fileset dir="..\${client.dir}" excludes="*.scc" />
+		</copy>
+
+		<!--copy project libs-->
+		<copy todir="${templocation}\release\libs">
+			<fileset dir="..\libs" excludes="*.scc" />
+		</copy>
+
+		<!--copy resources-->
+		<copy todir="${templocation}\release\res">
+			<fileset dir="..\${client.dir}\res" excludes="*.scc" />
+		</copy>
+
+		<!--copy AndroidManifest.xml file-->
+		<copy todir="${templocation}\release">
+			<fileset file="..\${client.dir}\AndroidManifest.xml" excludes="*.scc" />
+		</copy>
+
+		<!--copy build.xml file-->
+		<copy todir="${templocation}\release">
+			<fileset file="..\${client.dir}\build.xml" excludes="*.scc" />
+		</copy>
+		
+		<!--copy README file-->
+		<copy todir="${templocation}\release">
+			<fileset file="..\README.txt"/>
+		</copy>
+		
+		<!--copy property files-->
+		<copy todir="${templocation}\release">
+			<fileset file="..\*.properties" excludes="*.scc" />
+		</copy>
+	</target>
+
+	<target name="unsignedReleaseBuild" depends="copyTempfiles">
+		<ant dir="${templocation}\release"/>
+		<ant antfile="${templocation}\release\build.xml" target="debug" useNativeBasedir="true"></ant>		
+	</target>
+	
+	<target name="copyFiles" depends="unsignedReleaseBuild">
+		
+		<mkdir dir="${releaselocation}\${time}_${version}_${client}\device\${relSource.dir}" />
+		<mkdir dir="${releaselocation}\${time}_${version}_${client}\device\${relBuild.dir}" />
+		
+		<!--copy source files-->
+		<copy todir="${releaselocation}\${time}_${version}_${client}\device\${relSource.dir}">
+			<fileset dir="${templocation}\release" excludes="${templocation}\release\bin\**, *.scc" />
+		</copy>
+		
+		<!--copy build files-->
+		<copy todir="${releaselocation}\${time}_${version}_${client}\device\${relBuild.dir}">
+			<fileset file="${templocation}\release\bin\*.apk" excludes="*.scc" />
+		</copy>
+		
+		<!--copy README file-->
+		<copy todir="${releaselocation}\${time}_${version}_${client}\device">
+			<fileset file="${templocation}\release\README.txt" />
+		</copy>
+		
+		<!-- delete bin folder from source-->
+		<delete dir="${releaselocation}\${time}_${version}_${client}\device\${relSource.dir}\bin"></delete>
+		
+		<!-- delete temp release folder-->
+		<delete dir="${templocation}\release"></delete>
+		
+	</target>
+	
+
+</project>

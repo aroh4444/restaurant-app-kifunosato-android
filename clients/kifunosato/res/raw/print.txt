@@ -1,0 +1,54 @@
+<html>
+<head>
+<style>
+
+body{
+	font-size: 18px;
+	font-family: "Roboto Light";
+	
+	
+}
+
+table,th,td
+{
+	padding:1px;
+	border: 1px solid black;
+}
+
+
+</style>
+</head>
+<body width="370px"  style="width:370px;padding-bottom:30px;">
+	
+	<table style="font-size: 14px;width:370px;padding-bottom:30px;">	
+	<thead ></thead>
+	<tbody>
+	<tr>
+		<td colspan="4" style="text-align: center;"><b align="center">MyBurgerLab</b></br>
+			Jalan 21/22, Sea Park, 46300 Petaling Jaya, Selangor, Malaysia
+		</td> 
+	</tr>
+	<tr>
+		<td colspan="4">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2">Server : %s</td>
+		<td colspan="2">Order # : %s</td>
+	</tr>
+	<tr>
+		<td colspan="2">%s</td>
+		<td colspan="2">%s</td>
+	</tr>
+	%s
+	<tr>
+		<td colspan="4">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="2">Sub total:</td>
+		<td colspan="2" style="text-align: right;">%s</td>
+	</tr>
+	<tbody>
+	</table>
+	
+</body>
+</html>

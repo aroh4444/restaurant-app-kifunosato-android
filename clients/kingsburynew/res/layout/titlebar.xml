@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayoutTitleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/linearLayoutTitleBarLeftPart"
+            android:layout_width="660dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/BackButton"
+                android:layout_width="80dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="15dp"
+                android:background="@drawable/titlebar_button"
+                android:onClick="onBackButtonClick"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/back"
+                android:textColor="@color/titlebar_btns"
+                android:textSize="15dp" />
+
+            <Button
+                android:id="@+id/HomeButton"
+                android:layout_width="80dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="15dp"
+                android:background="@drawable/titlebar_button"
+                android:onClick="onBackButtonClick"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/menu"
+                android:textColor="@color/titlebar_btns"
+                android:textSize="15dp" />
+            <TextView
+                 android:id="@+id/txtTableNo_Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="@string/table_no"
+                android:textSize="18dp"
+                android:textColor="@color/titlebar_activityTitle"
+                 />
+            <TextView
+                android:id="@+id/txtTableNoValue_Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:textSize="18dp"
+                android:textColor="@color/titlebar_activityTitle"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutTitleBarMiddlePart"
+            android:layout_width="600dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:gravity="center|center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/ActivityTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mainmenu"
+                android:textSize="18dp"
+                android:textColor="@color/titlebar_activityTitle"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutTitleBarRightPart"
+            android:layout_width="660dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:orientation="horizontal" >
+
+            <RelativeLayout
+                android:id="@+id/layoutNotifications_myOrders"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null" >
+
+                <Button
+                    android:id="@+id/MyOrdersButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="0dp"
+                    android:background="@drawable/titlebar_button"
+                    android:onClick="onMyOrderButtonClick"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/my_orders"
+                    android:textColor="@color/titlebar_btns"
+                    android:textSize="15dp" />
+
+                <ImageButton
+                    android:id="@+id/NotificationButton_myordrs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/MyOrdersButton"
+                    android:layout_marginRight="-20dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@null"
+                    android:onClick="onMyOrderButtonClick"
+                    android:src="@drawable/notifiation"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/Notification_myorders_itemcount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/MyOrdersButton"
+                    android:layout_marginRight="-12dp"
+                    android:layout_marginTop="23dp"
+                    android:text="25"
+                    android:textColor="@color/titlebar_notifications"
+                    android:textSize="12dp"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutNotifications_submittedOrders"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null" >
+
+                <Button
+                    android:id="@+id/SubmittedOrdersButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="45dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/titlebar_button"
+                    android:onClick="onSentOrderButtonClick"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingTop="8dp"
+                    android:text="@string/confirmed_orders"
+                    android:textColor="@color/titlebar_btns"
+                    android:textSize="15dp" />
+
+                <ImageButton
+                    android:id="@+id/NotificationButton_submittedOrders"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/SubmittedOrdersButton"
+                    android:layout_marginRight="-20dp"
+                    android:layout_marginTop="14dp"
+                    android:background="@null"
+                    android:onClick="onMyOrderButtonClick"
+                    android:src="@drawable/notifiation"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/Notification_submitorders_itemcount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@+id/SubmittedOrdersButton"
+                    android:layout_marginRight="-12dp"
+                    android:layout_marginTop="23dp"
+                    android:gravity="center"
+                    android:text="05"
+                    android:textColor="@color/titlebar_notifications"
+                    android:textSize="12dp"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <ImageButton
+                android:id="@+id/LanguageButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:background="@null"
+                android:onClick="onLanguageButtonClick"
+                android:scaleType="fitXY" />
+
+            <ImageButton
+                android:id="@+id/SettingsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@null"
+                android:onClick="onSettingsButtonClick"
+                android:src="@drawable/titlebar_settings_button" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

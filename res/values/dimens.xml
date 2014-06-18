@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="imgMainMenuWidth">304</string>
+    <string name="imgMainMenuHeight">500</string>
+    <integer-array name="imgMainMenuSize">
+        <item >304</item>
+        <item >500</item>
+    </integer-array>
+	 <integer-array name="imgMainMenuImageSize">
+        <item >310</item>
+        <item >510</item>
+    </integer-array>
+</resources>

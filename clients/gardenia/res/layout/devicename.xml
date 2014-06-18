@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/setting_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="125dp"
+        android:orientation="vertical"
+        android:padding="50dp" >
+
+        <TextView
+            android:id="@+id/welcomeText_setTable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/welcome_setDevice"
+            android:textColor="@color/devicename_welcomeText"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <!-- The text view for error message -->
+
+        <TextView
+            android:id="@+id/errorDevice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/red_rectangle_button"
+            android:gravity="center"
+            android:padding="20dp"
+            android:textColor="@color/devicename_errordevice"
+            android:textSize="14dp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <!-- The text view for device name -->
+
+            <TextView
+                android:id="@+id/deviceName"
+                android:layout_width="450dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:gravity="right"
+                android:text="@string/device_name"
+                android:textSize="16dp" />
+
+            <!-- The text field for error message -->
+
+            <EditText
+                android:id="@+id/txtdeviceName"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="25dp"
+                android:background="@drawable/roundedtextfield"
+                android:imeOptions="actionDone"
+                android:inputType="text"
+                android:textColor="@color/devicename_editText" >
+
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical" >
+
+            <!-- The button for submit -->
+
+            <Button
+                android:id="@+id/btn_deviceName_submit"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="605dp"
+                android:background="@drawable/green_round_button"
+                android:gravity="center"
+                android:onClick="onSubmitClick"
+                android:text="@string/submit"
+                android:textColor="@color/devicename_btn"
+                android:textStyle="bold" />
+
+            <!-- The button for cancel -->
+
+            <Button
+                android:id="@+id/btn_deviceName_cancel"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/orange_round_button"
+                android:gravity="center"
+                android:onClick="onCancelClick"
+                android:text="@string/cancel"
+                android:textColor="@color/devicename_btn"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/message_setTable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="50dp"
+        android:text="@string/copyrights"
+        android:textColor="@color/devicename_coyrightText"
+        android:textSize="12dp" />
+
+</LinearLayout>

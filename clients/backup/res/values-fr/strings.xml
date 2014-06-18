@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Bonjour tout le monde!</string>
+    <string name="app_name">RestaurantApp</string>
+    <string name="enter_btn_txt">entrer</string>
+    <string name="close">fermer</string>
+    <string name="submit">soumettre</string>
+    <string name="cancel">annuler</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="not_available">Non disponible</string>
+    <string name="cooking">Mode de cuisson</string>
+    <string name="energy">l\'énergie:</string>
+    <string name="price">Prix:</string>
+    <string name="total_price">Prix</string>
+    <string name="order">ajouter à l\'ordre</string>
+    <string name="remove">supprimer</string>
+    <string name="select">sélectionner</string>
+    <string name="quantity">quantité :</string>
+    <string name="total">total</string>
+    <string name="cal">cal</string>
+    <string name="currency">Rs.</string>
+    <string name="item_status">statut de l\'article</string>
+    <string name="items">Articles            : </string>
+    <string name="submit_order">Valider la commande</string>
+    <string name="suggestion_notice">Nous avons remarqué ...</string>
+    <string name="suggestion_yes">OUI S\'IL VOUS PLAÎT</string>
+    <string name="suggestion_no">NON MERCI</string>
+    <string name="items_count">Articles</string>
+    <string name="summery">résumé</string>
+    <string name="orders">COMMANDES</string>
+    <string name="categories">Parcourir les catégories</string>
+    <string name="categories_header">catégories</string>
+    <string name="price_text">PRIX</string>
+    <string name="my_orders">Mes commandes</string>
+    <string name="pending_orders">commandes en attente</string>
+    <string name="sent_orders">Les commandes envoyées</string>
+    <string name="confirmed_orders">Mes commandes envoyés</string>
+    <string name="change_order">changer l\'ordre des</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+    <string name="forget"></string>
+    <string name="back">RETOUR</string>
+    <string name="back_settings">Retour</string>
+    <string name="exit_app">sortie de l\'application</string>
+    <string name="status_pending">en attendant</string>
+    <string name="menu">MENU</string>
+    <string name="suggestions_continue">Continuer à soumettre pour</string>
+    <string name="refresh">Ordre Actualiser</string>
+    <string name="logged_into_server">Connecté au serveur</string>
+    <string name="logged_into_device">Connecté au dispositif</string>
+
+    <!-- string arrays -->
+    <string-array name="portion_sizes">
+        <item>Small Rs.000</item>
+        <item>Regular Rs.000</item>
+        <item>Large Rs.000</item>
+    </string-array>
+
+    <!-- strings for Language Names -->
+    <string name="lang_uk">English (UK)</string>
+    <string name="lang_ch">Chinese</string>
+    <string name="lang_en">Anglais (US)</string>
+    <string name="lang_fr">Française</string>
+
+    <!-- strings for messages -->
+    <string name="welcome">Bienvenue au Café</string>
+    <string name="select_lang">choisissez votre langue</string>
+    <string name="message_lang">En sélectionnant une langue que vous acceptez les termes et conditions</string>
+    <string name="welcome_authentication">l\'authentification serveur</string>
+    <string name="welcome_setTable">Réglez le numéro de table</string>
+    <string name="welcome_setDevice">Définir le nom du périphérique</string>
+    <string name="welcome_settings">Menu Paramètres</string>
+    <string name="copyrights">2012 Café | All rights reserved.</string>
+    <string name="info_on_price">Ce total peut être soumis à des frais autres restaurants.</string>
+    <string name="message">S\'il vous plaît vérifiez les détails de votre commande soigneusement et puis sélectionnez les options de livraison de procéder</string>
+    <string name="suggestion_message_begin">Vous n\'avez pas ordonner à toute </string>
+    <string name="suggestion_message_end">Aimeriez-vous commander maintenant?</string>
+    <string name="confirm_submit_message">Etes-vous sûr de vouloir soumettre les ordres?</string>
+    <string name="confirm_clear_orders">Etes-vous sûr de vouloir effacer toutes les commandes?</string>
+    <string name="clear_order_success">Commander des données supprimé avec succès</string>
+    <string name="clear_order_fail">Impossible d\'effacer les données d\'ordre</string>
+    <string name="exit_confirmation">Etes-vous sûr de vouloir quitter ?</string>
+    <string name="submit_empty_order_message">Ajouter quelques éléments à commander avant de soumettre</string>
+    <string name="set_device_name_succesfully">Réussi à mettre le nom du périphérique</string>
+    <string name="error_sending_order">Une erreur lors de l\'envoi ocured ordre. S\'il vous plaît contactez-serveur.</string>
+	<string name="not_authorized_to_refresh">Vous n\'êtes pas autorisé à rafraîchir ordres. S\'il vous plaît vous connecter.</string>
+    <string name="not_authorized_to_submit">Vous n\'êtes pas autorisé à passer des commandes. S\'il vous plaît vous connecter.</string>
+    <string name="connecting_to_server">Connexion au serveur ...</string>
+    <string name="offlineLogin">Échec de la connexion serveur. Essayer de connexion ... Hors ligne</string>
+    <string name="try_again_to_submit">Un Eroor ocurred lors de l\'envoi de commande. Try Again ...</string>
+    <string name="sending_order">Envoi d\'ordre ...</string>
+    
+    <!-- strings for settings -->
+    <string name="table_no">Nombre de table</string>
+    <string name="device_name">Nom de l\'appareil</string>
+    <string name="waiter_id">ID serveur</string>
+    <string name="access_code">code d\'accès</string>
+    <string name="set_table_no">Définir le nombre tableau</string>
+    <string name="set_device_name">Définir le nom du périphérique</string>
+    <string name="clear_orders">Des ordres clairs</string>
+    <string name="sync_menu">Synchroniser menu</string>
+    <string name="sync_other">Synchroniser les données d\'autres</string>
+
+    <!-- strings for errors -->
+    <string name="error_tableNo">S\'il vous plaît entrer le numéro de tableau!</string>
+    <string name="error_deviceName">S\'il vous plaît entrez le nom du périphérique!</string>
+    <string name="error_bluetooth">Non Compatibilité Bluetooth. Impossible de définir le nom du périphérique.</string>
+    <string name="error_waiterID">S\'il vous plaît entrer l\'ID Serveur!</string>
+    <string name="error_accessCode">S\'il vous plaît entrez le code d\'accès!</string>
+    <string name="inncorrect_username_password">Nom d\'utilisateur ou mot de passe que vous avez entré est incorrect</string>
+
+    <!-- strings for action titles -->
+    <string name="select_language">Sélectionnez la langue</string>
+    <string name="mainmenu">Choisir une catégorie</string>
+    <string name="shopping_cart">panier</string>
+    <string name="my_order">ma commande</string>
+    <string name="my_sent_order">Ma commande envoyés</string>
+    <string name="select_item">Sélectionnez Point</string>
+
+    <!-- strings for header menu items -->
+    <string name="settings">Paramètres</string>
+    <string name="home">maison</string>
+    <string name="language">langue</string>
+
+</resources>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colors for chiled_layout.xml -->
+    <color name="chiled_layout">#000000</color>
+
+    <!-- Colors for descriptions.xml -->
+    <color name="description_foodName">#000</color>
+    <color name="description_foodItemPrice">#757575</color>
+    <color name="description_smallHeaders">#757575</color>
+    <color name="description_viewLine">#c6c6c6</color>
+    <color name="description_descriptionText">#a6a6a6</color>
+    <color name="description_cookingInstructionText">#a6a6a6</color>
+    <color name="description_btn">#FFFFFF</color>
+
+    <!-- Colors for devicename.xml -->
+    <color name="devicename_welcomeText">#FFFFFF</color>
+    <color name="devicename_deviceName">#FFFFFF</color>
+    <color name="devicename_editText">#000000</color>
+    <color name="devicename_btn">#FFFFFF</color>
+    <color name="devicename_coyrightText">#000000</color>
+    <color name="devicename_errordevice">#FFFFFF</color>
+
+    <!-- Colors for dynamicfoodcart.xml -->
+    <color name="dynamicfoodcart_txt_edit_food_name">#000</color>
+    <color name="dynamicfoodcart_txt_edit_food_calory">#757575</color>
+    <color name="dynamicfoodcart_txt_edit_food_price">#000</color>
+    <color name="dynamicfoodcart_textViewFoodItemPrice">#000</color>
+    <color name="dynamicfoodcart_viewLine">#c6c6c6</color>
+
+    <!-- Colors for dynamicfooditems.xml -->
+    <color name="dynamicfooditems_textViewFoodItemName">#000</color>
+    <color name="dynamicfooditems_textViewDescrip">#a6a6a6</color>
+    <color name="dynamicfooditems_textViewNoSizePrice">#000</color>
+    <color name="dynamicfooditems_viewLine">#c6c6c6</color>
+
+    <!-- Colors for dynamicsentorders.xml -->
+    <color name="dynamicsentorders_txt_sent_food_name">#000</color>
+    <color name="dynamicsentorders_txt_sent_Portion">#a6a6a6</color>
+    <color name="dynamicsentorders_txt_sent_food_price">#000</color>
+    <color name="dynamicsentorders_textViewFoodItemPrice">#000</color>
+    <color name="dynamicsentorders_textViewQuentity">#000</color>
+    <color name="dynamicsentorders_itemStatus">#757575</color>
+    <color name="dynamicsentorders_txt_sent_status">#757575</color>
+    <color name="dynamicsentorders_viewLine">#c6c6c6</color>
+
+    <!-- Colors for dynamisizes.xml -->
+    <color name="dynamisizes_txtcolor">#000</color>
+
+    <!-- Colors for group_layout.xml -->
+    <color name="group_layout">#fff</color>
+
+    <!-- Colors for itemsmenuview.xml -->
+    <color name="itemsmenuview_categoryText">#832348</color>
+    <color name="itemsmenuview_viewLine">#4c4c4c</color>
+
+    <!-- Colors for language.xml -->
+    <color name="language_table_no_language">#fff</color>
+    <color name="language_inearLayoutMiddle">#2d3988</color>
+    <color name="language_welcomeText_language">#ffffff</color>
+    <color name="language_selectLang_language">#ffffff</color>
+    <color name="language_message_lan">#fff</color>
+
+    <!-- Colors for login.xml -->
+    <color name="login_mainbackground">#ffffff</color>
+    <color name="login_linearLayoutMiddle">#2d3988</color>
+    <color name="login_welcomeText_login">#ffffff</color>
+    <color name="login_error">#ffffff</color>
+    <color name="login_txtwaiterId">#000000</color>
+    <color name="login_message_lang">#000000</color>
+
+    <!-- Colors for sentorders.xml -->
+    <color name="sentorders_textViewSummery">#fff</color>
+    <color name="sentorders_textViewOrders">#fff</color>
+    <color name="sentorders_textViewPrice">#fff</color>
+    <color name="sentorders_viewWhiteLine">#FFFFFF</color>
+    <color name="sentorders_viewDarkerGrayLine">#c6c6c6</color>
+    <color name="sentorders_textViewPendingOrders">#fff</color>
+
+    <!-- Colors for settable.xml -->
+    <color name="settable_main_background">#ffffff</color>
+    <color name="settable_linearLayoutMiddle">#2d3988</color>
+    <color name="settable_welcomeText_setTable">#ffffff</color>
+    <color name="settable_errorTable">#ffffff</color>
+    <color name="settable_txttableNo">#000000</color>
+    <color name="settable_message_setTable">#000000</color>
+
+    <!-- Colors for settings.xml -->
+    <color name="settings_main_background">#ffffff</color>
+    <color name="settings_linearLayoutMiddle">#2d3988</color>
+    <color name="settings_welcomeText_setTable">#2d3988</color>
+    <color name="settings_btns">#2d3988</color>
+    <color name="settings_btn_settings_exit">#FFFFFF</color>
+    <color name="settings_allRightsReserved">#000000</color>
+     <color name="settings_btn_text">#FFFFFF</color>
+
+    <!-- Colors for splash.xml -->
+    <color name="splash_main_background">#ffffff</color>
+    <color name="splash_linearLayoutMiddle">#2d3988</color>
+    <color name="splash_Loading">#FFFFFF</color>
+    <color name="splash_allRightsReserved">#000000</color>
+
+    <!-- Colors for suggestions.xml -->
+    <color name="suggestions_textViewSummery">#fff</color>
+    <color name="suggestions_textViewOrders">#fff</color>
+    <color name="suggestions_textViewPrice">#fff</color>
+    <color name="suggestions_viewWhiteLine">#FFFFFF</color>
+    <color name="suggestions_viewDarkerGrayLine">#666d80</color>
+    <color name="suggestions_textViewPendingOrders">#ffffff</color>
+    <color name="suggestions_textViewWeNoticed">#000</color>
+    <color name="suggestions_suggMessage">#000</color>
+    <color name="suggestions_btns">#FFFFFF</color>
+
+    <!-- Colors for titlebar.xml -->
+    <color name="titlebar_btns">#FFFFFF</color>
+    <color name="titlebar_notifications">#FFFFFF</color>
+    <color name="titlebar_activityTitle">#FFFFFF</color>
+
+    <!-- Colors for viewfoodcart.xml -->
+    <color name="viewfoodcart_textViewSummery">#fff</color>
+    <color name="viewfoodcart_textViewOrders">#fff</color>
+    <color name="viewfoodcart_textViewPrice">#fff</color>
+    <color name="viewfoodcart_viewWhiteLine">#FFFFFF</color>
+    <color name="viewfoodcart_viewDarkerGrayLine">#c6c6c6</color>
+    <color name="viewfoodcart_textViewPendingOrders">#ffffff</color>
+    <color name="viewfoodcart_btns">#FFFFFF</color>
+    <color name="viewfoodcart_textViewHeader">#FFFFFF</color>
+
+    <!-- Colors for black_button_background.xml -->
+    <color name="blackBtnBack_endColor">#7d7e7d</color>
+    <color name="blackBtnBack_centerColor">#0e0e0e</color>
+    <color name="blackBtnBack_startColor">#0e0e0e</color>
+    <color name="blackBtnBack_strokeColor">#000</color>
+
+    <!-- Colors for blue_button_background_normal.xml -->
+    <color name="blueBtnBackNormal_endColor">#7d7e7d</color>
+    <color name="blueBtnBackNormal_startColor">#0e0e0e</color>
+    <color name="blueBtnBackNormal_strokeColor">#000</color>
+
+    <!-- Colors for blue_button_background_pressed.xml -->
+    <color name="blueBtnBackPressed_endColor">#0e0e0e</color>
+    <color name="blueBtnBackPressed_startColor">#0e0e0e</color>
+    <color name="blueBtnBackPressed_strokeColor">#000</color>
+
+    <!-- Colors for corners.xml -->
+    <color name="corners_strokeColor">#424242</color>
+    <color name="corners_solidColor">#ffffff</color>
+
+    <!-- Colors for gray_button_background.xml -->
+    <color name="grayBtnBack_endColor">#7d7e7d</color>
+    <color name="grayBtnBack_centerColor">#0e0e0e</color>
+    <color name="grayBtnBack_startColor">#0e0e0e</color>
+    <color name="grayBtnBack_strokeColor">#000</color>
+
+    <!-- Colors for green_rectangle_button_normal.xml -->
+    <color name="greenRectBtnNormal_endColor">#7d7e7d</color>
+    <color name="greenRectBtnNormal_startColor">#0e0e0e</color>
+    <color name="greenRectBtnNormal_strokeColor">#000</color>
+
+    <!-- Colors for green_rectangle_button_pressed.xml -->
+    <color name="greenRectBtnPressed_endColor">#0e0e0e</color>
+    <color name="greenRectBtnPressed_startColor">#0e0e0e</color>
+    <color name="greenRectBtnPressed_strokeColor">#000</color>
+
+    <!-- Colors for green_round_button_normal.xml -->
+    <color name="greenRoundBtnNormal_endColor">#7d7e7d</color>
+    <color name="greenRoundBtnNormal_startColor">#0e0e0e</color>
+    <color name="greenRoundBtnNormal_strokeColor">#000</color>
+
+    <!-- Colors for green_round_button_pressed.xml -->
+    <color name="greenRoundBtnPressed_endColor">#0e0e0e</color>
+    <color name="greenRoundBtnPressed_startColor">#0e0e0e</color>
+    <color name="greenRoundBtnPressed_strokeColor">#000</color>
+
+    <!-- Colors for main_menu_names_background.xml -->
+    <color name="mainmenuNameBack_endColor">#515151</color>
+    <color name="mainmenuNameBack_startColor">#2b2b2b</color>
+
+    <!-- Colors for orange_rectangle_button_normal.xml -->
+    <color name="OrangeRectBtnNormal_endColor">#7d7e7d</color>
+    <color name="OrangeRectBtnNormal_startColor">#0e0e0e</color>
+    <color name="OrangeRectBtnNormal_strokeColor">#000</color>
+
+    <!-- Colors for orange_rectangle_button_pressed.xml -->
+    <color name="OrangeRectBtnPressed_endColor">#0e0e0e</color>
+    <color name="OrangeRectBtnPressed_startColor">#0e0e0e</color>
+    <color name="OrangeRectBtnPressed_strokeColor">#000</color>
+
+    <!-- Colors for orange_round_button_normal.xml -->
+    <color name="OrangeRoundBtnNormal_endColor">#7d7e7d</color>
+    <color name="OrangeRoundBtnNormal_startColor">#0e0e0e</color>
+    <color name="OrangeRoundBtnNormal_strokeColor">#000</color>
+
+    <!-- Colors for orange_round_button_pressed.xml -->
+    <color name="OrangeRoundBtnPressed_endColor">#0e0e0e</color>
+    <color name="OrangeRoundBtnPressed_startColor">#0e0e0e</color>
+    <color name="OrangeRoundBtnPressed_strokeColor">#000</color>
+
+    <!-- Colors for radoi_background.xml -->
+    <color name="radioBack_endColor">#7d7e7d</color>
+    <color name="radioBack_startColor">#0e0e0e</color>
+    <color name="radioBack_strokeColor">#000</color>
+
+    <!-- Colors for restangle_border.xml -->
+    <color name="rectBorder_StrokeColor">#000000</color>
+    <color name="rectBorder_SolidColor">#ffffff</color>
+
+    <!-- Colors for red_rectangle_button_normal.xml -->
+    <color name="RedRectBtnNormal_endColor">#7d7e7d</color>
+    <color name="RedRectBtnNormal_startColor">#0e0e0e</color>
+    <color name="RedRectBtnNormal_strokeColor">#000</color>
+
+    <!-- Colors for red_rectangle_button_pressed.xml -->
+    <color name="RedRectBtnPressed_endColor">#491111</color>
+    <color name="RedRectBtnPressed_startColor">#491111</color>
+    <color name="RedRectBtnPressed_strokeColor">#1e0707</color>
+
+    <!-- Colors for red_round_button_normal.xml -->
+    <color name="RedRoundBtnNormal_endColor">#000</color>
+    <color name="RedRoundBtnNormal_startColor">#000</color>
+    <color name="RedRoundBtnNormal_strokeColor">#000</color>
+
+    <!-- Colors for red_round_button_pressed.xml -->
+    <color name="RedRoundBtnPressed_endColor">#491111</color>
+    <color name="RedRoundBtnPressed_startColor">#491111</color>
+    <color name="RedRoundBtnPressed_strokeColor">#1e0707</color>
+
+    <!-- Colors for roundedbuttons.xml -->
+    <color name="roundedButtons_solidColor">#C2C2C2</color>
+
+    <!-- Colors for roundedtextfield.xml -->
+    <color name="roundedTextfield_solidColor">#FFFFFF</color>
+    
+    <!-- Colors for roundedtextfield inside -->
+    <color name="roundedTextfieldInside_solidColor">#000000</color>
+    <color name="roundedTextfieldInside_TextColor">#fff</color>
+
+    <!-- Colors for scroll_vertical_thumb.xml -->
+    <color name="scrollThumb_endColor">#949494</color>
+    <color name="scrollThumb_startColor">#1F1F1F</color>
+
+    <!-- Colors for selected_radio_background.xml -->
+    <color name="selectedRadio_solidColor">#131313</color>
+    <color name="selectedRadio_strokeColor">#000</color>
+
+    <!-- Colors for title_bar_gradient.xml -->
+    <color name="titlebarGrad_endColor">#545454</color>
+    <color name="titlebarGrad_startColor">#1e1e1e</color>
+
+    <!-- Colors for transparentcornerback.xml -->
+    <color name="transparentcornerback_solidColor">#00000000</color>
+    <color name="transparentcornerback_strokeColor">#ffffff</color>
+    
+    <color name="white_background">#ffffff</color>
+	<color name="white_text">#ffffff</color>
+	<color name="itemview_menu">#832348</color>
+</resources>
