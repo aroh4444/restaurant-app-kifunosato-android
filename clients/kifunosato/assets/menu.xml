@@ -525,7 +525,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -535,7 +535,7 @@
 					<isEnable>true</isEnable>
 					<price>756</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -556,7 +556,7 @@
 					<isEnable>true</isEnable>
 					<price>756</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -577,7 +577,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -603,7 +603,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -613,7 +613,7 @@
 					<isEnable>true</isEnable>
 					<price>400</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -651,7 +651,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -661,7 +661,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>																    
@@ -681,7 +681,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>																    
@@ -701,7 +701,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>											    
@@ -726,7 +726,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -736,7 +736,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -756,7 +756,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -776,7 +776,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -796,7 +796,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -816,7 +816,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -841,7 +841,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -851,7 +851,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -877,7 +877,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -903,7 +903,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -929,7 +929,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -955,7 +955,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -986,7 +986,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -996,7 +996,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1027,7 +1027,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1058,7 +1058,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1089,7 +1089,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1125,7 +1125,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>default</location>
+				<location>kifunosato_default</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -1135,7 +1135,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1155,7 +1155,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1175,7 +1175,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1195,7 +1195,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1215,7 +1215,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>default</location>
+						<location>kifunosato_default</location>
 						<type>png</type>
 					</image>
 					<options>
