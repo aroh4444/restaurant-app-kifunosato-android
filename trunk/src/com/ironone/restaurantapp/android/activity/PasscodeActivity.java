@@ -12,6 +12,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class PasscodeActivity extends Activity {
 
@@ -40,6 +41,7 @@ public class PasscodeActivity extends Activity {
 
 	public void onSubmitClick(View v) {
 
+		//Toast.makeText(this, "00", Toast.LENGTH_SHORT).show();
 		EditText passCodeView = (EditText) findViewById(R.id.txtAccessCodePasscode);
 
 		if (passCodeView.getText().toString().equals("")) {
@@ -72,7 +74,11 @@ public class PasscodeActivity extends Activity {
 
 		} catch (ActivityNotFoundException e) {
 			Log.e(TAG + "/onSubmitClick()", e.getMessage());
+			//Toast.makeText(this, "11"+e.getMessage(), Toast.LENGTH_LONG).show();
+		} catch (Exception e) {
+			//Toast.makeText(this, "22"+e.getMessage(), Toast.LENGTH_LONG).show();
 		}
+		
 	}
 
 	public void onCancelClick(View v) {
