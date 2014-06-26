@@ -23,6 +23,7 @@ import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
+import android.widget.ImageView.ScaleType;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -235,12 +236,13 @@ public class RestaurantItem extends TitleBar {
 
 			ImageView foodImg = (ImageView) layout.findViewById(R.id.img_food);
 			bm_item = Image.decodeSampledBitmapFromResource(itemList.get(i)
-					.getImage().getLocation(), 200, 200);
+					.getImage().getLocation(), 160, 160);
 
 			Bitmap finalBitmap = null;
 
 			try {
 				finalBitmap = Bitmap.createBitmap(bm_item, 24, 44, 120, 72);
+				foodImg.setScaleType(ScaleType.FIT_CENTER);
 				foodImg.setImageBitmap(finalBitmap);
 			} catch (Exception e) {
 				Log.d(TAG, itemList.get(i).getName() + " image not found");
@@ -332,7 +334,6 @@ public class RestaurantItem extends TitleBar {
 					} catch (ActivityNotFoundException e) {
 						Log.e(TAG, e.getMessage());
 					}
-
 				}
 			});
 
