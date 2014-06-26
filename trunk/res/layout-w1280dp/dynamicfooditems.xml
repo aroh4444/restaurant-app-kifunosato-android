@@ -111,6 +111,7 @@
                 android:layout_gravity="center_vertical"
                 android:layout_marginRight="20dp"
                 android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
                 android:background="@drawable/round_corners" />
         </LinearLayout>
     </LinearLayout>

@@ -525,7 +525,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>kifunosato_default</location>
+				<location>kifunosato_menu_item5</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -535,7 +535,7 @@
 					<isEnable>true</isEnable>
 					<price>756</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>kirin_classic_larger</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -556,7 +556,7 @@
 					<isEnable>true</isEnable>
 					<price>756</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>asahi_super_dry</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -577,7 +577,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>draft_beer_kirin_ichiban</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -603,7 +603,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>kifunosato_default</location>
+				<location>kifunosato_menu_item6</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -613,7 +613,7 @@
 					<isEnable>true</isEnable>
 					<price>400</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>reishi</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -651,7 +651,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>kifunosato_default</location>
+				<location>kifunosato_menu_item7</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -661,7 +661,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>lemon</location>
 						<type>png</type>
 					</image>
 					<options>																    
@@ -681,7 +681,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>plum</location>
 						<type>png</type>
 					</image>
 					<options>																    
@@ -701,7 +701,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>japanese_milk_based_soft_drink</location>
 						<type>png</type>
 					</image>
 					<options>											    
@@ -726,7 +726,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>kifunosato_default</location>
+				<location>kifunosato_menu_item8</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -736,7 +736,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>oolong_tea</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -756,7 +756,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>coke</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -776,7 +776,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>orange_juice</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -796,7 +796,7 @@
 					<isEnable>true</isEnable>
 					<price>324</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>soda</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -816,7 +816,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>alcohol-free_beer_kirin_free</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -841,7 +841,7 @@
 			<price></price>
 			<isSuggestion>false</isSuggestion>
 			<image>
-				<location>kifunosato_default</location>
+				<location>kifunosato_menu_item9</location>
 				<type>png</type>
 			</image>
 			<items>
@@ -851,7 +851,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>sakushumusashi_pure_rice_premium_brew_sake</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -877,7 +877,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>gozenshu_mimasaka_pure_rice_premium_brew_sake</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -903,7 +903,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>musashinosatouiquality_sake_brewed_with_very_highly_polished</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -929,7 +929,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>kamoitsuha</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -955,7 +955,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>hot_sake_satsuki_kokoro</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -996,7 +996,7 @@
 					<isEnable>true</isEnable>
 					<price>648</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>iichiko_made_from_barley</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1027,7 +1027,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>kaminokawa_made_from_barley</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1058,7 +1058,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>kuro_kirishima_made_from_barley</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1089,7 +1089,7 @@
 					<isEnable>true</isEnable>
 					<price></price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>momo_chu_uipeach_shochu</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1135,7 +1135,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>koresato_wine_muscat_grapes_white_sweet</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1175,7 +1175,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>baron_de_lesac_white_dry</location>
 						<type>png</type>
 					</image>
 					<options>
@@ -1195,7 +1195,7 @@
 					<isEnable>true</isEnable>
 					<price>2160</price>
 					<image>
-						<location>kifunosato_default</location>
+						<location>baron_de_lesac_red_medium</location>
 						<type>png</type>
 					</image>
 					<options>
